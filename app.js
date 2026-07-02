@@ -16,7 +16,9 @@
     "Government, Health & Science": "#3ecfb2",
     "Economy, Tariffs & Foreign Policy": "#5b9cff",
     "Press, Speech & Democracy": "#b78bff",
-    "Promises vs. Reality": "#ff6bb5"
+    "Promises vs. Reality": "#ff6bb5",
+    "Civil Rights & Culture": "#58d68d",
+    "Military & National Security": "#aab4c4"
   };
   const catColor = c => CAT_COLORS[c] || "#e8493a";
 
@@ -44,6 +46,11 @@
   if (tickerInner && entries.length) {
     const titles = entries.map(e => e.title).sort(() => Math.random() - 0.5);
     tickerInner.innerHTML = titles.map(t => `<span>${escapeHtml(t)}</span>`).join("");
+    // pace the crawl at a constant speed no matter how many headlines are loaded
+    requestAnimationFrame(() => {
+      const SPEED = 45; // pixels per second
+      tickerInner.style.animationDuration = Math.round(tickerInner.scrollWidth / SPEED) + "s";
+    });
   }
 
   // ── category chips ──
@@ -178,6 +185,19 @@
   if (location.hash.length > 1) {
     setTimeout(() => revealEntry(location.hash.slice(1)), 50);
   }
+
+  // keyboard: "/" focuses search, Escape clears it
+  document.addEventListener("keydown", ev => {
+    if (ev.key === "/" && document.activeElement !== searchEl) {
+      ev.preventDefault();
+      searchEl.focus();
+    } else if (ev.key === "Escape" && document.activeElement === searchEl) {
+      searchEl.value = "";
+      query = "";
+      render();
+      searchEl.blur();
+    }
+  });
 
   // ── helpers ──
   function slug(s) {
