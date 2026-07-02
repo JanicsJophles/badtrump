@@ -65,6 +65,27 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2026-06-30",
+    "category": "Civil Rights & Culture",
+    "title": "Supreme Court upholds state bans on transgender athletes in women's sports",
+    "summary": "In West Virginia v. B.P.J. and Little v. Hecox, the Supreme Court ruled 6-3 that states may bar transgender girls and women from female school sports teams.",
+    "details": "The consolidated cases, granted review in July 2025 and argued January 13, 2026, involved B.P.J., a transgender middle schooler in West Virginia, and Lindsay Hecox, a Boise State University runner challenging Idaho's 2020 law — the first statewide transgender sports ban in the country. On June 30, 2026, Justice Brett Kavanaugh wrote for a 6-3 majority that laws limiting girls' and women's teams to students assigned female at birth do not violate the Constitution's Equal Protection Clause, with the three liberal justices dissenting on that question; the Court also rejected the claim that the laws violate Title IX. The ruling cleared the way for enforcement of similar laws in more than two dozen states and complemented the administration's February 2025 executive order pressing schools and the NCAA to exclude transgender athletes. It came one year after the Court's Skrmetti decision upholding state bans on gender-affirming care for minors.",
+    "sources": [
+      {
+        "name": "Supreme Court of the United States",
+        "url": "https://www.supremecourt.gov/opinions/25pdf/24-43_2b35.pdf"
+      },
+      {
+        "name": "SCOTUSblog",
+        "url": "https://www.scotusblog.com/2026/01/the-transgender-athlete-cases-an-explainer/"
+      },
+      {
+        "name": "National Constitution Center",
+        "url": "https://constitutioncenter.org/blog/unpacking-the-transgender-athletes-case-at-the-supreme-court"
+      }
+    ]
+  },
+  {
     "date": "2026-06-29",
     "category": "Government, Health & Science",
     "title": "Supreme Court overturns Humphrey's Executor, expands firing power",
@@ -330,6 +351,27 @@ window.ENTRIES = [
       {
         "name": "American Immigration Council",
         "url": "https://www.americanimmigrationcouncil.org/blog/ice-arrest-statistics-americans-noncriminals/"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-03",
+    "category": "Military & National Security",
+    "title": "Military purge continues into 2026 as Army chief of staff ousted",
+    "summary": "Hegseth fired Army Chief of Staff Gen. Randy George and two other generals in April 2026, extending a leadership purge that by spring 2026 had removed or sidelined dozens of generals and admirals and drawn bipartisan alarm in Congress.",
+    "details": "The April 2026 firings — George, Army chief of chaplains Maj. Gen. William Green Jr., and Gen. David Hodne, head of Army Transformation and Training Command — came with little public explanation and in the middle of an ongoing foreign conflict. They followed a May 2025 Hegseth directive cutting at least 20 percent of four-star positions ('less generals, more GIs') and a November 2025 wave in which the New York Times reported dozens of officials were fired or sidelined, creating what it described as an atmosphere of anxiety and mistrust inside the Pentagon. By one count cited by critics, nearly three dozen general officers and admirals had been fired or sidelined since January 2025, and promotions for roughly 40 colonels and Navy captains selected for flag rank were blocked. Retired Gen. Stanley McChrystal warned the unpredictable removals risked 'irreversible damage' to the officer corps, and lawmakers from both parties proposed guardrails, warning the exodus of senior leaders could impair decision-making during wartime. Departures of senior officers continued into mid-2026.",
+    "sources": [
+      {
+        "name": "Time",
+        "url": "https://time.com/article/2026/04/03/hegseth-army-firings-chief-of-staff/"
+      },
+      {
+        "name": "Newsweek",
+        "url": "https://www.newsweek.com/hegseth-pentagon-firings-generals-bipartisan-guardrails-12133372"
+      },
+      {
+        "name": "The Daily Beast",
+        "url": "https://www.thedailybeast.com/pentagon-petes-unpredictable-general-purges-threaten-irreversible-damage/"
       }
     ]
   },
@@ -624,6 +666,27 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2026-01-15",
+    "category": "Military & National Security",
+    "title": "Trump threatens Insurrection Act over Minneapolis; Pentagon readies troops",
+    "summary": "After an ICE officer fatally shot a Minneapolis woman and protests spread, Trump threatened on Truth Social to invoke the Insurrection Act against Minnesota, and the Pentagon put 1,500 active-duty soldiers on standby.",
+    "details": "Protests erupted across the Twin Cities after ICE agents shot and killed Renee Good, a 37-year-old mother observing an immigration operation, on January 7, 2026. Trump wrote that if Minnesota's 'corrupt politicians' did not stop 'insurrectionists' interfering with ICE, he would 'institute the INSURRECTION ACT' — the 1807 law that lets a president deploy the active-duty military domestically and which has been invoked only about 30 times, most recently during the 1992 Los Angeles riots. The Pentagon readied 1,500 soldiers, including elements of the Alaska-based 11th Airborne Division, for possible deployment, while Governor Tim Walz mobilized the Minnesota National Guard under state control and Attorney General Keith Ellison vowed an immediate court challenge. Trump walked the threat back a day later, saying he saw no reason to invoke it 'right now,' and as of mid-2026 the act had not been invoked, though the administration continued to raise it. Legal scholars broadly said conditions in Minnesota did not meet the law's requirements of rebellion or obstruction of federal law.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/01/15/nx-s1-5678612/minneapolis-insurrection-act-trump-threats"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/01/18/nx-s1-5681372/us-military-troops-on-standby-for-possible-deployment-to-minnesota"
+      },
+      {
+        "name": "FactCheck.org",
+        "url": "https://www.factcheck.org/2026/01/the-threat-of-the-insurrection-act-in-minnesota/"
+      }
+    ]
+  },
+  {
     "date": "2026-01-07",
     "category": "Immigration & Enforcement",
     "title": "Federal agents' shootings kill U.S. citizens Renée Good and Alex Pretti",
@@ -725,6 +788,27 @@ window.ENTRIES = [
       {
         "name": "Brennan Center for Justice",
         "url": "https://www.brennancenter.org/our-work/analysis-opinion/trump-v-illinois-narrow-supreme-court-decision-broad-implications-0"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-16",
+    "category": "Press, Speech & Democracy",
+    "title": "Trump sues BBC for $10 billion over edited January 6 speech",
+    "summary": "After a BBC documentary spliced together parts of his January 6 speech, Trump's legal threats helped force out the BBC's two top news executives — then he sued for $10 billion anyway.",
+    "details": "A BBC Panorama documentary aired before the 2024 election edited together portions of Trump's January 6, 2021 speech delivered roughly 50 minutes apart, making it appear he directly told supporters he would walk with them to the Capitol to 'fight like hell.' When a leaked internal memo surfaced in November 2025, Director-General Tim Davie and BBC News CEO Deborah Turness resigned within days — one of the gravest crises in the broadcaster's history. The BBC apologized for the edit but said there was no basis for defamation; Trump's lawyers first threatened a $1 billion claim, then filed suit in federal court in Miami on December 15, 2025, seeking $5 billion on each of two counts — defamation and violation of Florida's trade-practices law. The BBC, which is funded by British license-fee payers, said it would defend the case and moved to dismiss in early 2026, arguing among other things that the documentary never aired in the United States through BBC channels.",
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2025/12/16/trump-bbc-panorama-election-defamation-lawsuit.html"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/12/16/nx-s1-5645649/trump-sues-bbc"
+      },
+      {
+        "name": "Variety",
+        "url": "https://variety.com/2025/tv/news/trump-sues-bbc-10-billion-damages-edited-jan-6-panorama-documentary-1236609532/"
       }
     ]
   },
@@ -897,6 +981,69 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2025-11-10",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Syria sanctions lifted; al-Sharaa makes first Syrian White House visit",
+    "summary": "Trump lifted decades of U.S. sanctions on Syria and hosted President Ahmed al-Sharaa — a former al-Qaeda-linked insurgent once under a $10 million U.S. bounty — in the first-ever White House visit by a Syrian head of state.",
+    "details": "After rebels led by al-Sharaa's Hayat Tahrir al-Sham toppled Bashar al-Assad in December 2024, Trump announced in Riyadh in May 2025 that he would lift sanctions to give Syria 'a chance at greatness,' meeting al-Sharaa there — the first U.S.-Syria leaders' meeting in 25 years — and signing an executive order ending the sanctions program in June. Al-Sharaa, formerly known as Abu Mohammed al-Jolani, founded the al-Nusra Front, al-Qaeda's Syrian branch, fought U.S. forces in Iraq, spent years in American detention, and had a $10 million U.S. bounty on him until December 2024. The UN Security Council voted to delist him on November 6, 2025, and the U.S. removed its remaining sanctions on him the next week. On November 10, 2025, he became the first Syrian president ever received at the White House, where Syria agreed to join the U.S.-led coalition against ISIS; permanent repeal of the Caesar Act sanctions required action by Congress.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/11/10/g-s1-97172/syria-sharaa-trump-white-house"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2025/11/6/unsc-votes-to-drop-sanctions-on-syrias-al-sharaa-ahead-of-washington-visit"
+      },
+      {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2025/11/07/un-lifts-sanctions-against-syrias-al-sharaa-before-historic-white-house-visit"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-09",
+    "category": "Promises vs. Reality",
+    "title": "Promised $2,000 'tariff dividend' checks never materialize",
+    "summary": "Trump promised a $2,000 'tariff dividend' check for most Americans in November 2025; by mid-2026 no checks existed — and the Supreme Court had ruled the underlying tariffs illegal.",
+    "details": "In November 2025, Trump posted that everyone except high-income Americans would receive a $2,000 dividend paid from tariff revenue. Any such payment requires Congress to pass legislation authorizing and funding it; no bill passed, the Treasury was never authorized to send checks, and Treasury Secretary Scott Bessent suggested the 'dividend' might just take the form of tax provisions rather than actual checks. On February 20, 2026, the Supreme Court ruled 6-3 that the International Emergency Economic Powers Act never gave the president power to impose his sweeping 'reciprocal' and fentanyl tariffs, invalidating the main revenue stream behind the promise. An estimated $175 billion or more collected under those tariffs became refundable — but to the importers who paid the duties, not to consumers, with Customs and Border Protection opening a refund process in spring 2026. As of June 2026, no tariff dividend checks had been scheduled or sent.",
+    "sources": [
+      {
+        "name": "The Hill",
+        "url": "https://thehill.com/homenews/nexstar_media_wire/5660951-where-does-trumps-2000-tariff-rebate-promise-stand-heading-into-2026/"
+      },
+      {
+        "name": "Penn Wharton Budget Model",
+        "url": "https://budgetmodel.wharton.upenn.edu/p/2026-02-20-supreme-court-tariff-ruling/"
+      },
+      {
+        "name": "Holland &amp; Knight",
+        "url": "https://www.hklaw.com/en/insights/publications/2026/02/supreme-court-strikes-down-ieepa-tariffs"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-04",
+    "category": "Press, Speech & Democracy",
+    "title": "Democrats sweep first major elections of Trump's second term",
+    "summary": "Democrats won the New York mayoralty, both governorships and other contests in November 2025, widely read as a backlash against the administration. Trump said his absence from the ballot and the government shutdown explained the losses.",
+    "details": "Zohran Mamdani, a 34-year-old democratic socialist, beat former Gov. Andrew Cuomo to become New York City's first Muslim and first South Asian mayor, despite Trump calling him a 'communist,' endorsing Cuomo on election eve and threatening to limit federal funds to the city if he won. Abigail Spanberger won Virginia's governorship — the first woman to hold it — and Mikie Sherrill won New Jersey, both by double digits, while California voters approved Proposition 50. Trump posted that 'TRUMP WASN'T ON THE BALLOT, AND SHUTDOWN, WERE THE TWO REASONS THAT REPUBLICANS LOST ELECTIONS TONIGHT,' citing unnamed pollsters, and renewed calls to end the Senate filibuster. Weeks later, Mamdani met Trump at the White House in a notably cordial Oval Office session; both men called the meeting productive, and Mamdani later described the relationship as 'honest, direct and productive.'",
+    "sources": [
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2025/11/05/trump-shutdown-election-democrats-republicans"
+      },
+      {
+        "name": "ABC News",
+        "url": "https://abcnews.com/Politics/trump-dismisses-bad-election-results-blaming-ballot-shutdown/story?id=127202200"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/politics-news/nyc-mayor-zohran-mamdani-relationship-trump-rcna340810"
+      }
+    ]
+  },
+  {
     "date": "2025-11",
     "category": "Government, Health & Science",
     "title": "Measles returns at record levels amid falling vaccination",
@@ -960,6 +1107,27 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2025-10-26",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Trump's peace-deal record: real accords, disputed claims, Nobel campaign",
+    "summary": "The administration brokered or claimed credit for a string of ceasefires and peace agreements in 2025 — some substantive, some disputed or short-lived — while Trump openly campaigned for a Nobel Peace Prize that went to Venezuela's María Corina Machado.",
+    "details": "In May 2025 a ceasefire ended four days of India-Pakistan fighting; Trump claimed he brokered it using trade leverage, Pakistan nominated him for the Nobel, but India insisted the deal was reached bilaterally without U.S. mediation. The U.S. mediated a Democratic Republic of Congo-Rwanda peace agreement signed in Washington in June 2025, hosted an August 2025 Armenia-Azerbaijan summit producing a framework that includes a transit corridor named the 'Trump Route for International Peace and Prosperity,' and pressed Thailand and Cambodia — partly with tariff threats — into a July ceasefire and an October accord signed in Kuala Lumpur. Fighting later flared again between Thailand and Cambodia and in eastern Congo, and fact-checkers rated Trump's claim of having 'ended seven wars' as misleading, since several were short conflicts, unfinished frameworks or disputed credits. Trump publicly campaigned for the 2025 Nobel Peace Prize, which instead went to Venezuelan opposition leader María Corina Machado; she dedicated it to the people of Venezuela and to Trump, and in January 2026 presented him her medal at the White House.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/12/12/nx-s1-5638509/trump-peace-deals"
+      },
+      {
+        "name": "Time",
+        "url": "https://time.com/7339536/trump-peace-deals-conflicts-status-thailand-cambodia/"
+      },
+      {
+        "name": "PBS News",
+        "url": "https://www.pbs.org/newshour/world/watch-machado-tells-reporters-why-she-presented-her-nobel-peace-prize-to-trump"
+      }
+    ]
+  },
+  {
     "date": "2025-10-23",
     "category": "Crypto & Personal Profit",
     "title": "East Wing demolished for ballroom funded by corporate donors",
@@ -998,6 +1166,27 @@ window.ENTRIES = [
       {
         "name": "FactCheck.org",
         "url": "https://www.factcheck.org/2025/11/addressing-trumps-claims-about-the-pardon-of-binance-founder/"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "category": "Crypto & Personal Profit",
+    "title": "Trump seeks $230 million payout from his own Justice Department",
+    "summary": "Trump pressed claims demanding the Justice Department pay him $230 million in taxpayer money over past investigations — with his own appointees, including his former defense lawyer, positioned to decide.",
+    "details": "Before taking office, Trump filed two administrative claims (in 2023 and 2024) seeking roughly $230 million from the federal government over the FBI's Russia investigation and the 2022 Mar-a-Lago classified-documents search, one accusing officials of 'malicious prosecution.' The demands became public in October 2025, when Trump confirmed he 'could be' seeking the money and said any payout might go to charity. Deciding the claims falls to DOJ officials Trump appointed — including Deputy Attorney General Todd Blanche, who was Trump's personal criminal defense lawyer in the very documents case at issue — and the administration had fired the department's top career ethics official who would normally advise on such conflicts. House and Senate Judiciary Democrats opened investigations, calling the demand corrupt. As of early 2026 no settlement had been announced, but NPR reported Trump had expanded his effort, filing a new $10 billion claim against the government over the 2019 leak of his tax returns by an IRS contractor.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/10/22/politics/trump-doj-request-230-mil-explained"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/02/18/nx-s1-5702503/trump-government-lawsuits-pay-himself-billions"
+      },
+      {
+        "name": "The Hill",
+        "url": "https://thehill.com/homenews/administration/5582035-trump-justice-department-settlement-claim-ethics/"
       }
     ]
   },
@@ -1187,6 +1376,27 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2025-09-30",
+    "category": "Military & National Security",
+    "title": "Hundreds of generals summoned to Quantico for loyalty-tinged speeches",
+    "summary": "Hegseth ordered roughly 800 generals, admirals, and senior enlisted leaders to fly in from around the world for a speech on 'warrior ethos,' where Trump told them US cities should be used as 'training grounds' for the military against 'the enemy from within.'",
+    "details": "The unprecedented short-notice gathering at Marine Corps Base Quantico pulled commanders from posts worldwide with no advance explanation, at significant travel cost. Hegseth declared 'the era of the Department of Defense is over,' railed against 'woke' policies and 'gender delusions,' and announced directives raising physical fitness standards to a single 'male level,' tightening grooming rules, and loosening rules of engagement, telling officers who disagreed they should resign. Trump then told the assembled brass that dangerous, Democratic-run American cities should serve as 'training grounds for our military' and described an 'enemy from within' — remarks that alarmed civil-military relations experts because they cast the military in a domestic political role. The audience remained largely silent through both speeches, as military custom holds that officers stay nonpartisan. Hegseth later made a recording of his speech required viewing for the entire force.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/09/30/nx-s1-5558131/what-trump-and-hegseth-told-top-military-commanders-in-unusual-quantico-gathering"
+      },
+      {
+        "name": "Stars and Stripes",
+        "url": "https://www.stripes.com/theaters/us/2025-09-30/generals-meeting-trump-hegseth-quantico-19272259.html"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/10/15/nx-s1-5575528/hegseth-order-troops-quantico-speech"
+      }
+    ]
+  },
+  {
     "date": "2025-09-25",
     "category": "Pardons & Rule of Law",
     "title": "James Comey indicted days after Trump publicly demanded charges",
@@ -1225,6 +1435,27 @@ window.ENTRIES = [
       {
         "name": "Brennan Center for Justice",
         "url": "https://www.brennancenter.org/our-work/research-reports/trumps-orders-targeting-antifascism-aim-criminalize-opposition"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-25",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "TikTok handed to Oracle-led group after repeated deadline extensions",
+    "summary": "Trump repeatedly declined to enforce the bipartisan TikTok divest-or-ban law, then blessed a deal handing TikTok's U.S. business to a consortium led by Oracle, Silver Lake and Abu Dhabi's MGX.",
+    "details": "Congress's divest-or-ban law took effect January 19, 2025, but Trump signed an executive order on day one keeping TikTok running, followed by three more extensions that legal scholars said had no clear statutory basis. On September 25, 2025, he signed an order declaring a framework deal a 'qualified divestiture'; final agreements were signed December 18, 2025, and the deal closed January 22, 2026. The new TikTok USDS Joint Venture, valued at about $14 billion, is 45% owned by Oracle, Silver Lake and MGX (15% each), with ByteDance keeping 19.9%. MGX is the same Abu Dhabi state fund that used the Trump family's USD1 stablecoin for a $2 billion investment in Binance, and Oracle founder Larry Ellison is a longtime Trump ally. ByteDance retains ownership of TikTok's algorithm and licenses it to the new venture, which will retrain a copy on U.S. data. Lawmakers in both parties, including Rep. John Moolenaar and Sen. Ed Markey, questioned whether that arrangement actually satisfies the law, which bars any operational relationship on the algorithm with a foreign-adversary-controlled company.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/12/18/nx-s1-5648844/tiktok-deal-oracle-trump"
+      },
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2025/12/19/tiktok-agrees-u-s-joint-venture-deal-with-oracle-silver-lake-and-mgx/"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/01/23/heres-whats-you-should-know-about-the-us-tiktok-deal/"
       }
     ]
   },
@@ -1292,6 +1523,90 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2025-09-15",
+    "category": "Press, Speech & Democracy",
+    "title": "Trump files $15 billion defamation suit against New York Times",
+    "summary": "Trump sued the New York Times, three reporters and Penguin Random House for $15 billion over 2024 campaign coverage; a judge threw out the first complaint as improper, and Trump refiled.",
+    "details": "The September 2025 suit targeted Times coverage of Trump's finances and the 2024 campaign, including reporting behind the book 'Lucky Loser.' Days later, U.S. District Judge Steven Merryday — without reaching the merits — struck the 85-page complaint as 'decidedly improper and impermissible,' saying it read as political invective rather than a legal filing, and gave Trump's lawyers 28 days to refile in no more than 40 pages. Trump refiled a narrowed 40-page complaint on October 16, 2025, dropping one reporter and reorganizing the claims. The case was then routed to mediation before further proceedings. The suit is part of a pattern of sitting-president litigation against news organizations — alongside cases against ABC, CBS/Paramount, the Wall Street Journal and the BBC — that press-freedom groups say is designed to impose costs on critical coverage regardless of legal outcome.",
+    "sources": [
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/politics/federal-judge-tosses-trumps-15b-defamation-lawsuit-against-new-york-times"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/trump-refiles-15b-defamation-lawsuit-new-york-rcna238170"
+      },
+      {
+        "name": "Civil Rights Litigation Clearinghouse",
+        "url": "https://clearinghouse.net/case/46972/"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-12",
+    "category": "Government, Health & Science",
+    "title": "RFK Jr. orders FDA safety review of abortion pill mifepristone",
+    "summary": "Health Secretary Robert F. Kennedy Jr. directed the FDA to review the abortion pill mifepristone at the request of 22 Republican attorneys general, opening a path to new restrictions on a drug used in most U.S. abortions.",
+    "details": "Mifepristone, FDA-approved since 2000 with a strong safety record, is used in the majority of U.S. abortions, and telehealth prescribing with mail delivery expanded access after Roe fell. In September 2025 Kennedy told Republican attorneys general that FDA Commissioner Marty Makary would conduct a full safety review, reversing Makary's earlier position that no review was planned absent new safety data; abortion opponents sought to restore in-person dispensing rules or pull the drug. The FDA separately angered anti-abortion groups by approving another generic version of the pill in late 2025. In May 2026 the Fifth Circuit briefly reinstated an in-person dispensing requirement in the Louisiana v. FDA case, but the Supreme Court stayed that order on May 14, 2026, keeping mail and pharmacy access available while litigation continues. The FDA's safety study was ongoing as of mid-2026, with a court-ordered status report due by October 7, 2026.",
+    "sources": [
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/rfk-fda-abortion-pill-mifepristone-safety-review/"
+      },
+      {
+        "name": "Center for Reproductive Rights",
+        "url": "https://reproductiverights.org/resources/threats-to-abortion-pill-access-united-states/"
+      },
+      {
+        "name": "PBS News",
+        "url": "https://www.pbs.org/newshour/health/fda-approves-another-generic-abortion-pill-prompting-conservative-backlash"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-10",
+    "category": "Press, Speech & Democracy",
+    "title": "Charlie Kirk assassinated; wave of firings over online comments follows",
+    "summary": "Conservative activist Charlie Kirk was shot dead at a Utah college event; Trump blamed 'the radical left,' and a government-encouraged pressure campaign got people across the country fired over comments about Kirk's death.",
+    "details": "Kirk, the 31-year-old co-founder of Turning Point USA and a close Trump ally, was killed by a single rifle shot from a rooftop about 140 yards away while speaking at Utah Valley University on September 10, 2025. Tyler Robinson, 22, surrendered the next day and was charged with aggravated murder, with prosecutors seeking the death penalty. In a national address, Trump blamed 'the radical left' for the killing without mentioning recent violence against Democrats, and the administration pledged to target left-wing groups even though prosecutors identified no organizational link to the shooter. Vice President JD Vance, guest-hosting Kirk's show, urged listeners to report people who mocked Kirk's death to their employers; teachers, professors, journalists, pilots and office workers nationwide were fired or suspended over social-media comments, and the State Department revoked visas of some foreigners over their posts. Trump posthumously awarded Kirk the Presidential Medal of Freedom in October 2025.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/donald-trump/trump-radical-left-healing-charlie-kirk-assassination-rcna231032"
+      },
+      {
+        "name": "ABC News",
+        "url": "https://abcnews.com/US/visual-timeline-charlie-kirk-shooting-unfolded/story?id=125478526"
+      },
+      {
+        "name": "The Hill",
+        "url": "https://thehill.com/homenews/administration/5512767-trump-administration-charlie-kirk-killing/"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-05",
+    "category": "Military & National Security",
+    "title": "Trump rebrands the Defense Department the 'Department of War'",
+    "summary": "Trump signed an executive order directing the Pentagon to use 'Department of War' as its name in public communications, though only Congress can legally rename the department.",
+    "details": "Executive Order 14347 authorized 'Department of War' as a secondary title, and the Pentagon immediately rebranded its website to war.gov, with Hegseth styling himself 'Secretary of War.' The department was actually called the Department of War from 1789 until the late 1940s, when Congress reorganized the military under the Department of Defense after World War II; because the name is set by statute, the legal name remains the Department of Defense unless Congress acts. Trump called the 'Defense' name 'woke' and said the change 'sends a message of victory.' NBC News reported in November 2025 that Pentagon insiders estimated full implementation — new signage, letterhead, seals, and systems across a 3-million-person enterprise — could cost around $2 billion.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/09/04/nx-s1-5529420/trump-department-of-war-department-of-defense"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/trump-administration/trump-executive-order-rebrands-defense-department-war-department-rcna229461"
+      },
+      {
+        "name": "Military.com",
+        "url": "https://www.military.com/feature/2025/10/17/department-of-war-not-legally-what-trumps-executive-order-really-does.html"
+      }
+    ]
+  },
+  {
     "date": "2025-09-04",
     "category": "Immigration & Enforcement",
     "title": "475 detained in raid on Hyundai plant, straining Korea alliance",
@@ -1330,6 +1645,27 @@ window.ENTRIES = [
       {
         "name": "Fortune",
         "url": "https://fortune.com/crypto/2025/04/02/eric-trump-hut-8-american-bitcoin-donald-trump-jr/"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-03",
+    "category": "Military & National Security",
+    "title": "Pentagon assigns up to 600 military lawyers as immigration judges",
+    "summary": "Hegseth directed the armed services to supply up to 600 JAG officers to serve as temporary immigration judges for the Justice Department, an arrangement legal scholars said likely violates the law barring military involvement in civilian law enforcement.",
+    "details": "Responding to a Department of Homeland Security request, Hegseth ordered the services to identify up to 600 judge advocates — the military's uniformed lawyers — to be detailed in groups of about 150 to immigration courts facing a backlog of more than 3 million cases. The first cohort began work in fall 2025: of 25 temporary immigration judges appointed by the Justice Department, roughly two-thirds were military lawyers, given about two weeks of training for a job that normally requires deep immigration-law expertise. Legal scholars argued the plan runs afoul of the Posse Comitatus Act, which bars troops from executing civilian law, and questioned whether deportation hearings run by military officers can be impartial; a Justice Department legal opinion defending the plan drew its own criticism as an unprecedented expansion of executive power. The move came as the administration simultaneously replaced or sidelined the military's own senior JAG leadership.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/09/03/nx-s1-5525979/pentagon-authorizes-up-to-600-military-lawyers-to-serve-as-immigration-court-judges"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/national-security/2025/09/02/hegseth-600-jag-immigration-judges/"
+      },
+      {
+        "name": "Federal News Network",
+        "url": "https://federalnewsnetwork.com/defense-news/2025/10/dod-to-send-more-military-lawyers-to-justice-department-as-some-begin-serving-as-temporary-immigration-judges/"
       }
     ]
   },
@@ -1414,6 +1750,23 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2025-08-22",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "US government takes 10% ownership stake in Intel",
+    "summary": "The administration converted $8.9 billion in already-awarded CHIPS Act grants into a roughly 10% government ownership stake in Intel, making Washington the chipmaker's largest shareholder.",
+    "details": "Announced August 22, 2025, the deal had the government buy 433.3 million Intel shares at $20.47 each — a 9.9% stake — funded by $5.7 billion in unpaid CHIPS and Science Act grants and $3.2 billion from the Secure Enclave defense program, money Congress had appropriated as grants, not stock purchases. The government also received a five-year warrant to buy another 5% at $20 per share if Intel's ownership of its foundry business falls below 51%. The move came weeks after Trump publicly demanded Intel CEO Lip-Bu Tan resign over past China ties, then met with him and pivoted to the equity deal. Senator Elizabeth Warren and others pressed the Commerce Department on what legal authority allowed converting grants to equity and whether the government would use its stake to pressure the company. Together with the Nvidia/AMD revenue cut and a 'golden share' in U.S. Steel, the Intel stake marked an unprecedented level of direct presidential intervention in private companies.",
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/08/22/tech/trump-intel-10-percent-stake"
+      }
+    ]
+  },
+  {
     "date": "2025-08-20",
     "category": "Press, Speech & Democracy",
     "title": "Trump pushes mid-decade gerrymandering; California voters counter with Prop 50",
@@ -1456,6 +1809,48 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2025-08-10",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Nvidia and AMD pay US 15% of China chip revenue",
+    "summary": "The administration granted Nvidia and AMD licenses to sell AI chips to China in exchange for paying the U.S. government 15% of the revenue — an arrangement with no precedent in American history.",
+    "details": "In April 2025 the administration banned sales of Nvidia's H20 and AMD's MI308 AI chips to China on national-security grounds; in August it reversed course and issued export licenses on the condition that both companies pay the federal government 15% of the resulting China revenue. Trump said he initially asked Nvidia CEO Jensen Huang for 20% and Huang negotiated it down. Tax experts noted the arrangement functions as an export tax, which Article I, Section 9 of the Constitution explicitly prohibits — a rule the Supreme Court reaffirmed in 1998. National-security critics made the opposite point: Derek Scissors of the American Enterprise Institute said the deal 'risks national security for the sake of tax revenue,' since the chips help Chinese firms develop AI. The deal set a template for the administration extracting payments or equity from companies in exchange for regulatory decisions.",
+    "sources": [
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/nvidia-amd-chip-sales-china-15-percent-h20-mi308/"
+      },
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2025/08/11/nvidia-amd-china-chip-sales-15-percent-unconstitutional-trump-china/"
+      },
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/politics/under-new-unusual-agreement-u-s-will-get-a-15-cut-of-nvidia-and-amd-chip-sales-to-china"
+      }
+    ]
+  },
+  {
+    "date": "2025-08-07",
+    "category": "Crypto & Personal Profit",
+    "title": "Executive order opens 401(k)s to crypto and private equity",
+    "summary": "Trump signed an order pushing regulators to let 401(k) retirement plans hold crypto, private equity and other 'alternative assets' — a change sought by two industries closely tied to him.",
+    "details": "Executive Order 14330, signed August 7, 2025, directed the Labor Department and SEC to clear the way for 'alternative assets' — private equity, real estate, commodities, and actively managed crypto funds — inside 401(k)-style plans that hold trillions of dollars of Americans' retirement savings. Within a week, the Labor Department rescinded Biden-era guidance that had warned plan sponsors about private equity's risks. The private-equity industry had lobbied for years to reach 401(k) money, and the crypto industry spent heavily to elect Trump in 2024; the Trump family itself runs crypto ventures whose value rises as crypto becomes mainstream. Consumer advocates and the Economic Policy Institute warned that these assets carry higher fees, less transparency, hard-to-verify valuations, and lock-up periods that don't fit retirement accounts. The order limits crypto exposure to professionally managed funds rather than direct coin purchases, but shifts risk onto ordinary savers if the investments sour.",
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2025/08/07/trump-order-will-allow-alternative-assets-like-cryptocurrencies-private-equity-in-401ks.html"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/08/16/nx-s1-5504096/401k-private-equity-crypto-executive-order"
+      },
+      {
+        "name": "Economic Policy Institute",
+        "url": "https://www.epi.org/publication/trump-is-pushing-to-include-risky-assets-like-crypto-and-private-equity-in-401ks-why-this-endangers-retirement-savers-and-the-economy/"
+      }
+    ]
+  },
+  {
     "date": "2025-08-05",
     "category": "Government, Health & Science",
     "title": "HHS cancels roughly $500 million in mRNA vaccine research",
@@ -1473,6 +1868,27 @@ window.ENTRIES = [
       {
         "name": "BioPharma Dive",
         "url": "https://www.biopharmadive.com/news/kennedy-mrna-vaccines-barda-hhs-cancel-contracts/756953/"
+      }
+    ]
+  },
+  {
+    "date": "2025-08-04",
+    "category": "Government, Health & Science",
+    "title": "NASA told to plan shutdown of carbon-monitoring satellites",
+    "summary": "NASA employees were directed to draw up plans to end the Orbiting Carbon Observatory missions, healthy satellites that provide the leading U.S. measurements of global carbon dioxide, before Congress had approved any cuts.",
+    "details": "The administration's fiscal 2026 budget documents said OCO-2 and OCO-3, described as 'climate missions beyond their prime mission,' would 'close out and end in FY 2026,' and NPR reported in August 2025 that staff were told to plan termination even though Congress had not enacted the budget. A 2023 NASA senior review rated OCO-2 in excellent condition with enough fuel to operate until about 2040, and the missions' data are also used to map plant photosynthesis, a tool valuable to farmers. Scientists warned shutting working satellites would surrender U.S. carbon-measurement capability to Europe, China and Japan. Senate appropriators explicitly rejected the proposed mission terminations, and NASA explored handing operations to private or university backers. The episode was part of a broader budget proposal that would have canceled more than 40 NASA science missions.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/08/04/nx-s1-5453731/nasa-carbon-dioxide-satellite-mission-threatened"
+      },
+      {
+        "name": "Eos",
+        "url": "https://eos.org/research-and-developments/nasa-planning-for-unauthorized-shutdown-of-carbon-monitoring-satellites"
+      },
+      {
+        "name": "Inside Climate News",
+        "url": "https://insideclimatenews.org/news/08092025/nasa-carbon-dioxide-satellites-trump/"
       }
     ]
   },
@@ -1515,6 +1931,48 @@ window.ENTRIES = [
       {
         "name": "CBS News",
         "url": "https://www.cbsnews.com/news/fbi-agents-on-jan-6-capitol-riot-trump-investigations-to-be-fired-sources-say/"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-29",
+    "category": "Pardons & Rule of Law",
+    "title": "Emil Bove confirmed to appeals court despite whistleblower accounts",
+    "summary": "The Senate confirmed Trump's former personal lawyer Emil Bove to a lifetime seat on the Third Circuit, 50-49, over allegations from three Justice Department whistleblowers that he urged defying court orders on deportation flights.",
+    "details": "Erez Reuveni, a fired senior DOJ immigration lawyer, told Congress that at a March 2025 meeting about deportation flights under the Alien Enemies Act, Bove said the department might need to consider telling courts 'f--- you' and ignore orders blocking removals. Sen. Dick Durbin released texts and emails corroborating parts of Reuveni's account, and two additional whistleblowers came forward, including one alleging Bove misled senators about the dismissal of the New York mayor's corruption case. More than 900 former DOJ attorneys and over 75 former judges urged the Senate to reject him; Democrats walked out of the committee vote. Bove, who as a top DOJ official had also ordered a purge of prosecutors who handled January 6 cases, was confirmed with only Republican votes on July 29, 2025 — Sens. Murkowski and Collins voted no. He received a lifetime appointment to the court that hears federal appeals from Pennsylvania, New Jersey and Delaware.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/congress/senate-confirms-trump-nominee-emil-bove-appeals-court-whistleblowers-rcna221781"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/07/29/politics/emil-bove-trump-attorney-confirmed-federal-appellate-judge"
+      },
+      {
+        "name": "Senate Judiciary Committee",
+        "url": "https://www.judiciary.senate.gov/press/dem/releases/durbin-releases-documents-corroborating-justice-department-whistleblowers-allegations-against-embattled-trump-judicial-pick-emil-bove"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-25",
+    "category": "Crypto & Personal Profit",
+    "title": "Taxpayer tab for Trump's golf trips passes $100 million",
+    "summary": "Golf trips — mostly to Trump's own resorts — cost taxpayers over $100 million by spring 2026, with federal money flowing directly to his clubs, including a Scotland trip to open his own course.",
+    "details": "Analyses based on Government Accountability Office per-trip cost methodology put taxpayer costs for Trump's second-term golf travel at $26 million within his first two months, over $70 million by November 2025, and at least $101.2 million by spring 2026 — on pace to top $300 million for the term, roughly double his first term. Each Mar-a-Lago golf weekend costs about $3.4 million in Air Force One flights, support aircraft, motorcades, Secret Service overtime and Coast Guard patrols. Because the trips go overwhelmingly to properties Trump owns — Mar-a-Lago, Bedminster, Turnberry — federal agencies pay his own businesses for rooms, meals and golf-cart rentals, spending documented by the watchdog group CREW. In late July 2025 Trump took a multi-day trip to Scotland, estimated at close to $10 million in taxpayer cost, that mixed some diplomacy with visits to his Turnberry resort and the ribbon-cutting for a new course named for his mother at his Aberdeenshire property. Trackers found he played golf on more than a quarter of his days in office.",
+    "sources": [
+      {
+        "name": "HuffPost",
+        "url": "https://www.huffpost.com/entry/trump-golf-300-million_n_69271f3ce4b00aca68d3d689"
+      },
+      {
+        "name": "HuffPost",
+        "url": "https://www.huffpost.com/entry/trump-golf-again-26-million_n_67e6c885e4b0f69ef1d3886c"
+      },
+      {
+        "name": "CREW",
+        "url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/secret-service-has-spent-nearly-100k-at-trump-properties/"
       }
     ]
   },
@@ -1578,6 +2036,27 @@ window.ENTRIES = [
       {
         "name": "White House fact sheet",
         "url": "https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-signs-genius-act-into-law/"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-18",
+    "category": "Press, Speech & Democracy",
+    "title": "Trump sues Wall Street Journal for $10 billion over Epstein story",
+    "summary": "Trump sued Rupert Murdoch and the Wall Street Journal for $10 billion over its report on a birthday letter to Jeffrey Epstein bearing Trump's name; a judge dismissed the case in 2026 and Trump refiled.",
+    "details": "On July 17, 2025, the Journal reported that a 50th-birthday album assembled for Jeffrey Epstein in 2003 included a letter bearing Trump's signature, with typewritten text framed by a hand-drawn outline of a naked woman. Trump denied writing it and sued Murdoch, Dow Jones and two reporters the next day, seeking $10 billion — believed to be the largest defamation demand ever made against a news organization. On April 13, 2026, U.S. District Judge Darrin Gayles dismissed the suit, ruling Trump had failed to plausibly allege the story was published with actual malice, though he allowed an amended filing. Trump refiled the $10 billion suit in late May 2026. The episode unfolded while Trump's own administration controlled the government's Epstein files and faced sustained pressure over their release, and the House Oversight Committee later obtained the birthday album containing the letter.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/04/13/g-s1-117248/judge-dismisses-trump-lawsuit-epstein-letter-wsj-story-murdoch"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/13/trump-epstein-murdoch-wsj-lawsuit-dismissed.html"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/05/28/politics/trump-refiles-lawsuit-wall-street-journal-epstein"
       }
     ]
   },
@@ -1729,6 +2208,27 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2025-07-04",
+    "category": "Government, Health & Science",
+    "title": "Planned Parenthood stripped of Medicaid funding in budget law",
+    "summary": "The One Big Beautiful Bill barred Medicaid payments to Planned Parenthood for a year, forcing clinic closures and cuts to cancer screenings and birth control — services Medicaid actually paid for, since federal funds already couldn't cover most abortions.",
+    "details": "The law signed July 4, 2025 blocked Medicaid reimbursements for one year to abortion providers that received more than $800,000 in Medicaid funds in fiscal 2023 — a definition targeting Planned Parenthood, which warned that roughly 200 of its health centers were at risk. Because the longstanding Hyde Amendment already banned federal funding of most abortions, the cutoff hit contraception, STI testing, breast-exam and cervical-cancer screening services for Medicaid patients. By March 2026, 23 of Planned Parenthood's 500-plus health centers had closed, with many closures in states where abortion remains legal; the group reported breast-exam visits down 25% and IUD insertions down nearly 40% in December year-over-year. A district court initially blocked the provision, but the First Circuit reversed in December 2025 and the organization's lawsuit was dismissed on January 30, 2026. The provision was set to expire July 4, 2026, though Republicans proposed extending it.",
+    "sources": [
+      {
+        "name": "The Hill",
+        "url": "https://thehill.com/policy/healthcare/5395714-planned-parenthood-locations-medicaid-cuts/"
+      },
+      {
+        "name": "Ms. Magazine",
+        "url": "https://www.ms.now/news/closed-clinics-and-canceled-care-new-data-shows-impacts-of-big-beautiful-bills-attack-on-planned-parenthood"
+      },
+      {
+        "name": "Courthouse News",
+        "url": "https://www.courthousenews.com/first-circuit-reverses-block-on-trumps-planned-parenthood-funding-cuts/"
+      }
+    ]
+  },
+  {
     "date": "2025-07-02",
     "category": "Press, Speech & Democracy",
     "title": "Paramount pays Trump $16 million; FCC then approves Skydance's CBS takeover",
@@ -1788,6 +2288,27 @@ window.ENTRIES = [
       {
         "name": "Washington Post",
         "url": "https://www.washingtonpost.com/world/2025/07/01/usaid-cuts-aid-14-million-deaths/"
+      }
+    ]
+  },
+  {
+    "date": "2025-06-28",
+    "category": "Government, Health & Science",
+    "title": "Parks lose a quarter of staff; public-land selloff stripped from bill",
+    "summary": "The National Park Service lost about 24% of its permanent workforce during record-visitation years, while a plan to sell over a million acres of public land was pulled from the budget bill after bipartisan backlash and logging was expanded in national forests.",
+    "details": "After buyouts, early retirements and firings that began in January 2025, the National Parks Conservation Association calculated the Park Service had lost 24% of its permanent staff by mid-2025 — even as parks logged about 332 million visits in 2024 and 323 million in 2025, with 26 parks setting attendance records. Sen. Mike Lee's provision in the One Big Beautiful Bill to force the sale of up to roughly 1.2 million acres of federal land (earlier drafts made over 3 million acres eligible) was stripped on June 28, 2025 after opposition from hunters, anglers and lawmakers of both parties; the final law still rescinded $267 million in park staffing funds. A March 2025 executive order directed expanded timber production, the USDA moved to rescind the 2001 Roadless Rule protecting 58 million acres of national forest, and the budget law mandated an increase of about 250 million board feet per year in Forest Service logging through 2034. Park advocates warned of strained operations again for summer 2026.",
+    "sources": [
+      {
+        "name": "National Parks Conservation Association",
+        "url": "https://www.npca.org/articles/9551-staffing-crisis-at-national-parks-reaches-breaking-point-new-data-shows-24"
+      },
+      {
+        "name": "Outdoor Alliance",
+        "url": "https://www.outdooralliance.org/blog/2025/7/21/what-the-one-big-beautiful-bill-means-for-the-outdoors"
+      },
+      {
+        "name": "Center for Western Priorities",
+        "url": "https://westernpriorities.org/2025/07/how-congress-and-trump-are-working-together-to-drill-log-and-mine-virtually-all-public-lands/"
       }
     ]
   },
@@ -1872,6 +2393,27 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2025-06-18",
+    "category": "Civil Rights & Culture",
+    "title": "Supreme Court upholds Tennessee's ban on gender care for minors",
+    "summary": "In United States v. Skrmetti, the Supreme Court ruled 6-3 that Tennessee's ban on puberty blockers, hormones, and surgery for transgender minors does not violate the Constitution.",
+    "details": "The case began when families of three transgender adolescents and a doctor challenged Tennessee's 2023 law, and the Biden administration joined on their side; the Trump administration reversed the government's position after taking office. Chief Justice John Roberts wrote for the majority that the law classifies based on age and medical use rather than sex, so it needed to pass only the easiest level of constitutional review, which it did; the three liberal justices dissented. The June 18, 2025 decision left in place bans in roughly 25 states, meaning access to this care for minors now depends on where a family lives. It was the Court's most significant transgender rights ruling to date and set the framework for later cases on sports and other policies.",
+    "sources": [
+      {
+        "name": "Supreme Court of the United States",
+        "url": "https://www.supremecourt.gov/opinions/24pdf/23-477_2cp3.pdf"
+      },
+      {
+        "name": "KFF",
+        "url": "https://www.kff.org/lgbtq/what-are-the-implications-of-the-skrmetti-ruling-for-minors-access-to-gender-affirming-care/"
+      },
+      {
+        "name": "The 19th",
+        "url": "https://19thnews.org/2025/06/supreme-court-united-states-v-skrmetti-tennessee-gender-affirming-care-ban/"
+      }
+    ]
+  },
+  {
     "date": "2025-06-16",
     "category": "Crypto & Personal Profit",
     "title": "Trump Mobile launches; branded merchandise sales continue in office",
@@ -1910,6 +2452,48 @@ window.ENTRIES = [
       {
         "name": "NBC News",
         "url": "https://www.nbcnews.com/politics/trump-administration/blog/trump-military-parade-protests-live-updates-rcna212332"
+      }
+    ]
+  },
+  {
+    "date": "2025-06-14",
+    "category": "Press, Speech & Democracy",
+    "title": "Minnesota House leader Melissa Hortman assassinated at home",
+    "summary": "A gunman posing as a police officer killed former Minnesota House Speaker Melissa Hortman and her husband and shot state Sen. John Hoffman and his wife, in what prosecutors called targeted political assassinations.",
+    "details": "In the early hours of June 14, 2025, Vance Boelter, disguised as a police officer with a fake squad car, shot Sen. John Hoffman and his wife Yvette at their home in Champlin — both survived — then killed Hortman, the top Democrat in the Minnesota House, and her husband Mark in Brooklyn Park. Investigators found a list of about 70 potential targets in his car, including Democratic politicians and abortion providers; Boelter, who opposed abortion, was captured after the largest manhunt in Minnesota history. Trump called the violence horrific but declined to call Gov. Tim Walz, and was later criticized for ordering flags lowered for Charlie Kirk after not doing so for Hortman. In June 2026 Boelter pleaded guilty to federal murder, stalking and firearms charges, agreeing to two consecutive life sentences plus 40 years in exchange for prosecutors dropping the death penalty.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/06/14/us/melissa-hortman-minnesota-assassination"
+      },
+      {
+        "name": "U.S. Department of Justice",
+        "url": "https://www.justice.gov/usao-mn/pr/boelter-pleaded-guilty-his-role-stalking-and-murder-minnesota-state-legislators"
+      },
+      {
+        "name": "MPR News",
+        "url": "https://www.mprnews.org/story/2026/06/11/vance-boelter-plea-minnesota-lawmaker-attacks-hortman-hoffman"
+      }
+    ]
+  },
+  {
+    "date": "2025-06-10",
+    "category": "Civil Rights & Culture",
+    "title": "Confederate-linked base names restored; toppled Confederate monuments return",
+    "summary": "The administration restored the old Confederate-linked names of nine Army bases, sidestepping a federal ban by honoring unrelated soldiers with the same last names, and moved to reinstall Confederate monuments removed after 2020.",
+    "details": "Congress banned Confederate base names in a 2021 law, and a naming commission renamed nine bases in 2023. Defense Secretary Pete Hegseth restored 'Fort Bragg' in February 2025 and 'Fort Benning' in March 2025, officially honoring World War II paratrooper Pfc. Roland L. Bragg and World War I soldier Cpl. Fred Benning rather than the Confederate generals Braxton Bragg and Henry Benning — a workaround that kept the names without technically violating the law. On June 10, 2025, Trump announced at Fort Bragg that the remaining seven bases — including Fort Lee, Fort Pickett, Fort A.P. Hill, Fort Hood, Fort Gordon, Fort Polk, and Fort Rucker — would also revert, and the Army began carrying it out the next day. In August 2025, the National Park Service announced it would reinstall the Albert Pike statue in Washington, the capital's only outdoor monument to a Confederate general, which protesters toppled in June 2020, and Hegseth announced that the Confederate 'Reconciliation Monument,' removed from Arlington National Cemetery in 2023, would be returned at an estimated cost of $10 million.",
+    "sources": [
+      {
+        "name": "VPM/Associated Press",
+        "url": "https://www.vpm.org/news/2025-06-11/army-restores-confederate-names-to-7-bases-ap-hill-pickett-lee-bragg"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/08/05/politics/confederate-albert-pike-statue-reinstall"
+      },
+      {
+        "name": "Military.com",
+        "url": "https://www.military.com/daily-news/2025/08/07/restoration-of-torn-down-confederate-monument-will-cost-10-million-over-2-years-military-says.html"
       }
     ]
   },
@@ -2103,6 +2687,48 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2025-05-21",
+    "category": "Civil Rights & Culture",
+    "title": "Justice Department abandons police reform deals in Minneapolis and Louisville",
+    "summary": "Days before the fifth anniversary of George Floyd's murder, the DOJ moved to dismiss court-enforced police reform agreements with Minneapolis and Louisville and closed investigations into six other departments.",
+    "details": "The consent decrees grew out of federal investigations that found patterns of unconstitutional policing after the 2020 killings of George Floyd in Minneapolis and Breonna Taylor in Louisville. On May 21, 2025, Assistant Attorney General Harmeet Dhillon, head of the Civil Rights Division, asked federal judges to dismiss both agreements, saying consent decrees put local policing under 'unelected and unaccountable bureaucrats.' The department also closed investigations and retracted findings against police in Phoenix; Trenton, New Jersey; Memphis; Mount Vernon, New York; Oklahoma City; and the Louisiana State Police. The mayors of Minneapolis and Louisville said their cities would carry out the reforms anyway, with Minneapolis still bound by a separate state court agreement.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/05/21/nx-s1-5406342/doj-moves-to-dismiss-police-consent-decrees-in-minneapolis-and-louisville"
+      },
+      {
+        "name": "The Washington Post",
+        "url": "https://www.washingtonpost.com/national-security/2025/05/21/justice-department-policing-louisville-minneapolis-consent-decree/"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/05/21/politics/justice-department-consent-decree-police-department"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-20",
+    "category": "Military & National Security",
+    "title": "Trump announces $175 billion 'Golden Dome' missile shield",
+    "summary": "Trump announced a space-based missile-defense system he said would cost $175 billion and be finished in three years — estimates independent analysts quickly disputed, with the Congressional Budget Office later putting the 20-year cost near $1.2 trillion.",
+    "details": "The Golden Dome plan calls for a network of satellites and space-based interceptors to shield the US from ballistic, hypersonic, and cruise missiles, led by Space Force Gen. Michael Guetlein. Defense experts questioned both the price and the timeline: the Congressional Budget Office initially estimated space-based interceptors alone could cost up to $542 billion over 20 years, and by 2026 its estimate for the full system had grown to about $1.2 trillion. SpaceX emerged as a likely major beneficiary — the Wall Street Journal reported it was set to receive a roughly $2 billion contract for a 600-satellite missile-tracking constellation — and in May 2025, 42 members of Congress asked the Pentagon inspector general to review Elon Musk's involvement, citing concerns his role could give him undue influence over national security. In April 2026, the Space Force selected 12 companies, including SpaceX, Anduril, Lockheed Martin, and Northrop Grumman, to develop prototype space-based interceptors. A year in, defense trade press reported the program was struggling to translate the announcement into a working architecture.",
+    "sources": [
+      {
+        "name": "Breaking Defense",
+        "url": "https://breakingdefense.com/2025/05/trump-golden-dome-to-cost-175-billion-will-be-led-by-space-forces-guetlein/"
+      },
+      {
+        "name": "Air &amp; Space Forces Magazine",
+        "url": "https://www.airandspaceforces.com/golden-dome-could-cost-1-2-trillion-over-20-years-cbo-says/"
+      },
+      {
+        "name": "DefenseScoop",
+        "url": "https://defensescoop.com/2026/04/24/golden-dome-space-based-interceptor-missile-defense-contractors/"
+      }
+    ]
+  },
+  {
     "date": "2025-05-14",
     "category": "Pardons & Rule of Law",
     "title": "Ed Martin named pardon attorney and 'weaponization' investigator",
@@ -2166,6 +2792,27 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2025-05-02",
+    "category": "Government, Health & Science",
+    "title": "Deep NSF and NASA science cuts spur a scientific brain drain",
+    "summary": "The administration proposed cutting the National Science Foundation by 57% and NASA's science budget by 47%, while terminating more than 1,700 existing NSF grants. European institutions began actively recruiting departing American scientists.",
+    "details": "The fiscal 2026 budget request sought to shrink NSF from about $9 billion to $3.9 billion and NASA science from $7.3 billion to $3.9 billion, which would have canceled dozens of missions; by May 2025 NSF had already terminated 1,752 grants worth roughly $1.4 billion, most flagged for diversity-related content, and a federal judge declined to restore them. Congress largely rejected the cuts — Senate appropriators kept NSF near $8.75 billion — but the administration proposed similar reductions again in its fiscal 2027 request in April 2026. A Nature poll found 75% of surveyed U.S. scientists were considering leaving the country; applications to European Research Council early-career grants from U.S.-based researchers nearly tripled from 2024 to 2026. France's Aix-Marseille University launched a 'Safe Place for Science' program that drew about 300 applicants for roughly 20 positions, and the EU pledged 500 million euros to its 'Choose Europe for Science' recruitment drive.",
+    "sources": [
+      {
+        "name": "Scientific American",
+        "url": "https://www.scientificamerican.com/article/trump-administration-proposes-massive-budget-cuts-to-science/"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/05/02/nx-s1-5371720/national-science-foundation-budget-grant-cuts-turmoil"
+      },
+      {
+        "name": "STAT News",
+        "url": "https://www.statnews.com/2025/12/17/research-cuts-fuel-scientific-brain-drain-american-science-shattered/"
+      }
+    ]
+  },
+  {
     "date": "2025-05-01",
     "category": "Crypto & Personal Profit",
     "title": "Abu Dhabi routes $2 billion through Trump stablecoin; UAE gets AI chips",
@@ -2208,6 +2855,44 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2025-04-18",
+    "category": "Military & National Security",
+    "title": "Military zones created along border where troops can detain migrants",
+    "summary": "The administration turned long stretches of the US-Mexico border into 'National Defense Areas' — effectively extensions of military bases — where soldiers can detain migrants and border crossers face added criminal charges for trespassing on military land.",
+    "details": "The first zone, created in April 2025, transferred a roughly 170-mile strip of federal border land in New Mexico to the Army as a satellite of Fort Huachuca; a second zone attached to Fort Bliss in Texas followed in May, a 250-mile zone in the Rio Grande Valley in June, and another near Yuma, Arizona, eventually covering close to one-third of the southern border. Inside the zones, troops from the roughly 7,600-member Joint Task Force-Southern Border can temporarily detain people until handing them to Border Patrol — authority US soldiers do not normally have on domestic soil. Migrants who cross into the zones face a military trespassing charge carrying up to 18 months in prison for a first offense, stacked on top of the standard illegal-entry charge; more than 1,400 people were charged in the first months. Federal judges threw out scores of the early trespassing cases, finding no proof migrants knew they had entered a military zone. Democratic lawmakers and civil-liberties groups argued the setup was designed to get around the Posse Comitatus Act, the 19th-century law barring the military from civilian law enforcement.",
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2025/5/3/second-us-military-zone-along-border-with-mexico-set-up-to-deter-migrants"
+      },
+      {
+        "name": "The Hill",
+        "url": "https://thehill.com/policy/defense/5347580-us-troops-begin-detaining-migrants-on-border-defense-zone/"
+      },
+      {
+        "name": "Texas Tribune",
+        "url": "https://www.texastribune.org/2025/06/26/texas-military-zone-expansion-illegal-immigration/"
+      }
+    ]
+  },
+  {
+    "date": "2025-04-15",
+    "category": "Military & National Security",
+    "title": "Hegseth fires his own top aides amid leak hunt with polygraphs",
+    "summary": "During a leak investigation that authorized polygraph tests, Hegseth fired three of his own senior advisers, including longtime ally Dan Caldwell, deepening turmoil in the Pentagon's front office.",
+    "details": "In March 2025, Hegseth's chief of staff ordered an investigation into press leaks — including reports about military planning for the Panama Canal and a Pentagon briefing arranged for Elon Musk — and authorized the use of lie-detector tests on staff. In mid-April, senior adviser Dan Caldwell, deputy chief of staff Darin Selnick, and Colin Carroll, chief of staff to the deputy defense secretary, were escorted from the building and fired; the three said in a joint statement they were never told what they were accused of, and none was charged. Hegseth's chief of staff Joe Kasper also left his role, and former Pentagon spokesman John Ullyot wrote that the department was in 'total chaos' and a 'full-blown meltdown.' The purges of Hegseth's inner circle came the same week his second Signal chat was revealed. Reporting through mid-2026, including a June 2026 CNN account, described a Pentagon where suspicion and loyalty tests remained pervasive among senior staff.",
+    "sources": [
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/2-pentagon-officials-fired-amid-sweeping-leak-investigation/"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/06/09/politics/hegseth-pentagon-suspicion"
+      }
+    ]
+  },
+  {
     "date": "2025-04-11",
     "category": "Immigration & Enforcement",
     "title": "Registration mandate and cash payments push 'self-deportation'",
@@ -2225,6 +2910,48 @@ window.ENTRIES = [
       {
         "name": "CBS News",
         "url": "https://www.cbsnews.com/news/dhs-undocumented-migrants-self-deportation-offer-increased/"
+      }
+    ]
+  },
+  {
+    "date": "2025-04-07",
+    "category": "Immigration & Enforcement",
+    "title": "IRS agrees to share taxpayer data with ICE for deportations",
+    "summary": "The IRS signed an unprecedented agreement letting ICE use confidential taxpayer information to find undocumented immigrants, prompting the acting commissioner's resignation, a churn of seven IRS leaders in a year, and a measurable drop in tax filing.",
+    "details": "The April 7, 2025 memorandum of understanding lets ICE ask the IRS to confirm names and addresses of people with final removal orders or under criminal investigation, breaking decades of assurances that filing taxes was safe regardless of immigration status — undocumented workers had paid tens of billions in taxes annually, often using special taxpayer ID numbers. Acting Commissioner Melanie Krause resigned over the deal, following acting commissioner Douglas O'Donnell, who retired rather than share data, and the agency's chief privacy and information officers also left; the IRS ran through about seven leaders from January 2025 to mid-2026. Senate-confirmed Commissioner Billy Long lasted under two months before Trump removed him in August 2025 and made Treasury Secretary Scott Bessent acting chief, a status senators said outlasted its legal window in March 2026. A federal judge allowed the data sharing to proceed, and by the April 2026 tax deadline filings from immigrant communities had dropped measurably, with analysts estimating the government could lose hundreds of billions of dollars in revenue over a decade.",
+    "sources": [
+      {
+        "name": "ABC News",
+        "url": "https://abcnews.com/Politics/acting-irs-commissioner-plans-resign-after-data-sharing/story?id=120632164"
+      },
+      {
+        "name": "Electronic Frontier Foundation",
+        "url": "https://www.eff.org/deeplinks/2025/04/irs-ice-immigrant-data-sharing-agreement-betrays-data-privacy-and-taxpayers-trust"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/immigration/2026/04/15/tax-day-immigrant-filers-ice-arrests/"
+      }
+    ]
+  },
+  {
+    "date": "2025-04-03",
+    "category": "Military & National Security",
+    "title": "NSA and Cyber Command chief fired after Laura Loomer meeting",
+    "summary": "Trump fired Gen. Timothy Haugh, the four-star general leading both the National Security Agency and US Cyber Command, along with his civilian deputy, a day after far-right activist Laura Loomer urged Trump to remove 'disloyal' officials.",
+    "details": "Haugh, a 33-year Air Force officer who had led the nation's largest spy agency and its military cyber force since February 2024, was dismissed without any public explanation while NSA deputy director Wendy Noble was also removed. The firings came the day after Loomer, a conspiracy theorist with no government position, met Trump in the Oval Office with a list of national security officials she deemed insufficiently loyal; several National Security Council staffers were fired the same week. Loomer publicly took credit, posting that Haugh and Noble 'have been disloyal to President Trump.' Lawmakers from both parties called the firing inexplicable, noting Haugh was removed while overseeing US cyber defenses against China and Russia and had just submitted offensive cyber plans. His deputy at Cyber Command, Lt. Gen. William Hartman, took over on an acting basis.",
+    "sources": [
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/gen-timothy-haugh-head-of-nsa-and-cyber-command-is-fired/"
+      },
+      {
+        "name": "Stars and Stripes",
+        "url": "https://www.stripes.com/theaters/us/2025-04-04/haugh-cyber-command-national-security-fired-trump-17367643.html"
+      },
+      {
+        "name": "Breaking Defense",
+        "url": "https://breakingdefense.com/2025/04/cyber-command-nsa-chief-haugh-trump-laura-loomer/"
       }
     ]
   },
@@ -2292,6 +3019,48 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2025-03-25",
+    "category": "Press, Speech & Democracy",
+    "title": "Tufts student seized over op-ed as visa crackdown expands",
+    "summary": "Masked plainclothes agents grabbed Tufts doctoral student Rümeysa Öztürk off a Somerville street after her visa was secretly revoked over a student-newspaper op-ed. Her arrest became the face of a 'catch and revoke' program that canceled thousands of student visas and imposed social-media screening on applicants.",
+    "details": "Video of six masked agents surrounding Öztürk, a Turkish Fulbright scholar, went viral; her only cited offense was co-writing a 2024 op-ed asking Tufts to divest from companies tied to Israel. She was flown to Louisiana and held about six weeks before a federal judge ordered her release in May 2025, later finding Rubio's visa revocation was based solely on First Amendment-protected speech. Rubio said in March 2025 he had already revoked more than 300 visas under an AI-assisted 'catch and revoke' initiative, and the State Department said more than 6,000 student visas were pulled in 2025; thousands of student records ICE deleted that spring were restored after roughly 100 lawsuits. In June 2025 the State Department resumed student-visa processing only after requiring all applicants to make their social-media accounts public for government review. An immigration judge terminated Öztürk's removal case in February 2026; she finished her Ph.D. and returned to Turkey in April 2026 after settling with the government.",
+    "sources": [
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2025/03/06/state-department-ai-revoke-foreign-student-visas-hamas"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/02/09/us/rumeysa-ozturk-immigration-detention-terminated"
+      },
+      {
+        "name": "GBH News",
+        "url": "https://www.wgbh.org/news/local/2026-04-17/rumeysa-ozturk-says-she-has-settled-with-us-government-and-will-return-to-turkey"
+      }
+    ]
+  },
+  {
+    "date": "2025-03-24",
+    "category": "Military & National Security",
+    "title": "Signalgate: Hegseth shares Yemen strike plans in chat including journalist",
+    "summary": "Defense Secretary Pete Hegseth posted the timing of imminent US airstrikes on Yemen in a Signal group chat that national security adviser Mike Waltz had accidentally added The Atlantic's editor-in-chief to. A Pentagon watchdog later found the messages endangered US pilots.",
+    "details": "The Atlantic's Jeffrey Goldberg revealed on March 24, 2025 that he had been mistakenly included in a Signal chat where Vice President Vance, Secretary of State Rubio, Hegseth, and other top officials discussed the March 15 strikes on Houthi targets; Hegseth posted the exact launch times of F/A-18 jets, drones, and Tomahawk missiles hours before the attack, on a commercial messaging app from his personal phone. The New York Times then reported in April that Hegseth had shared the same strike details in a second Signal chat he created himself, whose 13 members included his wife (a former Fox News producer with no government role), his brother, and his personal lawyer. The White House insisted no classified information was shared, but the Pentagon inspector general's report, released December 4, 2025, concluded Hegseth sent 'sensitive, nonpublic, operational information' in violation of Defense Department rules, creating a risk 'that could have resulted in failed U.S. mission objectives and potential harm to U.S. pilots'; CNN reported the classified version found the details came from a classified Central Command document. The report also found he failed to preserve the messages as federal records, and Hegseth declined an in-person interview and refused to turn over his phone to investigators. Hegseth called the report a 'total exoneration,' the White House said Trump stood by him, and no one was disciplined. Waltz, who took responsibility for adding Goldberg, was removed as national security adviser on May 1, 2025 after 101 days, and was later confirmed as UN ambassador in September by a 47-43 Senate vote.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/12/03/nx-s1-5630519/signalgate-pete-hegseth-inspector-general-report"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/pete-hegseth-yemen-strike-2nd-signal-chat/"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/05/01/politics/mike-waltz-national-security-adviser-depart"
+      }
+    ]
+  },
+  {
     "date": "2025-03-21",
     "category": "Immigration & Enforcement",
     "title": "Funding cut leaves migrant children facing judges alone",
@@ -2309,6 +3078,27 @@ window.ENTRIES = [
       {
         "name": "The Imprint",
         "url": "https://imprintnews.org/youth-services-insider/trump-halts-legal-counsel-for-unaccompanied-minors-seeking-asylum/259021"
+      }
+    ]
+  },
+  {
+    "date": "2025-03-20",
+    "category": "Civil Rights & Culture",
+    "title": "Military scrubs minority history from websites and library shelves",
+    "summary": "A Pentagon anti-DEI directive led to the removal of web pages honoring the Tuskegee Airmen, Navajo Code Talkers, and Jackie Robinson, and 381 books from the Naval Academy library, before public outcry forced partial reversals.",
+    "details": "A February 26, 2025 Pentagon memo ordered the removal of all Defense Department articles, photos, and videos 'promoting' diversity, equity, and inclusion. Thousands of pages came down in March, including tributes to the Black Tuskegee Airmen of World War II, the Navajo Code Talkers, baseball pioneer and Army veteran Jackie Robinson, and Ira Hayes, a Pima Native American who helped raise the flag at Iwo Jima; Arlington National Cemetery scrubbed Black, Hispanic, and female veterans from its 'Notable Graves' pages. Photos of the Enola Gay, the B-29 that dropped the first atomic bomb, were flagged for deletion because a keyword filter caught the word 'Gay' — the plane was named for the pilot's mother. After bipartisan criticism, the Pentagon restored many pages in late March, though others stayed offline. Separately, the Naval Academy pulled 381 books from its Nimitz Library on March 31-April 1, including Maya Angelou's 'I Know Why the Caged Bird Sings' and a study of Holocaust memory, while Hitler's 'Mein Kampf' remained on the shelves; after protests led by alumni, all but about 20 books were returned by May 2025.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/03/20/nx-s1-5334461/pentagon-black-veterans-navajo-code-talkers-website-diversity"
+      },
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2025/04/06/naval-academy-banned-books"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/dei-purge-holocaust-book-maya-angelou-memoir-pulled-from-naval-academy-library/"
       }
     ]
   },
@@ -2355,6 +3145,69 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2025-03-14",
+    "category": "Press, Speech & Democracy",
+    "title": "Voice of America silenced by executive order; courts void the firings",
+    "summary": "A March 2025 executive order gutted Voice of America and its sister networks, taking U.S. international broadcasting off the air; in 2026 a federal judge ruled the dismantling illegal and void.",
+    "details": "Trump's March 14, 2025 order directed the U.S. Agency for Global Media — parent of Voice of America, and funder of Radio Free Europe/Radio Liberty and Radio Free Asia — to shrink to 'the minimum presence and function required by law,' under a White House release titled 'The Voice of Radical America.' Senior adviser Kari Lake placed more than 1,000 journalists and staff on leave and moved to terminate them, largely silencing VOA, which had broadcast to audiences in authoritarian countries since 1942. In March 2026, U.S. District Judge Royce Lamberth ruled Lake had served unlawfully as acting CEO under the Appointments Clause and Vacancies Act, declared her actions — including the mass layoffs — null and void, and ordered 1,042 employees back to work and statutorily required broadcasts restored, calling the dismantling 'arbitrary and capricious.' An appeals court panel stayed the employee reinstatements 2-1 while the government appealed, but left intact the requirement to restore required programming; Lake vowed to keep fighting the rulings.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/03/09/nx-s1-5741735/judge-rules-kari-lake-unlawfully-ran-voice-of-america-mass-layoffs-void"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/03/17/nx-s1-5751162/voice-of-america-lawsuit-kari-lake"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/judge-voids-kari-lake-actions-acting-ceo-of-u-s-agency-for-global-media-voice-of-america/"
+      }
+    ]
+  },
+  {
+    "date": "2025-03-10",
+    "category": "Civil Rights & Culture",
+    "title": "Black Lives Matter Plaza demolished in Washington, D.C.",
+    "summary": "Under pressure from Trump and congressional Republicans, D.C. crews jackhammered out the two-block 'Black Lives Matter' street mural painted near the White House in 2020.",
+    "details": "Mayor Muriel Bowser had the 35-foot yellow letters painted on 16th Street in June 2020 during the George Floyd protests and made the installation permanent. In March 2025, Representative Andrew Clyde of Georgia introduced a bill to withhold federal funds from the District unless the plaza was renamed 'Liberty Plaza' and all official references to Black Lives Matter were removed. Bowser said the city could not afford 'meaningless congressional interference' while facing federal job cuts, and demolition began March 10, 2025, taking six to eight weeks and costing about $610,000. The city said the space would receive new murals by students and artists as part of the America 250 project.",
+    "sources": [
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/local/washington-dc/2025/03/10/black-lives-matter-plaza-white-house-removal"
+      },
+      {
+        "name": "The Art Newspaper",
+        "url": "https://www.theartnewspaper.com/2025/03/13/black-lives-matter-plaza-mural-washington-dc-dismantled"
+      },
+      {
+        "name": "The Washington Informer",
+        "url": "https://www.washingtoninformer.com/black-lives-matter-mural-demolition/"
+      }
+    ]
+  },
+  {
+    "date": "2025-03-08",
+    "category": "Press, Speech & Democracy",
+    "title": "Green-card holder Mahmoud Khalil arrested over campus activism",
+    "summary": "ICE arrested Columbia graduate Mahmoud Khalil, a legal permanent resident, over his role in pro-Palestinian campus protests, making him the first target of the administration's ideological deportation effort. His case was still being fought at the Supreme Court in June 2026.",
+    "details": "Khalil, a Columbia University graduate student and green-card holder married to a U.S. citizen, was arrested at his university housing on March 8, 2025, and held for 104 days in a Louisiana detention center, missing the birth of his son. Secretary of State Marco Rubio invoked a rarely used immigration provision declaring Khalil's presence harmful to U.S. foreign policy; he was never charged with a crime. A federal judge ruled the provision likely unconstitutional as applied and ordered Khalil released on bail on June 20, 2025; Khalil later filed an administrative claim seeking $20 million from the government. In January 2026 the Third Circuit ruled 2-1 that he must first exhaust the immigration-court system, and in April 2026 the Board of Immigration Appeals issued a final removal order based on alleged omissions in his green-card application. In June 2026 Khalil took the case to the Supreme Court; a court order barring his re-detention or deportation remained in effect while the federal case proceeds.",
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2025/6/20/us-judge-orders-release-of-palestine-advocate-mahmoud-khalil"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/04/10/g-s1-116992/immigration-board-denies-mahmoud-khalils-appeal"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/06/04/nx-s1-5837643/mahmoud-khalil-takes-deportation-case-to-the-supreme-court"
+      }
+    ]
+  },
+  {
     "date": "2025-03-06",
     "category": "Crypto & Personal Profit",
     "title": "Trump orders creation of a Strategic Bitcoin Reserve",
@@ -2389,6 +3242,23 @@ window.ENTRIES = [
       {
         "name": "First Amendment Encyclopedia",
         "url": "https://firstamendment.mtsu.edu/article/trumps-executive-orders-against-law-firms/"
+      }
+    ]
+  },
+  {
+    "date": "2025-03-01",
+    "category": "Civil Rights & Culture",
+    "title": "English declared the official language of the United States",
+    "summary": "Executive Order 14224 made English the official national language for the first time in U.S. history and ended a 25-year-old requirement that federal agencies provide help in other languages.",
+    "details": "No law or executive order had ever designated an official language at the federal level, despite repeated attempts in Congress dating back decades. The order revoked Executive Order 13166, signed by President Clinton in 2000, which required agencies and recipients of federal money to provide meaningful access to services for people with limited English proficiency. Agencies may still offer translation and interpretation, but are no longer required to do so. Roughly 68 million U.S. residents speak a language other than English at home, according to Census Bureau data, and advocacy groups warned the change could affect access to health care, courts, and disaster services.",
+    "sources": [
+      {
+        "name": "The American Presidency Project",
+        "url": "https://www.presidency.ucsb.edu/documents/executive-order-14224-designating-english-the-official-language-the-united-states"
+      },
+      {
+        "name": "National Immigration Forum",
+        "url": "https://forumtogether.org/article/designating-english-as-the-official-language-explainer/"
       }
     ]
   },
@@ -2490,6 +3360,48 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2025-02-26",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "USDA accidentally fires bird-flu responders as egg prices hit records",
+    "summary": "During mass federal layoffs, the USDA mistakenly fired employees working on the avian-flu outbreak and scrambled to rehire them, while egg prices climbed to all-time highs before a $1 billion response plan and imports helped bring them down.",
+    "details": "In February 2025, amid DOGE-driven workforce cuts, the USDA admitted it had accidentally terminated employees supporting the H5N1 bird-flu response — including staff of the National Animal Health Laboratory Network — and rushed to rescind the letters. The outbreak had forced the culling of tens of millions of egg-laying hens (more than 166 million birds since 2022), pushing wholesale egg prices to a record $8.17 per dozen on March 3, 2025, and the national average retail price to an all-time high of $6.23 in March. On February 26 the administration announced a $1 billion strategy: up to $500 million for farm biosecurity, $400 million in farmer relief, $100 million for vaccine research, plus eased imports from countries including Turkey and South Korea. Prices then fell sharply, with wholesale eggs dropping more than half by late spring. The episode became an early example of indiscriminate staffing cuts colliding with an active emergency.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/doge/usda-accidentally-fired-officials-bird-flu-rehire-rcna192716"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/02/19/nx-s1-5302019/bird-flu-usda-firings-reversed"
+      },
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2025/04/11/egg-prices-record-high-march-easter-trump"
+      }
+    ]
+  },
+  {
+    "date": "2025-02-21",
+    "category": "Military & National Security",
+    "title": "Trump fires Joint Chiefs chairman, Navy chief, and top military lawyers",
+    "summary": "Trump fired Gen. CQ Brown Jr., the nation's highest-ranking officer, while Hegseth removed Navy chief Adm. Lisa Franchetti and announced the top military lawyers of three services would be replaced.",
+    "details": "It was the first time two sitting members of the Joint Chiefs of Staff had been dismissed at once, and Brown, the second Black officer ever to chair the Joint Chiefs, was only 16 months into a four-year term. Hegseth had previously questioned in writing whether Brown got the job because of his race and argued that generals involved in diversity programs should be fired. The purge also swept out Adm. Franchetti, the first woman to lead the Navy; Air Force vice chief Gen. James Slife; and the judge advocates general of the Army, Navy, and Air Force, the independent lawyers who advise commanders on the legality of orders. A month earlier, the administration had removed Coast Guard commandant Adm. Linda Fagan, the first woman to lead a US armed service; in April it fired Vice Adm. Shoshana Chatfield, a senior US officer at NATO who had appeared on a conservative group's 'woke' list. Trump named retired Lt. Gen. Dan 'Razin' Caine, who had to be recalled to active duty, as the new chairman. Former defense officials from both parties warned the firings broke a long tradition of keeping the military's top ranks separate from partisan politics.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/02/21/nx-s1-5305288/trump-fires-chairman-joint-chiefs-of-staff-charles-brown-pentagon"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/02/21/politics/trump-fires-top-us-general-cq-brown/index.html"
+      },
+      {
+        "name": "Military.com",
+        "url": "https://www.military.com/daily-news/2025/01/21/trump-administration-fires-coast-guard-commandant-adm-linda-fagan.html"
+      }
+    ]
+  },
+  {
     "date": "2025-02-11",
     "category": "Press, Speech & Democracy",
     "title": "White House bars AP over 'Gulf of America,' takes over press pool",
@@ -2549,6 +3461,27 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2025-02-09",
+    "category": "Government, Health & Science",
+    "title": "Consumer watchdog CFPB ordered shut, gutted despite court blocks",
+    "summary": "The administration ordered the Consumer Financial Protection Bureau — which has returned over $21 billion to cheated consumers — to stop all work and tried to fire about 90% of its staff.",
+    "details": "On February 9, 2025, acting director Russell Vought ordered CFPB staff to halt all supervision, examinations and enforcement, closed headquarters, and later attempted to fire roughly 1,500 of the agency's 1,700 employees. The CFPB, created after the 2008 financial crisis, has returned more than $21 billion to Americans harmed by banks, lenders and debt collectors since 2011. Judge Amy Berman Jackson issued an injunction in March 2025 blocking the dismantling, and courts spent the next year repeatedly stopping new rounds of mass firings, including one attempt made days after an appeals-court ruling. Vought also tried to defund the bureau by requesting zero money from the Federal Reserve, and Congress cut its budget cap roughly in half; in December 2025 a judge ordered the administration to keep seeking funding. By mid-2026 the full D.C. Circuit was reviewing the case, the administration's revised plan would still cut the workforce by about two-thirds to 556 employees, and in June 2026 Trump nominated Brian Johnson — a critic of the agency — as permanent director. With supervision halted, the bureau dropped enforcement cases against companies accused of overcharging consumers.",
+    "sources": [
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/politics/federal-judge-blocks-trump-administration-from-dismantling-consumer-financial-protection-bureau"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/12/30/nx-s1-5661581/cfpb-funding-order"
+      },
+      {
+        "name": "The Hill",
+        "url": "https://thehill.com/regulation/court-battles/5933996-trump-administration-cfpb-workforce/"
+      }
+    ]
+  },
+  {
     "date": "2025-02-07",
     "category": "Government, Health & Science",
     "title": "NIH caps research overhead and terminates grants; universities targeted",
@@ -2587,6 +3520,40 @@ window.ENTRIES = [
       {
         "name": "NPR",
         "url": "https://www.npr.org/2025/03/31/nx-s1-5334415/doge-institute-of-museum-and-library-services"
+      }
+    ]
+  },
+  {
+    "date": "2025-02-06",
+    "category": "Civil Rights & Culture",
+    "title": "'Anti-Christian bias' task force and White House Faith Office created",
+    "summary": "Trump created a federal task force to root out 'anti-Christian bias' in government, chaired by the attorney general, and a White House Faith Office led by televangelist Paula White-Cain.",
+    "details": "Announced at the National Prayer Breakfast, the executive order directed the Task Force to Eradicate Anti-Christian Bias to review policies and conduct at agencies including the Justice Department, IRS, and FBI, and to recommend further action; Attorney General Pam Bondi chairs it, cabinet secretaries sit on it, and it held its first meeting on April 22, 2025. A separate order the next day, February 7, established the White House Faith Office inside the Domestic Policy Council, headed by Paula White-Cain, Trump's longtime spiritual adviser. The task force issued an initial report in 2025 and is set to expire after two years unless extended. Secular and church-state separation groups argued the effort privileges one religion over others; supporters said it addresses discrimination against religious Americans.",
+    "sources": [
+      {
+        "name": "The White House",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/02/eradicating-anti-christian-bias/"
+      },
+      {
+        "name": "Free Speech Center at MTSU",
+        "url": "https://firstamendment.mtsu.edu/post/after-prayer-breakfast-trump-creates-task-force-to-root-out-anti-christian-bias/"
+      }
+    ]
+  },
+  {
+    "date": "2025-02-05",
+    "category": "Civil Rights & Culture",
+    "title": "Transgender athletes barred from women's sports; NCAA complies next day",
+    "summary": "Executive Order 14201 threatened to cut federal funding from any school that lets transgender girls or women compete on female sports teams; the NCAA changed its rules within 24 hours.",
+    "details": "The order, 'Keeping Men Out of Women's Sports,' reinterpreted Title IX — the 1972 law banning sex discrimination in education — to require that women's teams exclude transgender women and girls, and directed agencies to strip funding from schools that do not comply. On February 6, 2025, the NCAA, which governs college sports for roughly 510,000 athletes, limited women's competition to athletes assigned female at birth, effective immediately; NCAA president Charlie Baker had told Congress in late 2024 that he knew of fewer than 10 transgender athletes in the entire NCAA. The order also directed the State Department to press international sports bodies and to deny visas for transgender women athletes seeking to compete in the U.S. Legal challenges to the order and to state-level bans continued into 2026.",
+    "sources": [
+      {
+        "name": "Federal Register",
+        "url": "https://www.federalregister.gov/documents/2025/02/11/2025-02513/keeping-men-out-of-womens-sports"
+      },
+      {
+        "name": "Congressional Research Service",
+        "url": "https://www.congress.gov/crs-product/R48448"
       }
     ]
   },
@@ -2692,6 +3659,90 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2025-01-29",
+    "category": "Military & National Security",
+    "title": "67 die in midair collision; Trump blames DEI without evidence",
+    "summary": "An Army Black Hawk helicopter collided with an American Airlines regional jet near Reagan National Airport, killing all 67 people aboard both aircraft. The next morning, Trump blamed diversity hiring at the FAA, citing no evidence.",
+    "details": "The collision between American Eagle Flight 5342 from Wichita and an Army Black Hawk on a training flight over the Potomac River was the deadliest US air disaster since November 2001, killing 60 passengers, 4 crew, and 3 soldiers. Less than 24 hours later, before investigators had recovered the black boxes, Trump told a White House press conference that DEI hiring programs 'could' be to blame, saying he was relying on 'common sense.' Aviation experts noted every controller and pilot involved had met the same training standards regardless of any diversity policy. The NTSB's final report, released January 27, 2026, instead blamed 'deep, underlying systemic failures': the FAA had placed a helicopter route dangerously close to the runway approach path, ignored more than 80 serious close calls between helicopters and airliners in prior years, and failed to act on safety recommendations, while a faulty altitude instrument likely led the helicopter crew to believe they were flying about 100 feet lower than they were. The Justice Department later admitted the government bore fault in litigation brought by victims' families.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/01/27/nx-s1-5689091/ntsb-dca-midair-collision-black-hawk-helicopter"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/news/nbcblk/trump-plane-crash-dei-press-conference-biden-faa-washington-dc-rcna190020"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/us-government-admits-negligence-dca-black-hawk-plane-crash/"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-29",
+    "category": "Immigration & Enforcement",
+    "title": "Guantánamo Bay converted into migrant detention site",
+    "summary": "Trump ordered the military to prepare 30,000 beds at Guantánamo Bay for deported migrants. The plan never held more than a few hundred people at extraordinary cost and drew repeated court challenges.",
+    "details": "On January 29, 2025, Trump directed the Pentagon and DHS to expand a migrant facility at the Guantánamo naval base to hold up to 30,000 people, and the first flights arrived on February 4. The population peaked at fewer than 200 at a time; advocacy groups counted roughly 500 people cycled through over the year, and early operations reportedly cost about $100,000 per detainee per day — versus roughly $165 per day at mainland ICE facilities — because more than 1,000 troops were deployed to guard a few dozen detainees. The ACLU and other groups sued over access to lawyers and the legality of offshore detention; in March 2025 the government told a federal judge no migrants were then at the base, and detainees were repeatedly moved back to Louisiana as cases advanced. The base was used intermittently through 2025, and litigation, including a suit on behalf of previously held Nicaraguan men, continued into 2026. The 30,000-bed plan was never realized.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/03/01/g-s1-51567/aclu-sue-trump-migrants-guantanamo"
+      },
+      {
+        "name": "Courthouse News",
+        "url": "https://www.courthousenews.com/federal-judge-rejects-guantanamo-bay-detention-challenge-as-doj-confirms-no-migrants-at-military-base/"
+      },
+      {
+        "name": "ACLU",
+        "url": "https://www.aclu.org/press-releases/groups-sue-trump-administration-over-unlawful-detention-of-immigrants-at-guantanamo-bay"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-28",
+    "category": "Civil Rights & Culture",
+    "title": "Federal campaign against gender-affirming care for minors",
+    "summary": "Executive Order 14187 moved to cut off gender-affirming care for anyone under 19, and Justice Department subpoenas led over 20 hospitals to stop or restrict such care even where it remained legal.",
+    "details": "The order, titled 'Protecting Children from Chemical and Surgical Mutilation,' threatened to pull federal funding, including research and education grants, from hospitals that provide puberty blockers, hormones, or surgeries to patients under 19. Federal judges in Maryland and Washington state blocked the funding-cutoff provisions in February and March 2025, but many hospitals retreated anyway. In July 2025 the Justice Department said it had issued more than 20 subpoenas to doctors and clinics that treat transgender minors, seeking patient records. By fall 2025, at least 21 hospitals and health systems had ended or restricted care, including Children's Hospital Los Angeles, which in July 2025 closed the country's oldest and largest trans-youth clinic serving about 3,000 patients, and Kaiser Permanente, which paused gender-affirming surgeries for patients under 19 nationwide as of August 29, 2025. Subpoenas continued into 2026, including a May 2026 grand jury subpoena to NYU Langone, while in January 2026 federal prosecutors dropped their effort to obtain patient records from the Los Angeles children's hospital.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/nbc-out/out-news/least-21-hospitals-ended-restricted-trans-care-minors-january-rcna226640"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/07/22/nx-s1-5470244/clinic-for-trans-youth-in-la-closes-leaving-some-families-struggling-to-find-care"
+      },
+      {
+        "name": "KFF",
+        "url": "https://www.kff.org/other-health/president-trumps-executive-order-on-gender-affirming-care-responses-by-providers-states-and-litigation/"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-27",
+    "category": "Civil Rights & Culture",
+    "title": "Transgender troops banned from military service, then discharged",
+    "summary": "Executive Order 14183 barred transgender people from serving in the military; after the Supreme Court allowed it in May 2025, the Pentagon began discharging thousands of service members.",
+    "details": "The order, 'Prioritizing Military Excellence and Readiness,' declared that identifying as transgender is inconsistent with military service. Federal judges blocked it in March 2025 — one called it 'soaked in animus' — but on May 6, 2025 the Supreme Court stayed the injunction in United States v. Shilling, letting the ban take effect while appeals continued. Pentagon data showed about 4,240 troops diagnosed with gender dysphoria; roughly 1,000 self-identified for voluntary separation by May 2025, and involuntary discharges based on medical-record reviews began after deadlines in June and July 2025. On June 1, 2026, the D.C. Circuit Court of Appeals ruled in Talbott v. United States that the ban was unlawful and upheld an injunction blocking the discharge of the service members who sued, though the ban remained in force for other transgender troops while litigation continued.",
+    "sources": [
+      {
+        "name": "Military.com",
+        "url": "https://www.military.com/daily-news/2025/05/09/about-1000-troops-slated-immediate-separation-under-reinstated-transgender-ban.html"
+      },
+      {
+        "name": "Military Times",
+        "url": "https://www.militarytimes.com/news/your-military/2025/05/08/up-to-1000-transgender-troops-being-separated-under-new-pentagon-memo/"
+      },
+      {
+        "name": "GLAD Law",
+        "url": "https://www.gladlaw.org/a-federal-appellate-court-just-blocked-trumps-military-ban-stopping-the-discharge-of-transgender-service-members/"
+      }
+    ]
+  },
+  {
     "date": "2025-01-24",
     "category": "Government, Health & Science",
     "title": "Trump fires at least 17 inspectors general in week one",
@@ -2709,6 +3760,27 @@ window.ENTRIES = [
       {
         "name": "Government Executive",
         "url": "https://www.govexec.com/oversight/2025/09/fired-watchdogs-cant-be-reinstated-despite-trumps-obvious-law-breaking-court-decides/408387/"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-22",
+    "category": "Civil Rights & Culture",
+    "title": "'X' gender markers eliminated from U.S. passports",
+    "summary": "The State Department stopped issuing passports with 'X' sex markers and barred transgender Americans from updating their sex designation; the Supreme Court let the policy take effect in November 2025.",
+    "details": "Implementing the day-one gender order, the State Department on January 22, 2025 reverted to listing only sex assigned at birth on passports, ending a policy in place since 2021 (and marker changes allowed in some form since 1992). The ACLU sued on behalf of transgender, nonbinary, and intersex plaintiffs in Orr v. Trump, and on June 17, 2025 a federal judge in Boston issued a class-wide preliminary injunction requiring the government to resume issuing accurate passports, including X markers. The First Circuit declined to pause that ruling, but on November 6, 2025 the Supreme Court granted the administration's emergency request and allowed the passport policy to be enforced while the lawsuit continues; the three liberal justices dissented. As of mid-2026 the policy remained in effect and the underlying case was still being litigated.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/11/06/nx-s1-5585103/supreme-court-passports-gender"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-trump-enforce-passport-restrictions-targeting-tra-rcna235999"
+      },
+      {
+        "name": "ACLU",
+        "url": "https://www.aclu.org/cases/orr-v-trump"
       }
     ]
   },
@@ -2747,6 +3819,48 @@ window.ENTRIES = [
       {
         "name": "Skift",
         "url": "https://skift.com/2025/01/21/alaska-arctic-oil-gas-drilling-donald-trump-executive-order/"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-21",
+    "category": "Government, Health & Science",
+    "title": "Trump launches $500B Stargate AI venture, later orders 'anti-woke' AI",
+    "summary": "On his second day in office Trump announced Stargate, a $500 billion private AI data-center venture, and in July 2025 issued an AI Action Plan plus an order barring 'woke AI' from federal contracts.",
+    "details": "Trump unveiled Stargate at a White House press conference on January 21, 2025, flanked by OpenAI's Sam Altman, Oracle's Larry Ellison and SoftBank's Masayoshi Son; the venture plans to invest $500 billion in AI data centers over four years, starting with $100 billion and a flagship site in Abilene, Texas. Abu Dhabi's MGX — the same fund later involved in the Trump-family stablecoin deal and the TikTok consortium — is one of Stargate's initial equity funders. By late September 2025 the project claimed nearly 7 gigawatts of planned capacity and over $400 billion in committed investment. On July 23, 2025, the administration released 'America's AI Action Plan' and three executive orders, including 'Preventing Woke AI in the Federal Government,' which requires any large language model sold to federal agencies to be free of 'ideological dogmas such as DEI.' Critics, including Brookings analysts, said the order effectively pressures AI companies to tune their products to the administration's political preferences, since the federal government is a major AI customer.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/01/21/tech/openai-oracle-softbank-trump-ai-investment"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2025/07/24/no-woke-ai-in-washington-says-trump-as-he-launches-ai-action-plan.html"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/announcing-the-stargate-project/"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-21",
+    "category": "Civil Rights & Culture",
+    "title": "Executive orders dismantle DEI across government and federal contractors",
+    "summary": "Executive Orders 14151 and 14173 ended all federal diversity, equity, and inclusion programs and pressured private contractors and companies to drop theirs.",
+    "details": "EO 14151, signed January 20, 2025, terminated every federal DEI office and program; within days agencies placed DEI staff on leave ahead of termination, sweeping in some employees who had merely attended a diversity training. EO 14173, signed January 21, revoked a 1965 anti-discrimination order that had governed federal contractors since President Lyndon Johnson, and required contractors and grant recipients to certify they run no 'illegal DEI' programs, with potential False Claims Act penalties for violations. A federal judge in Maryland blocked key provisions on February 21, 2025, finding likely First Amendment violations, but the Fourth Circuit Court of Appeals lifted that injunction on March 14, 2025, letting the orders take effect during the appeal. The pressure extended into the private sector: in March 2025 the EEOC's acting chair sent letters to 20 major law firms demanding details of their diversity hiring practices, and in August 2025 four large firms, including Kirkland & Ellis and Latham & Watkins, signed agreements with the EEOC disavowing DEI-labeled programs. Many large companies scaled back or renamed their diversity programs to avoid federal investigations.",
+    "sources": [
+      {
+        "name": "Congressional Research Service",
+        "url": "https://www.congress.gov/crs-product/IN12497"
+      },
+      {
+        "name": "Ballard Spahr",
+        "url": "https://www.ballardspahr.com/insights/alerts-and-articles/2025/03/fourth-circuit-lifts-nationwide-injunction-against-executive-orders-targeting-dei-programs"
+      },
+      {
+        "name": "EEOC",
+        "url": "https://www.eeoc.gov/newsroom/eeoc-acting-chair-andrea-lucas-sends-letters-20-law-firms-requesting-information-about-dei"
       }
     ]
   },
@@ -2810,6 +3924,27 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2025-01-20",
+    "category": "Civil Rights & Culture",
+    "title": "Day-one order ends federal recognition of transgender identity",
+    "summary": "Hours after taking office, Trump signed Executive Order 14168 declaring that the federal government recognizes only two unchangeable sexes, male and female, defined 'at conception.'",
+    "details": "The order, titled 'Defending Women from Gender Ideology Extremism and Restoring Biological Truth to the Federal Government,' required every federal agency to replace the word 'gender' with 'sex,' strip recognition of transgender and nonbinary identities from federal documents and policies, and end funding for what it called 'gender ideology.' It also directed the Bureau of Prisons to move transgender women into men's prisons and to stop paying for gender-affirming medical care for federal inmates. Civil rights groups reported that some transgender women were transferred or placed in solitary confinement in the weeks that followed. On June 3, 2025, U.S. District Judge Royce Lamberth blocked the prison provisions for all federal inmates diagnosed with gender dysphoria in the class-action case Kingdom v. Trump, ordering that their housing and medical treatment continue as before. The order became the legal foundation for later policies on passports, the military, schools, and sports.",
+    "sources": [
+      {
+        "name": "The American Presidency Project",
+        "url": "https://www.presidency.ucsb.edu/documents/executive-order-14168-defending-women-from-gender-ideology-extremism-and-restoring"
+      },
+      {
+        "name": "KFF",
+        "url": "https://www.kff.org/lgbtq/overview-of-president-trumps-executive-actions-impacting-lgbtq-health/"
+      },
+      {
+        "name": "National Center for LGBTQ Rights",
+        "url": "https://www.nclrights.org/about-us/press-release/federal-court-stops-trump-policy-that-deliberately-exposes-transgender-women-in-prison-to-extreme-risk-of-sexual-assault/"
+      }
+    ]
+  },
+  {
     "date": "2025-01-17",
     "category": "Crypto & Personal Profit",
     "title": "Trump launches $TRUMP memecoin three days before inauguration",
@@ -2827,6 +3962,27 @@ window.ENTRIES = [
       {
         "name": "Bloomberg",
         "url": "https://www.bloomberg.com/graphics/2025-trump-token-memecoin-crypto-finance/"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-06",
+    "category": "Crypto & Personal Profit",
+    "title": "Amazon pays $40 million for Melania Trump documentary",
+    "summary": "Amazon paid $40 million to license a documentary about the First Lady — reportedly a record for such a film — as Jeff Bezos courted the new administration.",
+    "details": "In January 2025, Amazon MGM Studios agreed to pay $40 million to license 'Melania,' a documentary directed by Brett Ratner, his first project since sexual-misconduct allegations sidelined him in 2017; Amazon spent roughly another $35 million marketing it. News outlets reported Melania Trump stood to receive about 70% of the licensing fee (roughly $28 million), and President Trump's 2025 financial disclosure later showed he was personally paid a $10.7 million fee from the project. The deal came as Bezos — whose Amazon donated $1 million to Trump's inauguration and holds billions in federal contracts — worked to repair relations with Trump. Senator Elizabeth Warren called the purchase 'bribery in plain sight'; Bezos said calling it influence-buying was 'just not correct.' The film was released January 30, 2026, earned about $16.6 million at the worldwide box office against the roughly $75 million Amazon spent, and drew overwhelmingly negative reviews.",
+    "sources": [
+      {
+        "name": "Rolling Stone",
+        "url": "https://www.rollingstone.com/politics/politics-news/amazon-paying-license-melania-trump-documentary-1235227761/"
+      },
+      {
+        "name": "Variety",
+        "url": "https://variety.com/2026/film/news/trump-fee-payment-amazon-melania-documentary-1236800149/"
+      },
+      {
+        "name": "TheWrap",
+        "url": "https://www.thewrap.com/industry-news/business/trump-was-paid-10-7-million-for-amazons-melania-doc/"
       }
     ]
   },
