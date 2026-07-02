@@ -18,7 +18,8 @@
     "Press, Speech & Democracy": "#b78bff",
     "Promises vs. Reality": "#ff6bb5",
     "Civil Rights & Culture": "#58d68d",
-    "Military & National Security": "#aab4c4"
+    "Military & National Security": "#aab4c4",
+    "The Personal File": "#6ad4e0"
   };
   const catColor = c => CAT_COLORS[c] || "#e8493a";
 

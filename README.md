@@ -2,7 +2,7 @@
 
 A plain-English, source-cited record of what the Trump administration has done — and promised but not done — since the 2024 election. Every entry has a date, a one-line summary, a longer explanation written for someone hearing about it for the first time, and links to reputable sources (AP, Reuters, NPR, court filings, government documents, major outlets).
 
-196 entries across nine categories:
+217 entries across ten categories:
 
 - **Crypto & Personal Profit** — WLF, USD1, the MGX $2B / UAE chips linkage, the memecoin, Justin Sun, the Qatar jet, golf costs, the $230M DOJ demand
 - **Pardons & Rule of Law** — Jan 6, CZ, the pardon-lobbying economy, Comey/James, law-firm orders, the Bove judgeship
@@ -11,7 +11,8 @@ A plain-English, source-cited record of what the Trump administration has done �
 - **Economy, Tariffs & Foreign Policy** — Liberation Day, the Fed fight, Argentina, Ukraine/Gaza/Iran/Venezuela, TikTok, the Intel stake
 - **Press, Speech & Democracy** — media settlements and lawsuits, Epstein files, gerrymandering, No Kings, VOA, ideological deportations
 - **Civil Rights & Culture** — trans policy, DEI purges, military history scrubbing, Confederate names, consent decrees
-- **Military & National Security** — Signalgate, the generals purge, Quantico, Golden Dome, border military zones
+- **Military & National Security** — Signalgate, the generals purge, Quantico, Golden Dome, the 2026 Iran war in depth
+- **The Personal File** — his own criminal and civil cases, health disclosures, Mar-a-Lago economics
 - **Promises vs. Reality** — what was said vs. what happened, with the receipts
 
 ## Running it

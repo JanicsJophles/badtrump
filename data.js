@@ -86,6 +86,23 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2026-06-30",
+    "category": "The Personal File",
+    "title": "Disclosure shows Mar-a-Lago income surged after $1 million entry fee",
+    "summary": "Trump's annual financial disclosure reported $77.5 million in Mar-a-Lago income for 2025, up more than 50 percent from 2024 and roughly triple his first-term years, after the club's initiation fee was raised to $1 million shortly before the 2024 election.",
+    "details": "Trump's public financial disclosure covering 2025 showed his Palm Beach club generated $77.5 million, compared with about $50 million in 2024 and $20-25 million per year during his first term. The club's one-time initiation fee was raised to $1 million in October 2024 — about a month before the election — up from $700,000, and from $100,000 before his first win in 2016; reports at the time framed the hike as pricing in proximity to a likely president. Trump did not divest from his businesses in either term, holding them through a revocable trust, so club revenue flows to his benefit while he is president. Ethics specialists note that memberships at a club where the sitting president regularly spends weekends function as a form of paid access unavailable to ordinary citizens. His Doral golf resort income also rose, from $110 million in 2024 to about $122 million in 2025.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/07/01/us/trump-financial-disclosure-mar-a-lago-doral-income-invs"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/trump-significantly-hikes-fee-members-161312364.html"
+      }
+    ]
+  },
+  {
     "date": "2026-06-29",
     "category": "Government, Health & Science",
     "title": "Supreme Court overturns Humphrey's Executor, expands firing power",
@@ -107,6 +124,48 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2026-06-29",
+    "category": "The Personal File",
+    "title": "Supreme Court refuses Trump appeal; E. Jean Carroll verdicts stand",
+    "summary": "The Supreme Court declined without noted dissent to hear Trump's appeal of the jury verdict finding he sexually abused and defamed E. Jean Carroll, making the $5 million judgment final; her separate $83.3 million defamation award was upheld on appeal in 2025.",
+    "details": "A Manhattan federal jury found in May 2023 that Trump sexually abused Carroll in a department store dressing room in the 1990s and defamed her in 2022, awarding $5 million; a second jury in January 2024 awarded $83.3 million over defamatory statements Trump made about her while president in 2019. The Second Circuit upheld the $5 million verdict in December 2024 and, on September 8, 2025, upheld the $83.3 million judgment, calling the damages 'fair and reasonable' and rejecting Trump's presidential-immunity argument as waived; on April 29, 2026, the full Second Circuit denied en banc rehearing in both appeals. On June 29, 2026, the Supreme Court denied Trump's petition in the $5 million case in a brief unexplained order, exhausting his direct appeals, and Carroll's lawyers moved to collect from the funds Trump had posted. Trump, who had bonded both judgments during the appeals, said he would 'continue the fight,' and the $83.3 million judgment remained subject to a possible further Supreme Court petition. He is the first sitting president with final civil judgments for sexual abuse and defamation on the books.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rejects-trump-effort-overturn-e-jean-carroll-sexual-assa-rcna256546"
+      },
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/politics/supreme-court-rejects-trumps-push-to-toss-5-million-verdict-in-e-jean-carroll-sexual-abuse-case"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/29/trump-carroll-defamation-appeal.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-24",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Congress votes to halt war as Trump seeks $87.6 billion more",
+    "summary": "In the same week, the Senate passed the first war powers resolution ever approved by both chambers, and the White House asked Congress for $87.6 billion largely to cover Iran war costs.",
+    "details": "On June 23, 2026, the Senate voted 50-48 — with Republicans Bill Cassidy, Susan Collins, Rand Paul and Lisa Murkowski joining Democrats — to direct Trump to halt the campaign against Iran or seek congressional approval; the House had passed it June 3, making it the first war powers resolution in history to clear both chambers, though as a concurrent resolution it was not legally binding and Trump dismissed the rebuke on Truth Social. The next day the Office of Management and Budget submitted an $87.6 billion supplemental request: $67 billion for the Pentagon to replenish munitions and cover war operations, $11.1 billion in economic assistance for American farmers, and $1.4 billion for the Ebola outbreak in Central Africa. The war had already cost the U.S. an estimated $40 billion by June 21. Democrats immediately opposed the request, some House Republicans floated passing it through reconciliation to avoid a filibuster, and vulnerable Republicans faced a vote on funding an unpopular war months before the midterms; Congress had not acted on the request as of July 1.",
+    "sources": [
+      {
+        "name": "PBS News",
+        "url": "https://www.pbs.org/newshour/politics/white-house-seeks-87-6b-from-congress-for-iran-war-costs-u-s-farmers-and-ebola-response"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/06/23/nx-s1-5868599/senate-iran-war-powers-resolution"
+      },
+      {
+        "name": "The Hill",
+        "url": "https://thehill.com/newsletters/defense-national-security/5939536-iran-war-funding-battle/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-15",
     "category": "Promises vs. Reality",
     "title": "'No tax on Social Security' — a deduction instead, insolvency sooner",
@@ -124,6 +183,27 @@ window.ENTRIES = [
       {
         "name": "Center for American Progress",
         "url": "https://www.americanprogress.org/article/the-social-security-administration-is-bleeding-staff/"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-14",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Pakistan brokers Islamabad Memorandum to wind down Iran war",
+    "summary": "After mediating an April 8 ceasefire that Trump extended indefinitely on April 21, Pakistan announced on June 14 a U.S.-Iran memorandum of understanding — a framework, not a peace treaty.",
+    "details": "Pakistan's team — Prime Minister Shehbaz Sharif, Field Marshal Asim Munir and Foreign Minister Ishaq Dar — brokered a two-week ceasefire that took effect April 8, 2026; on April 21 Trump extended it indefinitely, citing Iran's 'seriously fractured' government, while keeping the U.S. naval blockade in place. On June 14 Sharif announced the two sides had finalized the Islamabad Memorandum, which Trump signed June 17 at the Palace of Versailles after the G7 summit as Iranian President Pezeshkian signed in Tehran. The framework set a 60-day ceasefire, an Iranian commitment not to produce or acquire nuclear weapons, dilution of Iran's highly enriched uranium stockpile, reopening of the Strait of Hormuz (the U.S. blockade lifted June 18), and discussion of releasing up to $25 billion in frozen Iranian assets contingent on compliance. Left unresolved were Iran's enrichment levels, the location of its 60%-enriched uranium, sanctions relief and the status of Lebanon. The truce quickly showed strain: the U.S. struck Iranian facilities June 26-27 over alleged violations before both sides agreed on June 28 to stop attacks.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Islamabad_Memorandum"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/21/trump-iran-war-ceasefire.html"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/18/world-reacts-to-us-iran-deal-to-extend-ceasefire-begin-negotations"
       }
     ]
   },
@@ -170,6 +250,27 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2026-05-26",
+    "category": "The Personal File",
+    "title": "Third Walter Reed exam in 13 months; weight up, records limited",
+    "summary": "Trump spent over three hours at Walter Reed for what he called his '6 month physical,' declaring everything 'checked out PERFECTLY'; his physician's summary showed his weight up 14 pounds, and the White House did not immediately release a full written report.",
+    "details": "The May 26, 2026 visit was Trump's third extended Walter Reed exam in about 13 months, after physicals in April 2025 and October 2025. His April 2025 exam had reported a weight of 224 pounds, a 30-out-of-30 score on the Montreal Cognitive Assessment, and 'excellent health' per physician Sean Barbabella; the May 2026 summary listed 238 pounds, advice to lose weight, exercise more, and take low-dose aspirin, improvement in his lower-leg swelling from chronic venous insufficiency, and hand bruising again attributed to 'frequent handshaking.' Disclosure has been limited to short physician memos, with no underlying test results or imaging released, and questions like the purpose of his October 2025 MRI left unanswered. Three weeks after the exam, on June 14, 2026, Trump turned 80, becoming only the second president to serve in office as an octogenarian, after Joe Biden. He was already the oldest person ever inaugurated — 78 years, 7 months in January 2025 — and is on track to pass Biden as the oldest serving president before his term ends.",
+    "sources": [
+      {
+        "name": "STAT News",
+        "url": "https://www.statnews.com/2026/05/26/trump-annual-physicial-medical-exam-public-scrutiny/"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/04/11/nx-s1-5361249/trump-physical-cognitive-test"
+      },
+      {
+        "name": "Fox News",
+        "url": "https://www.foxnews.com/politics/trump-marks-80th-birthday-second-octogenarian-sitting-president-utterly-defies-age"
+      }
+    ]
+  },
+  {
     "date": "2026-05-22",
     "category": "Immigration & Enforcement",
     "title": "Judge throws out Abrego Garcia charges as vindictive prosecution",
@@ -187,6 +288,27 @@ window.ENTRIES = [
       {
         "name": "WHYY",
         "url": "https://whyy.org/articles/kilmar-abrego-garcia-charges-dismissed-vindictive-prosecution/"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-22",
+    "category": "Military & National Security",
+    "title": "Spy chief Gabbard exits after intelligence undercut war's rationale",
+    "summary": "Director of National Intelligence Tulsi Gabbard told Congress Iran had made 'no efforts' to rebuild its nuclear enrichment program before the war — contradicting the case for it — then announced her resignation May 22, effective June 30.",
+    "details": "In written testimony to the Senate Intelligence Committee on March 18, 2026, Gabbard said Iran's enrichment program was 'obliterated' by the June 2025 strikes and that 'there have been no efforts since then to try to rebuild their enrichment capability' — an intelligence-community assessment at odds with the administration's justification for attacking Iran again. She omitted that passage from her televised oral testimony, saying she ran out of time, and her handling of the episode reportedly angered top White House officials, as did the resignation of National Counterterrorism Center chief Joe Kent in protest of the war. On May 22 Gabbard announced she would resign at the end of June, publicly citing her husband's rare bone cancer diagnosis. Independent analysts noted the nuclear picture remained unsettled: satellite imagery from October 2025 showed possible signs of renewed activity at some sites, about 400 kilograms of 60%-enriched uranium remained unaccounted for, and on June 2 Iran barred IAEA inspectors from Fordow, Natanz and Isfahan, citing bomb damage.",
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/18/us-intel-chief-gabbard-says-iran-was-not-rebuilding-enrichment-prior-to-war"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/05/22/politics/tulsi-gabbard-resigns"
+      },
+      {
+        "name": "CSIS",
+        "url": "https://www.csis.org/analysis/operation-epic-fury-and-remnants-irans-nuclear-program"
       }
     ]
   },
@@ -250,6 +372,27 @@ window.ENTRIES = [
       {
         "name": "PolitiFact",
         "url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/1641/end-the-russia-ukraine-war-within-24-hours/article/3172/"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-06",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "War inflation hits home: gas up 50%, oil profits double",
+    "summary": "By May, U.S. gasoline cost about 50% more than before the war — roughly $4.50 a gallon nationally and near $6 in California — while major oil companies posted windfall profits.",
+    "details": "The national average gas price climbed nearly $1.50 per gallon from late February, reaching about $4.50 by mid-May 2026, with five states at or near $5 and California close to $6. Consumer prices rose 3.8% year-over-year, the largest annual increase since May 2023, and Moody's estimated the average household was paying about $450 more for gas and energy — more than erasing the average $384 boost from that year's larger tax refunds. Six of the world's biggest oil companies — Chevron, Shell, BP, ConocoPhillips, Exxon and TotalEnergies — were earning nearly $3,000 per second, about $37 million a day more than in 2025, with Oxfam projecting $94 billion in combined annual profit. The war's economic fallout also handed Russia extra oil revenue and helped indefinitely postpone the U.S.-brokered Russia-Ukraine peace talks that had been scheduled for early March in Abu Dhabi. The pump-price surge became a central issue for Republicans ahead of the November 2026 midterms.",
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/6/gasoline-in-the-us-costs-50-more-now-than-before-iran-war"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/29/energy-costs-inflation-iran-war-trump.html"
+      },
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/04/28/oil-and-gas-companies-profits-as-energy-giants-post-profits-twice-as-high-as-2025/"
       }
     ]
   },
@@ -418,6 +561,90 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2026-03-31",
+    "category": "The Personal File",
+    "title": "Judge rejects DOJ move to shield Trump from January 6 lawsuits",
+    "summary": "A federal judge struck the Justice Department's attempt to substitute the U.S. government for Trump as defendant in civil suits by Capitol Police officers and lawmakers, ruling his January 6 Ellipse speech was not an official act and sending the cases toward trial.",
+    "details": "Capitol Police officers and Democratic members of Congress sued Trump personally in 2021 over injuries and harm from the January 6 attack, and the suits survived early immunity fights. After Trump returned to office, his own Justice Department filed a Westfall Act certification declaring that his January 6 conduct fell within the scope of his federal employment — a move that would have replaced Trump with the U.S. government as defendant and effectively ended most claims against him personally. On March 31, 2026, U.S. District Judge Amit Mehta struck that certification, ruled the Ellipse speech was campaign activity rather than an official presidential act, and largely denied Trump's motion for summary judgment on official-acts immunity. The rulings kept Trump personally on the hook and moved the consolidated cases closer to the first civil trial of a president over January 6. In 2023, under the prior administration, the Justice Department had taken the position that Trump could be sued by the police officers.",
+    "sources": [
+      {
+        "name": "Roll Call",
+        "url": "https://rollcall.com/2026/04/01/judge-denies-trump-effort-to-end-jan-6-lawsuits-before-trial/"
+      },
+      {
+        "name": "Courthouse News Service",
+        "url": "https://www.courthousenews.com/judge-refuses-to-toss-jan-6-lawsuits-against-trump/"
+      },
+      {
+        "name": "Just Security",
+        "url": "https://www.justsecurity.org/105307/trump-civil-litigation-january-6th/"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-16",
+    "category": "Military & National Security",
+    "title": "Israel invades southern Lebanon after Hezbollah rejoins the fight",
+    "summary": "Hezbollah's rocket barrages in support of Iran triggered a full Israeli ground invasion of southern Lebanon, a war that killed more than 4,000 people in Lebanon.",
+    "details": "After the February 28 strikes on Iran and Khamenei's assassination, Hezbollah resumed rocket attacks on Israel, eventually firing drones and as many as 2,000 rockets. Israel responded with hundreds of airstrikes across southern Lebanon, Beirut and the Beqaa Valley, then launched ground operations on March 16, ultimately deploying five divisions. Israeli forces blew up the main bridges over the Litani River to cut off the south, fought a major battle at Bint Jbeil, and on March 24 Israel's defense minister announced plans to demolish Lebanese border villages and occupy southern Lebanon up to the Litani. Lebanese casualty counts reached 4,246 killed and 12,190 injured, with Hezbollah fighter deaths estimated between 1,000 (per Iran) and 2,500 (per U.S. and Israeli claims). Israeli strikes on Lebanon continued even after a June peace deal, testing the broader ceasefire.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Lebanon_war"
+      },
+      {
+        "name": "Security Council Report",
+        "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-03/lebanon-37.php"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-09",
+    "category": "Military & National Security",
+    "title": "Iran names Mojtaba Khamenei supreme leader; decapitation fails to topple regime",
+    "summary": "Nine days after his father was assassinated in U.S.-Israeli strikes, Mojtaba Khamenei was named Iran's third supreme leader in a succession driven by the Revolutionary Guard.",
+    "details": "Ali Khamenei was killed in Tehran on February 28 in strikes guided in part by CIA intelligence on the whereabouts of senior Iranian leaders; the strikes were pitched as a decapitation that could collapse a regime already shaken by the largest protests since 1979, in which a January 2026 crackdown killed thousands. Instead, Iran's Assembly of Experts — meeting from March 3 to 8 under heavy pressure from the Islamic Revolutionary Guard Corps, whose members provide personal security for many Assembly members — chose Khamenei's son Mojtaba, announced March 9. It was the first father-to-son transfer of power in the Islamic Republic's history, even though Mojtaba, a mid-level cleric, lacks the religious credentials the constitution's guardianship doctrine traditionally requires. The announcement was initially delayed over fears the successor would also be killed, after U.S. and Israeli officials threatened any successor, and Mojtaba himself was reportedly wounded in the strike that killed his father, then disappeared from public view for an extended period. Analysts concluded the assassination consolidated power with IRGC hard-liners rather than producing regime change.",
+    "sources": [
+      {
+        "name": "Iran International",
+        "url": "https://www.iranintl.com/en/202603048311"
+      },
+      {
+        "name": "Carnegie Endowment",
+        "url": "https://carnegieendowment.org/emissary/2026/03/iran-supreme-leader-succession-khamenei-mojtaba-arafi"
+      },
+      {
+        "name": "Foreign Affairs",
+        "url": "https://www.foreignaffairs.com/iran/new-khamenei"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-08",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Hormuz closure becomes largest oil supply disruption on record",
+    "summary": "Iran's blockade of the Strait of Hormuz — the route for about 25% of seaborne oil — crashed global supply by 10.1 million barrels a day and sent Brent crude from $72 to a peak near $126.",
+    "details": "Iran largely shut the strait to shipping when the war began February 28, cutting off the passage for roughly a quarter of the world's seaborne oil and a fifth of its liquefied natural gas — the largest disruption in the history of the world oil market. Global oil supply fell by 10.1 million barrels per day in March, Brent crude passed $100 on March 8 for the first time in four years and peaked around $118-$126 per barrel, and March 2026 saw the largest-ever monthly increase in oil prices. Tanker traffic collapsed more than 80% as war-risk insurance quotes jumped from about 0.15-0.25% of hull value to as high as 5-10%, and the benchmark supertanker rate hit an all-time high of $423,736 per day. The U.S. imposed its own naval blockade of Iran on April 13, creating a dual blockade; Iran declared the strait open on April 17 under the ceasefire, and the U.S. lifted its blockade June 18 after the Islamabad Memorandum. By July 1 Brent had fallen back to about $73, and Iran said it had exported 40 million barrels since the blockade ended.",
+    "sources": [
+      {
+        "name": "World Bank",
+        "url": "https://blogs.worldbank.org/en/opendata/strait-of-hormuz-disruption-sends-oil-prices-surging"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/03/middle-east-crisis-iran-us-shipping-oil-tankers-strait-of-hormuz.html"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/6/17/oil-prices-continue-slide-amid-hopes-for-peace-opening-of-strait-of-hormuz"
+      }
+    ]
+  },
+  {
     "date": "2026-03-05",
     "category": "Promises vs. Reality",
     "title": "Promised a manufacturing boom — factories kept shedding jobs",
@@ -439,23 +666,65 @@ window.ENTRIES = [
     ]
   },
   {
-    "date": "2026-02-28",
-    "category": "Economy, Tariffs & Foreign Policy",
-    "title": "U.S. and Israel launch war on Iran; Khamenei killed",
-    "summary": "A massive U.S.-Israeli air campaign aimed at Iran's nuclear program and leadership killed Supreme Leader Ali Khamenei; a Pakistan-mediated ceasefire took hold in April 2026.",
-    "details": "On February 28, 2026 — eight months after the 12-day war — the U.S. and Israel launched nearly 900 strikes in 12 hours against Iranian missiles, air defenses, military infrastructure, and leadership, in an operation the U.S. called 'Epic Fury,' with the stated aim of destroying Iran's nuclear and missile programs and inducing regime change. The opening wave killed Supreme Leader Ali Khamenei, whose death Iran confirmed March 1; his son Mojtaba Khamenei was named successor. One missile struck a girls' school near a naval base in Minab, killing about 170 people, and Iran retaliated with waves of missiles and drones against Israel and against U.S. bases and facilities in Qatar, Bahrain, Kuwait, the UAE, and Saudi Arabia, while Hezbollah resumed attacks on northern Israel and Iran blocked shipping through the Strait of Hormuz — through which about a fifth of the world's oil passes — causing the largest oil supply disruption on record and sharp fuel price spikes in the U.S. Thousands were killed on both sides, and Trump asked Congress for $87 billion in supplemental war funding. The war derailed the Ukraine peace talks scheduled for March. A ceasefire mediated by Pakistan began April 8, 2026, and hostilities formally ended with the Islamabad Memorandum on June 14, 2026, though Iran's remaining nuclear capability and internal stability remained unresolved — and in June 2026 Director of National Intelligence Tulsi Gabbard resigned after telling Congress Iran had made 'no efforts' to rebuild its nuclear program, contradicting Trump's stated justification for the war.",
+    "date": "2026-03-01",
+    "category": "Military & National Security",
+    "title": "Iran's retaliation kills U.S. troops at bases across the Gulf",
+    "summary": "Iran answered the opening strikes with hundreds of ballistic missiles and thousands of drones against Israel and U.S. bases in at least seven Arab countries, killing American service members.",
+    "details": "Beginning February 28, Iran fired on Israel and on U.S. facilities in Bahrain, Jordan, Kuwait, Oman, Qatar, Saudi Arabia, the UAE and Iraqi Kurdistan, including Al Udeid Air Base in Qatar, Ali Al Salem Air Base in Kuwait, Al Dhafra Air Base in the UAE and the U.S. Fifth Fleet headquarters in Bahrain; the IRGC claimed it attacked 21 American targets. The first six U.S. deaths came March 1, members of a Des Moines, Iowa-based Army Reserve unit killed in a strike in Kuwait; six more died when a KC-135 refueling aircraft crashed in western Iraq on March 12. By late June, published tallies put U.S. losses at 16 killed and more than 540 wounded — the deadliest stretch for U.S. forces in the Middle East in years. Host-country casualties included 17 civilians killed in Saudi Arabia, 13 people killed in the UAE and 11 in Kuwait, and the UN Security Council passed a resolution condemning Iran's strikes on Gulf states. Hezbollah also resumed rocket fire on Israel in support of Iran, drawing Lebanon into the war.",
     "sources": [
       {
-        "name": "House of Commons Library",
-        "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10521/"
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/2/28/multiple-gulf-arab-states-that-host-us-assets-targeted-in-iran-retaliation"
       },
       {
-        "name": "Britannica",
-        "url": "https://www.britannica.com/event/2026-Iran-war"
+        "name": "TIME",
+        "url": "https://time.com/article/2026/03/10/us-service-members-killed-iran-war-casualties/"
       },
       {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/2026_Iran_war"
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/us-service-members-killed-iran-war-what-we-know/"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-28",
+    "category": "Military & National Security",
+    "title": "Opening assault: about 900 U.S. strikes hit Iran in 12 hours",
+    "summary": "The U.S. launched Operation Epic Fury alongside Israel's Operation Roaring Lion with roughly 900 American strikes in the first 12 hours, without congressional authorization.",
+    "details": "President Trump issued the final go-order to Central Command at 3:38 p.m. EST on February 27, 2026 — hours after telling reporters in Texas that 'we haven't made a final decision' — and announced the strikes in an eight-minute Truth Social video posted at 2:00 a.m. In the first 12 hours, approximately 900 U.S. strikes hit Iranian leadership, military, missile-production and nuclear-related targets in what CENTCOM called a 'single synchronized wave,' while Israel's air force flew the largest combat sortie in its history, dropping over 1,200 bombs on some 500 targets in 24 hours. Congress received no request for authorization — only a War Powers Act notification filed March 2 and a Gang of Eight briefing. On March 4, the Senate voted down a resolution by Sen. Tim Kaine to restrict the campaign, roughly along party lines. Legal scholars widely described the operation, the largest U.S. Middle East action since the Iraq War, as unauthorized under U.S. law; the White House later said more than 5,000 targets were struck over the course of the campaign.",
+    "sources": [
+      {
+        "name": "U.S. Central Command",
+        "url": "https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/4418396/us-forces-launch-operation-epic-fury/"
+      },
+      {
+        "name": "Lawfare",
+        "url": "https://www.lawfaremedia.org/article/operation-epic-fury-puts-congress-and-the-constitution-to-the-test"
+      },
+      {
+        "name": "Fox News",
+        "url": "https://www.foxnews.com/politics/operation-epic-fury-survives-senate-challenge-republicans-close-ranks-behind-trump"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-28",
+    "category": "Military & National Security",
+    "title": "U.S. missile hits Iranian girls' school; civilian toll mounts",
+    "summary": "In the war's opening hours a missile struck a girls' elementary school in Minab, Iran, killing at least 165 people, most of them girls aged 7 to 12; a U.S. inquiry found American forces likely responsible.",
+    "details": "The Shajarah Tayyebeh girls' elementary school in Minab, Hormozgan Province, was hit on February 28; Iranian authorities put the death toll at 165, with some counts above 170. A preliminary U.S. military inquiry concluded American forces were likely responsible and attributed the strike to a targeting error based on stale intelligence: the building had been part of an IRGC base compound until roughly 2013-2016, when it was fenced off and converted into a school with public entrances and painted sports fields. UN human-rights experts condemned the strike and demanded an independent investigation, Amnesty International said it may have violated the laws of war, and Human Rights Watch analyzed it as a possible war crime. Across the war, the independent Iranian monitor HRANA counted 3,636 people killed in Iran, including 1,701 civilians, while Iran's government reported 3,468 dead and about 26,500 injured; the U.S. and Israel claimed over 6,000 Iranian military personnel killed. The UN refugee agency estimated 3.2 million people were displaced inside Iran, with tens of thousands crossing into Turkey and Afghanistan.",
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/12/who-bombed-the-iranian-girls-school-killing-more-than-170-what-we-know"
+      },
+      {
+        "name": "Human Rights Watch",
+        "url": "https://www.hrw.org/news/2026/04/20/was-the-attack-on-an-iranian-primary-school-a-war-crime"
+      },
+      {
+        "name": "UN OHCHR",
+        "url": "https://www.ohchr.org/en/press-releases/2026/03/un-experts-strongly-condemn-deadly-missile-strike-girls-school-iran-call"
       }
     ]
   },
@@ -561,6 +830,27 @@ window.ENTRIES = [
       {
         "name": "Federal News Network",
         "url": "https://federalnewsnetwork.com/government-shutdown/2026/04/house-approves-bill-to-fund-the-department-of-homeland-security-and-end-the-record-shutdown/"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-22",
+    "category": "The Personal File",
+    "title": "Jack Smith, under subpoena, testifies to Congress defending Trump probes",
+    "summary": "Former special counsel Jack Smith gave closed-door testimony under House Judiciary subpoena in December 2025 and then testified publicly on January 22, 2026, standing by his investigations while Trump called for his prosecution.",
+    "details": "House Judiciary Chairman Jim Jordan subpoenaed Smith in early December 2025, and Smith sat for a closed-door interview on December 17, 2025; the committee released video of that testimony on December 31. On January 22, 2026, Smith testified publicly before the committee for the first time since resigning from the Justice Department in January 2025, days before Trump's inauguration. He defended both of his investigations — the January 6 election case and the classified-documents case — and stood by his charging decisions. Republicans pressed him over his team's 2021 analysis of some GOP lawmakers' phone records, which they cast as evidence of politicized law enforcement. While Smith testified, Trump publicly called for him to be prosecuted, an unusual instance of a sitting president demanding charges against the prosecutor who once indicted him.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/01/01/nx-s1-5664080/in-newly-released-testimony-jack-smith-defends-his-investigations-into-trump"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/1/22/former-special-counsel-jack-smith-testifies-before-us-congress-committee"
+      },
+      {
+        "name": "Roll Call",
+        "url": "https://rollcall.com/2026/01/21/former-special-counsel-jack-smith-set-to-testify-at-house-panel/"
       }
     ]
   },
@@ -855,6 +1145,27 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2025-11-26",
+    "category": "The Personal File",
+    "title": "Georgia election racketeering case against Trump dismissed entirely",
+    "summary": "The last criminal case against Trump ended when Georgia's replacement prosecutor dropped all charges in the Fulton County election-interference case, nearly a year after Fani Willis was disqualified.",
+    "details": "Fulton County District Attorney Fani Willis charged Trump and 18 allies in August 2023 under Georgia's RICO law over efforts to overturn his 2020 loss in the state. On December 19, 2024, the Georgia Court of Appeals disqualified Willis and her office because of her past romantic relationship with Nathan Wade, the special prosecutor she hired, and the Georgia Supreme Court later declined to review that ruling. Peter Skandalakis, executive director of the Prosecuting Attorneys' Council of Georgia, appointed himself to the case after saying he could find no other prosecutor willing to take it. On November 26, 2025, he dropped all remaining charges, writing that the alleged conduct 'was conceived in Washington, D.C., not the State of Georgia,' that the case belonged in federal court, and that immunity litigation could take five to ten years; Judge Scott McAfee dismissed the case 'in its entirety.' The federal election case had already been dropped in November 2024, so the dismissal ended the final criminal prosecution of Trump. Guilty pleas entered by several co-defendants in 2023 were unaffected.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/11/26/politics/georgia-prosecutor-drops-trump-election-interference-case"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/11/26/nx-s1-5611431/georgia-trump-election-case-dismissed"
+      },
+      {
+        "name": "Georgia Recorder",
+        "url": "https://georgiarecorder.com/2024/12/19/appeals-court-disqualifies-fulton-da-fani-willis-from-prosecuting-georgia-trump-case/"
+      }
+    ]
+  },
+  {
     "date": "2025-11-24",
     "category": "Pardons & Rule of Law",
     "title": "Judge throws out Comey and James cases: prosecutor unlawfully appointed",
@@ -1103,6 +1414,27 @@ window.ENTRIES = [
       {
         "name": "Time",
         "url": "https://time.com/7328837/trump-third-term-steve-bannon-strategy-lame-duck-republicans-democrats/"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-27",
+    "category": "The Personal File",
+    "title": "Trump reveals undisclosed MRI from Walter Reed visit",
+    "summary": "Trump told reporters he received an MRI during his October 10 Walter Reed visit — a test never mentioned in the official medical summary — calling the results 'perfect' without saying what the scan was for.",
+    "details": "Trump made his second Walter Reed visit of 2025 on October 10 for what the White House called a routine follow-up physical, and the memo released afterward did not mention any MRI. The public learned of the scan only on October 27, when Trump volunteered aboard Air Force One that he 'got an MRI' and that 'it was perfect,' while declining to say why it was done or what part of his body was scanned. Weeks later, a White House memo described the test as 'advanced imaging' — preventive cardiovascular and abdominal screening described as 'perfectly normal' — saying men in his age group benefit from such evaluation. Physicians noted that MRIs are not a standard part of a routine physical and are typically ordered to investigate something specific. No imaging records or radiologist reports were released, continuing a pattern of health disclosures limited to brief physician memos.",
+    "sources": [
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2025/10/27/trump-mri-health-walter-reed-visit"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/10/27/politics/donald-trump-mri-health-walter-reed"
+      },
+      {
+        "name": "The Hill",
+        "url": "https://thehill.com/homenews/administration/5628519-trump-mri-results-walter-reed/"
       }
     ]
   },
@@ -1767,6 +2099,27 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2025-08-21",
+    "category": "The Personal File",
+    "title": "Appeals court voids $500 million fraud penalty but upholds fraud finding",
+    "summary": "New York's Appellate Division threw out the civil fraud penalty against Trump — about $527 million with interest — as an unconstitutionally excessive fine, while leaving intact the finding that he and his company engaged in years of fraud. The state appealed to New York's highest court.",
+    "details": "In February 2024, Judge Arthur Engoron ordered Trump to pay $454.2 million plus interest for inflating asset values on financial statements used to get better loan and insurance terms; with interest the judgment had grown to roughly $527 million by mid-2025. On August 21, 2025, a deeply fractured five-judge Appellate Division panel ruled the monetary penalty violated the Eighth Amendment's ban on excessive fines and erased it entirely, but the court affirmed the underlying verdict that Trump, his two eldest sons, and their companies engaged in persistent fraud. Two of the five judges thought the whole case deserved a new trial but signed on to the judgment so the case could reach New York's highest court. In September 2025, Attorney General Letitia James filed a notice of appeal asking the New York Court of Appeals to reinstate the penalty, while Trump seeks to erase the liability finding. As of mid-2026 the appeal was pending and Trump had paid nothing on the judgment.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/08/21/politics/trump-civil-trial-trump-organization-appeal"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/trump-civil-fraud-case-new-york-appeals/"
+      },
+      {
+        "name": "The Hill",
+        "url": "https://thehill.com/regulation/court-battles/5486850-letitia-james-appeals-trump-penalty-ruling/"
+      }
+    ]
+  },
+  {
     "date": "2025-08-20",
     "category": "Press, Speech & Democracy",
     "title": "Trump pushes mid-decade gerrymandering; California voters counter with Prop 50",
@@ -2057,6 +2410,27 @@ window.ENTRIES = [
       {
         "name": "CNN",
         "url": "https://www.cnn.com/2026/05/28/politics/trump-refiles-lawsuit-wall-street-journal-epstein"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-17",
+    "category": "The Personal File",
+    "title": "White House discloses chronic venous insufficiency after swelling, bruising photos",
+    "summary": "After photos showed swollen ankles and a repeatedly bruised right hand, the White House said tests found Trump has chronic venous insufficiency, a vein condition common in people over 70.",
+    "details": "On July 17, 2025, press secretary Karoline Leavitt read a letter from White House physician Sean Barbabella saying Trump, then 79, had undergone vascular testing, including ultrasounds of both legs, after 'mild swelling' was noticed; the tests showed chronic venous insufficiency, in which leg veins do not move blood back to the heart efficiently. The exam found no evidence of deep vein thrombosis or arterial disease, according to the letter. The recurring bruising on the back of Trump's hand, which had been visible under makeup in press photos for months, was attributed to 'minor soft tissue irritation from frequent handshaking' combined with aspirin he takes for cardiovascular prevention. The disclosure came only after days of online speculation about the photos. The condition is considered benign and manageable, but the episode renewed questions about how much health information the White House releases and when.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/07/17/nx-s1-5471453/trump-chronic-venous-insufficiency-swelling"
+      },
+      {
+        "name": "ABC News",
+        "url": "https://abcnews.com/Politics/trump-vascular-testing-leg-swelling-white-house/story?id=123839307"
+      },
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/health/4-things-to-know-about-trumps-diagnosis-of-chronic-venous-insufficiency"
       }
     ]
   },
@@ -3166,6 +3540,27 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2025-03-11",
+    "category": "The Personal File",
+    "title": "Trump turns White House South Lawn into Tesla showcase, buys Model S",
+    "summary": "Trump lined up five Teslas at the White House with Elon Musk and announced he was buying a red Model S at full price, a presidential product endorsement ethics experts called essentially unprecedented.",
+    "details": "On March 11, 2025, hours after posting on Truth Social that he would buy a Tesla to support Musk, Trump inspected five of the company's vehicles parked on the White House driveway alongside Musk, who was then a top White House adviser running the Department of Government Efficiency and had been the largest donor of the 2024 campaign. Trump picked a red Model S, which starts around $80,000, said 'I don't want a discount,' and said staff would use the car since presidents are not permitted to drive. Tesla's stock, which had lost roughly half its value since December amid protests over Musk's government role, climbed that day. Federal rules bar executive-branch employees from endorsing products, but those rules do not bind the president himself, and ethics experts said no modern president had used the White House grounds to promote a private company owned by one of his own advisers.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/tech/elon-musk/trump-musk-tesla-white-house-showroom-buys-car-rcna195905"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/03/11/nx-s1-5325306/trump-elon-musk-tesla"
+      },
+      {
+        "name": "ABC News",
+        "url": "https://abcnews.com/Politics/trumps-white-house-tesla-showcase-raises-ethics-concerns/story?id=119719123"
+      }
+    ]
+  },
+  {
     "date": "2025-03-10",
     "category": "Civil Rights & Culture",
     "title": "Black Lives Matter Plaza demolished in Washington, D.C.",
@@ -3966,6 +4361,27 @@ window.ENTRIES = [
     ]
   },
   {
+    "date": "2025-01-10",
+    "category": "The Personal File",
+    "title": "Trump sentenced to unconditional discharge; first felon to take office",
+    "summary": "Ten days before his inauguration, Trump was sentenced in Manhattan to an 'unconditional discharge' on his 34 felony counts of falsifying business records — no prison, no fine, no probation, but the conviction stands. He became the first person with a felony record sworn in as president.",
+    "details": "A jury convicted Trump in May 2024 of falsifying business records to conceal a hush-money payment to adult film actor Stormy Daniels before the 2016 election. At the January 10, 2025 sentencing, which Trump attended by video, Justice Juan Merchan said an unconditional discharge was the only lawful sentence that would not interfere with the presidency; prosecutors agreed, to preserve the jury's verdict. Trump has since fought the conviction on two tracks: a normal appeal in New York state courts and a bid to move the case into federal court to press presidential-immunity arguments. In November 2025, the Second Circuit revived the removal effort and ordered District Judge Alvin Hellerstein to reconsider it. At a February 4, 2026 hearing, Hellerstein was openly skeptical, telling Trump's lawyers 'You sought two bites at the apple' because they went to the state judge first, and he did not issue an immediate ruling. As of that hearing, the 34-count felony conviction remained intact.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/01/10/nx-s1-5253927/trump-sentencing-new-york"
+      },
+      {
+        "name": "ABC News",
+        "url": "https://abcnews.com/US/appeals-court-revives-trumps-effort-remove-hush-money/story?id=127256521"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/02/04/politics/judge-skeptical-trump-trying-to-move-hush-money-appeal-to-federal-court"
+      }
+    ]
+  },
+  {
     "date": "2025-01-06",
     "category": "Crypto & Personal Profit",
     "title": "Amazon pays $40 million for Melania Trump documentary",
@@ -4021,6 +4437,27 @@ window.ENTRIES = [
       {
         "name": "NBC News",
         "url": "https://www.nbcnews.com/politics/donald-trump/trump-lawsuit-iowa-poll-ann-selzer-des-moines-register-kamala-harris-rcna216078"
+      }
+    ]
+  },
+  {
+    "date": "2024-11-25",
+    "category": "The Personal File",
+    "title": "Jack Smith drops both federal criminal cases after election win",
+    "summary": "Special counsel Jack Smith dismissed the January 6 election case and dropped the classified-documents appeal against Trump after his 2024 victory, citing DOJ policy that a sitting president cannot be prosecuted. Neither case was ever decided on the merits.",
+    "details": "On November 25, 2024, Smith moved to end both federal prosecutions, and Judge Tanya Chutkan dismissed the election-interference case the same day 'without prejudice,' meaning charges could in theory be refiled after Trump leaves office. Smith's final report came in two volumes. Volume One, released January 14, 2025, concluded the admissible evidence 'was sufficient to obtain and sustain a conviction at trial' had Trump not won the election; Smith's team had interviewed roughly 250 witnesses and put 55 before a grand jury. Volume Two, covering the Mar-a-Lago classified-documents case, was withheld because of proceedings against Trump's co-defendants, and in February 2026 U.S. District Judge Aileen Cannon, a Trump appointee, permanently barred the Justice Department from ever releasing it, calling publication a 'manifest injustice.' As a result, the public record of the documents investigation remains sealed.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2024/11/25/nx-s1-5205376/jan-6-trump-case"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/01/14/g-s1-42358/trump-jack-smith-election-report"
+      },
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/politics/judge-permanently-blocks-release-of-special-counsel-jack-smiths-report-on-trump-classified-documents-case"
       }
     ]
   },
