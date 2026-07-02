@@ -1,0 +1,2892 @@
+// Entry data for The Receipts — every entry dated and source-linked.
+// Compiled and fact-checked from the cited reporting. Corrections welcome (with sources).
+window.ENTRIES = [
+  {
+    "date": "2026-06-30",
+    "category": "Crypto & Personal Profit",
+    "title": "Disclosure: Trump made at least $1.4 billion from crypto in 2025",
+    "summary": "Trump's annual financial disclosure, released June 30, 2026, reported at least $1.4 billion in personal crypto income for 2025. Forbes estimates his net worth roughly tripled — from about $2.4 billion to about $6 billion — since returning to office.",
+    "details": "The government ethics filing showed the presidency's first year back had transformed Trump's finances: at least $1.4 billion in crypto-related income in 2025, including about $636 million through CIC Digital, the entity behind his memecoins and digital trading cards, and roughly $515 million from World Liberty Financial token sales. That dwarfed the income from his traditional golf, hotel and licensing businesses. Forbes calculated his net worth rose from about $2.4 billion in 2024 to about $6 billion, with crypto ventures — assets that did not exist before his campaign — accounting for most of the increase; Bloomberg similarly reported in January 2026 that crypto had become the largest driver of the family fortune. Most of the crypto income came from selling tokens whose value depends heavily on the Trump name and on policies set by his own administration. No previous president's wealth has grown at this scale while in office.",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-30/trump-reports-at-least-1-2-billion-in-crypto-earnings-for-2025"
+      },
+      {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/30/trumps-financial-disclosure-major-crypto-moves-made-him-over-1-billion-in-2025/"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/30/donald-trump-reports-1-4bn-in-cryptocurrency-income-in-government-filing"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "category": "Immigration & Enforcement",
+    "title": "Supreme Court strikes down birthright citizenship order",
+    "summary": "In Trump v. Barbara, the Court ruled 6-3 that the executive order restricting birthright citizenship is unlawful, holding that U.S.-born children of undocumented or temporary-status parents are citizens at birth.",
+    "details": "Chief Justice Roberts wrote the majority opinion, joined by Justices Sotomayor, Kagan, Barrett, and Jackson, holding that children born in the U.S. to parents unlawfully or temporarily present are 'subject to the jurisdiction' of the United States under the 14th Amendment — reaffirming the rule traced to the 1898 Wong Kim Ark decision. Justice Kavanaugh provided a sixth vote against the order on narrower grounds, saying it violated a 1940 federal statute rather than the Constitution, making the constitutional holding effectively 5-4. Justices Thomas, Alito, and Gorsuch dissented. The order had never taken effect anywhere, as every lower court to review it had blocked it. Trump attacked his own appointees ahead of the decision, and the ruling ended an 18-month effort to redefine citizenship for an estimated 150,000-plus babies born each year to parents without permanent status.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/06/30/nx-s1-5839358/birthright-citizenship-decision-scotus-trump"
+      },
+      {
+        "name": "The Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2026/06/30/birthright-citizenship-upheld-by-supreme-court-ruling-against-trump-order/"
+      },
+      {
+        "name": "SCOTUSblog",
+        "url": "https://www.scotusblog.com/2026/06/breaking-down-the-birthright-citizenship-decision/"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "category": "Promises vs. Reality",
+    "title": "Promised to balance the budget — debt hit $39 trillion",
+    "summary": "Trump campaigned on paying down the national debt and told Congress in March 2025 he wanted to 'balance the federal budget' — something not done in over two decades.",
+    "details": "Instead, on July 4, 2025, he signed the One Big Beautiful Bill Act, which the Congressional Budget Office scored as adding $3.4 trillion to deficits over ten years, cutting revenues by roughly $4.5 trillion against $1.4 trillion in spending reductions. Gross national debt, about $36.2 trillion at his January 2025 inauguration, crossed $39 trillion in 2026 and stood at $39.46 trillion as of June 30, 2026 — nearly $3 trillion added in under 18 months. The Treasury confirmed a $1.2 trillion deficit for just the first eight months of fiscal year 2026, with the full-year deficit projected around $1.9-2.1 trillion. The budget was not balanced in any year of the term.",
+    "sources": [
+      {
+        "name": "CRFB",
+        "url": "https://www.crfb.org/press-releases/gross-national-debt-reaches-39-trillion"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/donald-trump/trumps-big-beautiful-bill-add-3-trillion-debt-cbo-says-rcna220004"
+      },
+      {
+        "name": "CRFB",
+        "url": "https://www.crfb.org/press-releases/treasury-confirms-12-trillion-deficit-first-8-months-fy-2026"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-29",
+    "category": "Government, Health & Science",
+    "title": "Supreme Court overturns Humphrey's Executor, expands firing power",
+    "summary": "After Trump fired members of the NLRB, MSPB, and FTC, the Supreme Court overturned a 90-year-old precedent and ruled presidents can remove independent agency officials at will.",
+    "details": "Early in 2025 Trump fired officials at independent agencies designed to be insulated from politics, including NLRB member Gwynne Wilcox, MSPB member Cathy Harris, and FTC commissioner Rebecca Slaughter, none for cause. In May 2025 the Supreme Court let the NLRB and MSPB firings stand while litigation continued, signaling the 1935 precedent Humphrey's Executor was in doubt. On June 29, 2026, the Court ruled 6-3 in Trump v. Slaughter and formally overturned Humphrey's Executor, holding that Congress cannot require 'for-cause' protection for such officials, effectively making commissioners at agencies like the FTC removable at the president's pleasure. The same day, in a separate 5-4 ruling, the Court carved out the Federal Reserve as an exception, citing 'our Nation's tradition of central banking protected from political interference.'",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/06/29/nx-s1-5816232/supreme-court-ftc-independent-agencies-humphreys-executor"
+      },
+      {
+        "name": "SCOTUSblog",
+        "url": "https://www.scotusblog.com/2026/06/court-allows-trump-to-fire-ftc-commissioner-and-overturns-major-restraint-on-presidential-power/"
+      },
+      {
+        "name": "Ogletree",
+        "url": "https://ogletree.com/insights-resources/blog-posts/supreme-court-holds-ftcs-for-cause-removal-protections-violate-separation-of-powers/"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-15",
+    "category": "Promises vs. Reality",
+    "title": "'No tax on Social Security' — a deduction instead, insolvency sooner",
+    "summary": "Trump campaigned on two Social Security pledges: 'Seniors should not pay tax on Social Security' and a vow to protect the program without cuts.",
+    "details": "The One Big Beautiful Bill Act did not eliminate taxes on Social Security benefits — reconciliation rules forbade it — instead creating a temporary senior deduction of up to $6,000 per person (2025-2028) that phases out at higher incomes and does nothing for the many lower-income seniors who already owed no tax; the SSA nonetheless emailed beneficiaries claiming the bill 'eliminates federal income taxes on Social Security benefits for most beneficiaries,' which fact-checkers called misleading. The law's tax changes cut roughly $30 billion a year flowing into the trust funds, and the 2026 Trustees Report moved the retirement trust fund's insolvency date up to late 2032, after which only 78% of benefits could be paid — a 22% automatic cut absent congressional action. Meanwhile the administration pushed out more than 8,000 SSA workers (a 14% cut, the largest one-year staffing drop on record), leaving the agency with its fewest employees since 1967 amid record backlogs and longer waits. The program was neither strengthened nor its benefit taxes ended.",
+    "sources": [
+      {
+        "name": "Tax Foundation",
+        "url": "https://taxfoundation.org/blog/no-tax-on-social-security-senior-tax-deduction/"
+      },
+      {
+        "name": "401(k) Specialist",
+        "url": "https://401kspecialistmag.com/2026-social-security-trustees-report-moves-insolvency-to-2032/"
+      },
+      {
+        "name": "Center for American Progress",
+        "url": "https://www.americanprogress.org/article/the-social-security-administration-is-bleeding-staff/"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-10",
+    "category": "Immigration & Enforcement",
+    "title": "Trump signs $70 billion 'Secure America Act' for ICE and Border Patrol",
+    "summary": "After a months-long standoff with Democrats demanding ICE reforms, Republicans used budget reconciliation to pass $70 billion funding immigration enforcement through the end of Trump's term.",
+    "details": "Democrats had blocked Homeland Security funding for months, demanding limits such as a ban on masked agents and independent oversight of ICE, and objecting to an unrelated $1.776 billion fund reportedly tied to settling lawsuits including the president's own claims against the government. Republicans bypassed the filibuster through reconciliation; the Senate passed the bill 52-47 on June 5, 2026, the House followed 214-212, and Trump signed it on June 10. The law funds ICE and Border Patrol for three years — through the end of the term — paying for more detention beds, immigration courts, and border infrastructure on top of the $170 billion enacted in 2025. Its passage locked in the financial foundation of the mass-deportation campaign regardless of future appropriations fights.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/trump-immigration-funding-bill-ice/"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/10/after-a-democrat-standoff-trump-signs-70bn-immigration-enforcement-bill"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-10",
+    "category": "Promises vs. Reality",
+    "title": "Prices down 'on Day One' — inflation hit 4.2% instead",
+    "summary": "Campaigning in front of a table of groceries in August 2024, Trump promised: 'When I win, I will immediately bring prices down, starting on Day One.'",
+    "details": "Weeks after winning, Trump told Time magazine in December 2024: 'It's hard to bring things down once they're up. You know, it's very hard.' Prices kept rising: annual CPI inflation, 3.0% the month he took office, reached 4.2% for the 12 months ending May 2026, per the Bureau of Labor Statistics. Grocery prices rose 3.1% over that same year, with coffee and beef up 15-20% year-over-year in late 2025 — the fastest-rising items in the index. Rather than acknowledging the miss, Trump told Fox's Laura Ingraham in November 2025 that affordability concerns were 'a con job by the Democrats' and claimed 'groceries are way down,' contradicting his own government's data. His administration's tariffs added to costs, with the Tax Foundation estimating an average tax increase of more than $2,100 per household in 2025.",
+    "sources": [
+      {
+        "name": "BLS",
+        "url": "https://www.bls.gov/opub/ted/2026/consumer-prices-up-4-2-percent-over-the-year-ended-may-2026.htm"
+      },
+      {
+        "name": "The Hill",
+        "url": "https://thehill.com/homenews/nexstar_media_wire/5441550-trump-promised-lower-grocery-prices-on-day-one-heres-what-happened/"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/12/05/business/prices-trump-affordable-jobs"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-22",
+    "category": "Immigration & Enforcement",
+    "title": "Judge throws out Abrego Garcia charges as vindictive prosecution",
+    "summary": "A federal judge dismissed the human-smuggling case against Kilmar Abrego Garcia — the Maryland man wrongly deported to El Salvador's CECOT prison — finding the government prosecuted him as payback for winning his lawsuit.",
+    "details": "Abrego Garcia was deported to CECOT on March 15, 2025 despite a 2019 court order barring his removal to El Salvador; the administration admitted an 'administrative error' but insisted it could not bring him back. The Supreme Court ordered the government to 'facilitate' his return in April 2025, and after months of resistance he was returned in June 2025 — to face a smuggling indictment in Tennessee based on a 2022 traffic stop, a case a top federal prosecutor resigned over. ICE re-detained him and threatened deportation to Uganda and then Liberia while the charges were pending. On May 22, 2026, Judge Waverly Crenshaw dismissed the case, citing 'presumptive vindictiveness' shown by the indictment's timing and senior officials' statements. DHS called the ruling 'naked judicial activism' and said it still intends to deport him, since his underlying removal order stands.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/05/22/nx-s1-5831958/federal-judge-dismisses-criminal-charges-against-kilmar-abrego-garcia"
+      },
+      {
+        "name": "The Washington Post",
+        "url": "https://www.washingtonpost.com/national-security/2026/05/22/judge-drops-criminal-case-against-kilmar-abrego-garca-ruling-it-vindictive/"
+      },
+      {
+        "name": "WHYY",
+        "url": "https://whyy.org/articles/kilmar-abrego-garcia-charges-dismissed-vindictive-prosecution/"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-12",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Trump makes state visit to Beijing for summit with Xi Jinping",
+    "summary": "Trump traveled to Beijing May 12-15 for a state visit and summit with Xi Jinping that produced Boeing orders and agricultural purchases but no breakthroughs on Taiwan or tariffs.",
+    "details": "The visit, postponed from April because of the Iran war, was Trump's first state visit to China in his second term and came months after the Supreme Court struck down his emergency tariffs. China committed to a Boeing order of up to 200 aircraft, resumed U.S. beef imports from 17 states, and pledged billions in agricultural purchases including soybeans, and the two sides announced a 'strategic stability' framework for managing the relationship. Xi pressed Taiwan as the 'most important' issue, but no substantive agreements were announced on Taiwan arms sales, the Iran aftermath, or deep tariff reductions. Trump said 'a lot of different problems' were settled; analysts at Brookings and CSIS judged that Beijing gained legitimacy and pageantry while conceding little. China said Xi would make a return visit to the U.S. in the fall of 2026.",
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/15/trump-xi-summit-the-3-big-takeaways-from-historic-meeting-in-beijing.html"
+      },
+      {
+        "name": "Brookings",
+        "url": "https://www.brookings.edu/articles/what-beijing-got-from-the-trump-xi-summit/"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/politics/live-news/trump-china-visit-xi-meeting-hnk"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-11",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Evidence shows consumers pay the tariffs as affordability strains persist",
+    "summary": "By 2026, Federal Reserve research found tariff costs pass essentially in full to U.S. consumers over time, costing the average household roughly $700-$1,000 a year, contradicting claims that foreign countries pay.",
+    "details": "Tariffs are paid at the border by U.S. importers, not foreign governments, and the question through 2025-26 was how much of that cost reached shoppers. Federal Reserve researchers reported in 2026 that tariffs pass through to consumer prices essentially in full, taking about seven months as companies protect their profit margins, and Dallas Fed analysis found the price effects peaked in the first quarter of 2026. Yale's Budget Lab estimated the 2025 tariffs cost the average American household about $1,000, with the scaled-back 2026 regime (after the Supreme Court ruling) still costing about $700 per household per year. Tariff-sensitive goods drove the effect: through early 2026, tariffs had raised core goods prices by around 3 percent, accounting for essentially all the excess inflation in that category, with coffee, beef, appliances, and electronics among the visible examples — pressure that had already pushed the administration to exempt many food imports in November 2025 as affordability dominated political debate. Overall inflation stayed near 3%, above the Fed's 2% target, and tariff revenue of roughly $175 billion under the voided IEEPA program came largely out of American pockets rather than foreign treasuries.",
+    "sources": [
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/05/11/trumptariff-cost-full-pass-through-on-consumers/"
+      },
+      {
+        "name": "Yale Budget Lab",
+        "url": "https://budgetlab.yale.edu/research/tracking-economic-effects-tariffs"
+      },
+      {
+        "name": "Federal Reserve Bank of Dallas",
+        "url": "https://www.dallasfed.org/research/economics/2026/0505-mau"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-08",
+    "category": "Promises vs. Reality",
+    "title": "Ukraine war in '24 hours' — still raging 17 months later",
+    "summary": "Trump said at least 53 times in 2023-24 that he would end the Russia-Ukraine war 'within 24 hours' of taking office — or have it 'settled' before his inauguration as president-elect.",
+    "details": "The war did not end in 24 hours, and by mid-2026 it was still ongoing. Trump later recast the pledge, telling Time he spoke 'figuratively,' calling it 'an exaggeration' in March 2025, and in June 2025 claiming it 'was sarcastic' — though CNN documented the promise was a scripted staple of his rally speeches. Trilateral U.S.-Ukraine-Russia talks in Geneva (third round February 17-18, 2026) stalled over Russia's demand that Ukraine surrender the parts of Donetsk that Russian forces never captured. In February 2026, Zelensky said Washington wanted a deal by June 2026; that deadline passed without one. The most tangible result by mid-2026 was a three-day ceasefire Trump announced on May 8, 2026, which lasted from May 9 to May 11 before fighting resumed.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/04/25/politics/fact-check-trump-ukraine-war"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war"
+      },
+      {
+        "name": "PolitiFact",
+        "url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/1641/end-the-russia-ukraine-war-within-24-hours/article/3172/"
+      }
+    ]
+  },
+  {
+    "date": "2026-05",
+    "category": "Pardons & Rule of Law",
+    "title": "A pardon economy: lobbyists collect millions as Democrats probe pay-to-play",
+    "summary": "Lobbyists disclosed more than $2.1 million in 2025 fees from people seeking Trump pardons, with reported $1 million standard rates, and by May 2026 congressional Democrats were investigating whether clemency was being sold.",
+    "details": "Disclosure filings showed a growing industry of Trump-connected lobbyists marketing access to the pardon process: one Trump-linked firm's first pardon client paid $500,000, a lobbyist tied to Donald Trump Jr. received $1.3 million connected to the Changpeng Zhao pardon, and lobbyists told the Wall Street Journal that $1 million fees were standard with success fees offered as high as $6 million. White House chief of staff Susie Wiles reportedly tightened the clemency process in late 2025 after reports of influence-brokering. By June 2026 Trump had granted clemency to more than 1,700 people; analyses found over half of individually named second-term pardons went to white-collar offenders, wiping out roughly $1.3 billion or more in court-ordered restitution and fines their victims and taxpayers would have received. In May 2026, House and Senate Democrats opened investigations into 'pay-to-play dynamics' in pardons granted to donors and business allies.",
+    "sources": [
+      {
+        "name": "NOTUS",
+        "url": "https://www.notus.org/money/pardon-lobbyists-president-donald-trump"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/trump-linked-firm-pardon-lobbying/"
+      },
+      {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/alisondurkee/2026/05/07/democrats-investigate-whether-trumps-pardons-were-pay-to-play-here-are-the-big-time-donors-and-business-allies-hes-sprung-free/"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-29",
+    "category": "Press, Speech & Democracy",
+    "title": "Supreme Court curbs Voting Rights Act, unleashing new redistricting wave",
+    "summary": "In Louisiana v. Callais, the Supreme Court ruled 6-3 against Louisiana's second majority-Black congressional district and sharply limited Voting Rights Act protections, prompting southern states to redraw maps before the midterms.",
+    "details": "The April 29, 2026 decision held that Louisiana relied too heavily on race when it drew a second majority-Black district, and it partially overturned the framework under Section 2 of the Voting Rights Act that had required states to create minority-opportunity districts where voting is racially polarized. Civil-rights groups said the ruling dismantles the main legal tool Black and Latino voters have used against discriminatory maps since 1982; within weeks, Tennessee Republicans passed a map eliminating the state's only majority-minority House district, and other southern states began redrawing. The decision landed on top of the mid-decade gerrymandering war: the Court had earlier allowed Texas's new five-seat Republican map to stand and in February 2026 declined to block California's Prop 50 map. Analysts projected the combined changes could shift multiple House seats by 2028, mostly toward Republicans. It was the most significant narrowing of the Voting Rights Act since Shelby County v. Holder in 2013.",
+    "sources": [
+      {
+        "name": "Supreme Court of the United States",
+        "url": "https://www.supremecourt.gov/opinions/25pdf/24-109_21o3.pdf"
+      },
+      {
+        "name": "The Hill",
+        "url": "https://thehill.com/homenews/campaign/5860114-redistricting-battle-states-midterms/"
+      },
+      {
+        "name": "CalMatters",
+        "url": "https://calmatters.org/politics/2026/04/voting-rights-supreme-court-ruling/"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-22",
+    "category": "Crypto & Personal Profit",
+    "title": "Justin Sun settles with SEC for $10 million, then sues Trump firm",
+    "summary": "In March 2026 Justin Sun resolved his once-paused SEC fraud case for $10 million without admitting wrongdoing. A month later he sued World Liberty Financial, saying the Trump family venture froze his tokens and stripped his rights.",
+    "details": "On March 5, 2026, the SEC settled its 2023 fraud and market-manipulation case against Justin Sun and his companies for $10 million — a case that had been paused since February 2025, shortly after Sun invested about $75 million in the Trump family's crypto venture; Sun admitted no wrongdoing. Then on April 22, 2026, Sun sued World Liberty Financial in federal court in Northern California, alleging an 'illegal scheme': he said the company wrongfully froze his WLFI tokens, stripped his voting rights, threatened to permanently destroy his tokens, and retaliated after he refused to promote its USD1 stablecoin. The lawsuit publicly ruptured the relationship between the venture and its largest early outside backer — the same investor whose money had unlocked the family's share of token-sale proceeds in 2024. Sun said the suit did not change his feelings about Trump himself.",
+    "sources": [
+      {
+        "name": "U.S. News (Reuters)",
+        "url": "https://money.usnews.com/investing/news/articles/2026-03-05/justin-sun-settles-sec-fraud-case-for-10-million"
+      },
+      {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/04/22/crypto-billionaire-justin-sun-sues-trumps-world-liberty-financial-after-investing-45-million/"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-10",
+    "category": "Crypto & Personal Profit",
+    "title": "WLFI token hits record lows as insiders had already cashed out",
+    "summary": "By April 2026 the Trump family's WLFI token had fallen to record lows, trading around a tenth of its debut price — after the family had already collected hundreds of millions in cash from selling tokens to earlier buyers.",
+    "details": "WLFI debuted at about $0.31 in September 2025 but slid for months; on April 10, 2026, it dropped another 12% to record lows around $0.09 after the project disclosed it had borrowed $75 million in its own USD1 stablecoin against its treasury holdings, prompting analysts to warn token holders not to become 'exit liquidity.' World Liberty Financial spent more than $65 million buying back its own tokens over six months under a plan approved by governance vote, and in April 2026 proposed locking 62 billion tokens and burning 10% of team tokens to prop up the price. The losses fell on public buyers; the Trump family had already realized large cash profits — Trump's own disclosure reported roughly $515 million in WLFI token-sale income for 2025, on top of the $500 million UAE stake purchase — while later investors held tokens worth a fraction of what they paid. The pattern mirrored the $TRUMP memecoin: insiders profited from sales and fees on the way up, and ordinary buyers absorbed the decline.",
+    "sources": [
+      {
+        "name": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/10/trump-backed-wlfi-token-drops-12-to-record-lows-after-team-defends-multi-million-lending-position"
+      },
+      {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/digital-assets/2026/04/10/dont-be-exit-liquidity-trumps-wlfi-borrows-75m-on-own-token/"
+      },
+      {
+        "name": "DL News",
+        "url": "https://www.dlnews.com/articles/defi/trump-backed-world-liberty-financial-buys-back-own-token/"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-04",
+    "category": "Promises vs. Reality",
+    "title": "Deport the 'worst of the worst' — most detainees had no convictions",
+    "summary": "Trump and border czar Tom Homan promised mass deportations would target 'the worst of the worst' — violent criminals, murderers and gang members first.",
+    "details": "Government data tells a different story. Of people booked into ICE custody in fiscal year 2026 (starting October 1, 2025), 73% had no criminal conviction, and nearly half had neither a conviction nor a pending charge, according to Cato Institute analysis of ICE data. Only 5% of detainees had a violent criminal conviction. As of April 4, 2026, 42,722 of the 60,311 people in ICE detention — 70.8% — had no criminal conviction. The pattern held for removals too: in November 2025, 70% of those ICE deported had no criminal conviction. FactCheck.org found that as arrests surged to over 800 per day at their December peak, the share of arrestees with no U.S. criminal record grew rather than shrank.",
+    "sources": [
+      {
+        "name": "Cato Institute",
+        "url": "https://www.cato.org/blog/5-ice-detainees-have-violent-convictions-73-no-convictions"
+      },
+      {
+        "name": "FactCheck.org",
+        "url": "https://www.factcheck.org/2026/01/as-ice-arrests-increased-a-higher-portion-had-no-u-s-criminal-record/"
+      },
+      {
+        "name": "American Immigration Council",
+        "url": "https://www.americanimmigrationcouncil.org/blog/ice-arrest-statistics-americans-noncriminals/"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-02",
+    "category": "Government, Health & Science",
+    "title": "Trump fires Attorney General Bondi amid wave of cabinet departures",
+    "summary": "Trump fired Attorney General Pam Bondi, reportedly frustrated over the Epstein files and her failure to prosecute his political opponents, as cabinet turnover hit 37% within 17 months.",
+    "details": "Trump announced on Truth Social that Bondi was 'transitioning' to the private sector; reporting attributed the firing to his frustration that she had not aggressively brought cases against his personal and political foes and to the unending Epstein files controversy. Deputy Attorney General Todd Blanche, Trump's former personal criminal-defense lawyer, became acting attorney general. Bondi was the second of four women to leave the cabinet in three months: Homeland Security Secretary Kristi Noem departed in March, Labor Secretary Lori Chavez-DeRemer left in April amid a misconduct investigation, and Director of National Intelligence Tulsi Gabbard announced her resignation May 22, effective June 30, after telling Congress Iran had made 'no efforts' to rebuild its nuclear program, contradicting Trump's stated justification for the February attack on Iran. Brookings tracked senior 'A Team' turnover at 37% by June 17, 2026. Critics said the pattern showed officials being removed for independence rather than performance.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/04/02/politics/pam-bondi-role-trump"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/04/02/g-s1-115077/trump-bondi-attorney-general-departure"
+      },
+      {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/saradorn/2026/05/22/tulsi-gabbard-resigns-as-director-of-national-intelligence-after-contradicting-trump-on-iran-war/"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-31",
+    "category": "Press, Speech & Democracy",
+    "title": "New Trump order creates federal citizenship lists for state voter rolls",
+    "summary": "Trump signed Executive Order 14399 directing Homeland Security and the Social Security Administration to send every state a federal list of 'confirmed' citizens to check voter rolls before the 2026 midterms.",
+    "details": "The March 31, 2026 order, 'Ensuring Citizenship Verification and Integrity in Federal Elections,' directs DHS, working with the Social Security Administration, to compile 'State Citizenship Lists' of confirmed US citizens 18 and older and transmit them to states at least 60 days before each federal election, and orders changes to mail and absentee ballot handling through the Postal Service. It follows Trump's March 2025 elections order, whose requirement of documentary proof of citizenship to register was largely blocked by federal courts, and it landed amid Senate debate on the SAVE Act, which would write proof-of-citizenship and photo-ID requirements into law. Noncitizen voting in federal elections is already illegal and documented cases are rare. Voting-rights researchers warn that federal citizenship databases contain errors and lags, so eligible naturalized citizens could be wrongly flagged and purged in the run-up to the midterms. Elections are administered by states, and several announced they would not use the federal lists, setting up new litigation.",
+    "sources": [
+      {
+        "name": "White House",
+        "url": "https://www.whitehouse.gov/presidential-actions/2026/03/ensuring-citizenship-verification-and-integrity-in-federal-elections/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Executive_Order_14399"
+      },
+      {
+        "name": "Institute for Responsive Government",
+        "url": "https://responsivegov.org/research/state-citizenship-lists-in-trumps-march-31-2026-elections-executive-order/"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-05",
+    "category": "Promises vs. Reality",
+    "title": "Promised a manufacturing boom — factories kept shedding jobs",
+    "summary": "Trump promised his tariffs and policies would trigger a manufacturing renaissance, with factories and jobs 'pouring back into' America.",
+    "details": "Bureau of Labor Statistics data show U.S. manufacturing lost more than 90,000 jobs in 2025 — the third straight year of decline — and 93,000 jobs between March 2025 and February 2026. Economists noted tariffs raised input costs for the very factories they were meant to protect, since steel-consuming industries employ far more workers than steel-making ones. When the BLS reported 11,000 manufacturing jobs lost in July 2025, Trump fired the agency's commissioner and nominated a loyalist. Investment pledges announced at White House events did not translate into net factory employment growth; a token gain of 5,000 manufacturing jobs in January 2026 did little to offset the losses, and Marketplace reported in March 2026 that the sector was still contracting.",
+    "sources": [
+      {
+        "name": "Marketplace",
+        "url": "https://www.marketplace.org/story/2026/03/05/jobs-report-likely-to-show-manufacturing-continuing-to-lose-jobs"
+      },
+      {
+        "name": "Manufacturing Dive",
+        "url": "https://www.manufacturingdive.com/news/bls-5000-jobs-added-january-2026-jolts-december-2025/812007/"
+      },
+      {
+        "name": "FRED (St. Louis Fed)",
+        "url": "https://fred.stlouisfed.org/series/MANEMP"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-28",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "U.S. and Israel launch war on Iran; Khamenei killed",
+    "summary": "A massive U.S.-Israeli air campaign aimed at Iran's nuclear program and leadership killed Supreme Leader Ali Khamenei; a Pakistan-mediated ceasefire took hold in April 2026.",
+    "details": "On February 28, 2026 — eight months after the 12-day war — the U.S. and Israel launched nearly 900 strikes in 12 hours against Iranian missiles, air defenses, military infrastructure, and leadership, in an operation the U.S. called 'Epic Fury,' with the stated aim of destroying Iran's nuclear and missile programs and inducing regime change. The opening wave killed Supreme Leader Ali Khamenei, whose death Iran confirmed March 1; his son Mojtaba Khamenei was named successor. One missile struck a girls' school near a naval base in Minab, killing about 170 people, and Iran retaliated with waves of missiles and drones against Israel and against U.S. bases and facilities in Qatar, Bahrain, Kuwait, the UAE, and Saudi Arabia, while Hezbollah resumed attacks on northern Israel and Iran blocked shipping through the Strait of Hormuz — through which about a fifth of the world's oil passes — causing the largest oil supply disruption on record and sharp fuel price spikes in the U.S. Thousands were killed on both sides, and Trump asked Congress for $87 billion in supplemental war funding. The war derailed the Ukraine peace talks scheduled for March. A ceasefire mediated by Pakistan began April 8, 2026, and hostilities formally ended with the Islamabad Memorandum on June 14, 2026, though Iran's remaining nuclear capability and internal stability remained unresolved — and in June 2026 Director of National Intelligence Tulsi Gabbard resigned after telling Congress Iran had made 'no efforts' to rebuild its nuclear program, contradicting Trump's stated justification for the war.",
+    "sources": [
+      {
+        "name": "House of Commons Library",
+        "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10521/"
+      },
+      {
+        "name": "Britannica",
+        "url": "https://www.britannica.com/event/2026-Iran-war"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Iran_war"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-21",
+    "category": "Promises vs. Reality",
+    "title": "'Foreign countries pay the tariffs' — Americans paid; Court struck them down",
+    "summary": "Trump insisted throughout the campaign and his presidency that his tariffs are 'paid by foreign countries,' not Americans.",
+    "details": "The evidence showed otherwise: U.S. Customs bills the American importer directly, and a Kiel Institute study found foreign exporters absorbed only about 4% of the tariff burden — Americans paid roughly 96%, with U.S. businesses eating most of the cost through 2025 and passing more to consumers over time. The Tax Foundation put the cost at an average tax increase of more than $2,100 per U.S. household in 2025. On February 20, 2026, the Supreme Court ruled 6-3 in Learning Resources, Inc. v. Trump that the International Emergency Economic Powers Act never authorized the president to impose tariffs at all, invalidating the centerpiece 'Liberation Day' tariffs and exposing an estimated $175 billion in collected duties to refund claims — refunds owed to American importers, not foreign governments, underscoring who had actually paid. Within a day, Trump moved to reimpose up to 15% tariffs under a different statute, Section 122 of the Trade Act of 1974.",
+    "sources": [
+      {
+        "name": "Time",
+        "url": "https://time.com/7353475/trump-tariffs-who-pays/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Learning_Resources,_Inc._v._Trump"
+      },
+      {
+        "name": "FactCheck.org",
+        "url": "https://www.factcheck.org/2025/08/recapping-trumps-deceptive-tariff-claims/"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-20",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Supreme Court strikes down IEEPA tariffs; White House rebuilds them",
+    "summary": "The Supreme Court ruled 6-3 that Trump's emergency-law tariffs were illegal, throwing about $175 billion in collected duties into question — but the administration quickly imposed replacement tariffs under other laws.",
+    "details": "On February 20, 2026, in Learning Resources v. Trump, the Supreme Court held 6-3 that the International Emergency Economic Powers Act does not authorize presidents to impose tariffs, invalidating both the 'Liberation Day' reciprocal tariffs and the fentanyl-related tariffs on Canada, Mexico, and China. Chief Justice Roberts wrote that the law's power to 'regulate importation' never mentions tariffs, and Congress has always used explicit language and limits when delegating tariff power; Justices Thomas, Alito, and Kavanaugh dissented. The ruling put roughly $175-179 billion in collected tariffs in line for potential importer refunds, though the Court left the refund process unresolved. Within days the administration invoked Section 122 of the Trade Act of 1974 to impose a 10% surcharge on most imports, raised it to 15% on February 22 — even though that law caps such surcharges at 15% for 150 days without congressional approval, meaning it expires July 24, 2026 — and launched new Section 301 and 232 actions to rebuild country-specific tariffs. The Court of International Trade later rejected the Section 122 surcharge as well, with an appeal pending. The net effect: the average U.S. tariff rate fell from about 15.3% to about 13%, still several times the pre-2025 level of around 2.5%.",
+    "sources": [
+      {
+        "name": "Supreme Court of the United States",
+        "url": "https://www.supremecourt.gov/opinions/25pdf/24-1287_4gcj.pdf"
+      },
+      {
+        "name": "Congressional Research Service",
+        "url": "https://www.congress.gov/crs-product/LSB11398"
+      },
+      {
+        "name": "Global Trade Alert",
+        "url": "https://globaltradealert.org/reports/S122-US-Tariff-Estimates"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-12",
+    "category": "Government, Health & Science",
+    "title": "EPA repeals 'endangerment finding'; climate science stripped from government",
+    "summary": "The EPA finalized repeal of the 2009 finding that greenhouse gases endanger public health, and the administration dismissed National Climate Assessment authors and pulled reports offline.",
+    "details": "On February 12, 2026, the EPA finalized rescission of the 2009 'endangerment finding,' the legal foundation for regulating greenhouse gases from vehicles, power plants, and industry under the Clean Air Act, calling it the largest deregulatory action in U.S. history. The move immediately drew lawsuits from health, science, and environmental groups. Earlier, in April 2025, the administration dismissed the roughly 400 volunteer scientists writing the congressionally mandated Sixth National Climate Assessment, and by mid-2025 the existing assessments and the U.S. Global Change Research Program website had been removed from federal sites. NOAA's climate.gov and NASA climate outreach were also curtailed. The 1990 Global Change Research Act still requires the assessment every four years.",
+    "sources": [
+      {
+        "name": "EPA",
+        "url": "https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-rescission-greenhouse-gas-endangerment"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/04/29/nx-s1-5380816/climate-assessment-authors-released"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/07/02/climate/national-climate-assessment-websites"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-01",
+    "category": "Crypto & Personal Profit",
+    "title": "Report: UAE 'spy sheikh' secretly bought 49% of Trump crypto firm",
+    "summary": "The Wall Street Journal revealed that a firm backed by Sheikh Tahnoon bin Zayed, the UAE's national security adviser, secretly agreed to buy 49% of World Liberty Financial for $500 million — signed four days before Trump's inauguration.",
+    "details": "According to the February 2026 Journal report, Abu Dhabi entity Aryam Investment 1 signed the deal on January 16, 2025, with Eric Trump signing for World Liberty Financial; the stake was never publicly disclosed. Half the $500 million was paid up front, with about $187 million flowing to Trump-family-controlled entities and tens of millions more to co-founders including relatives of Middle East envoy Steve Witkoff. Sheikh Tahnoon — nicknamed the 'spy sheikh' for his intelligence portfolio — chairs both MGX, the fund that later routed $2 billion through the family's USD1 stablecoin, and G42, the AI company that in May 2025 was granted access to advanced U.S. AI chips previously restricted over its China ties. The report meant a foreign government official had quietly become the largest outside owner of the sitting president's crypto company months before receiving major policy concessions. In June 2026, five Senate Democrats — including Warren, Blumenthal and Durbin — demanded congressional hearings, and Senator Warren called the arrangement 'corruption, plain and simple.' The White House and World Liberty denied wrongdoing.",
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/01/spy-sheikh-stake-trump-crypto.html"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/02/01/politics/trump-family-crypto-world-liberty-financial-uae"
+      },
+      {
+        "name": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2026/06/24/trump-lands-in-senate-s-crosshairs-over-usd500-million-uae-investment-in-his-crypto-venture"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-24",
+    "category": "Immigration & Enforcement",
+    "title": "Agents kill nurse Alex Pretti at ICE protest; standoff triggers longest shutdown ever",
+    "summary": "Federal agents shot and killed VA nurse Alex Pretti at a Minneapolis protest against ICE's Operation Metro Surge, and the resulting funding fight produced the longest government shutdown in US history.",
+    "details": "In December 2025 ICE launched Operation Metro Surge in the Minneapolis-St. Paul area, making more than 3,000 arrests amid criticism over warrantless arrests, detentions of US citizens, and clashes with protesters; an ICE agent killed protester Renée Good on January 7. On January 24, 2026, Customs and Border Protection officers, later identified by ProPublica as Jesus Ochoa and Raymundo Gutierrez, shot and killed Alex Pretti, a 37-year-old intensive-care nurse who had been filming agents; bystander video showed roughly six agents around him, and one fired about four shots roughly a second after another agent had already taken away Pretti's holstered gun. The killings drew bipartisan calls for investigation, and Senate Democrats refused to fund Customs and Border Protection without new guardrails, triggering a partial DHS shutdown from February 14. On March 29 it became the longest shutdown in US history, surpassing the 43-day 2025 shutdown, affecting TSA, FEMA, the Coast Guard, and the Secret Service. It ended April 30 when Republicans agreed to strip ICE and Border Patrol funding from the bill and fund them later through reconciliation instead, and Trump signed the measure the same day.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/01/29/us/immigration-agents-shooting-alex-pretti-invs"
+      },
+      {
+        "name": "ProPublica",
+        "url": "https://www.propublica.org/article/alex-pretti-shooting-cbp-agents-identified-jesus-ochoa-raymundo-gutierrez"
+      },
+      {
+        "name": "Federal News Network",
+        "url": "https://federalnewsnetwork.com/government-shutdown/2026/04/house-approves-bill-to-fund-the-department-of-homeland-security-and-end-the-record-shutdown/"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-21",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Greenland, Canada '51st state,' and Panama Canal pressure campaigns",
+    "summary": "Trump spent 2025-26 pressing to acquire Greenland, taunting Canada about becoming a state, and demanding control over the Panama Canal, before pledging at Davos not to take Greenland by force.",
+    "details": "From the start of his term Trump refused to rule out military force to annex Greenland, a self-governing territory of NATO ally Denmark, triggering a diplomatic crisis that escalated in early 2026 when he threatened 25% tariffs on European countries unless Denmark ceded the island; on January 21, 2026, at Davos, he reversed course and pledged not to use force or tariffs to acquire it. He repeatedly called Canada the future '51st state,' said he would use 'economic force,' and dubbed its leaders 'governor' — rhetoric credited with helping Mark Carney's Liberals win Canada's April 2025 election on an anti-Trump platform, and which Trump revived as late as June 2026 when Canada entered a recession driven partly by U.S. tariffs. On Panama, Trump claimed China controlled the canal and spoke of 'taking back' the waterway the U.S. handed over in 1999; under U.S. pressure, Panama exited China's Belt and Road Initiative, and in early 2026 Panama's Supreme Court voided Hong Kong-based CK Hutchison's concession to operate ports at both canal entrances, a ruling seen as a win for Washington. Allies said the campaigns damaged trust in U.S. security guarantees; polls showed about 90% of Canadians opposed joining the U.S.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Greenland_crisis"
+      },
+      {
+        "name": "Time",
+        "url": "https://time.com/article/2026/06/02/trump-annex-canada-51st-state-rhetoric-carney-us-partnership-message/"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/01/30/panama-canal-trump-china-hong-kong-ck-hutchison.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-20",
+    "category": "Promises vs. Reality",
+    "title": "Energy bills 'cut in half within 12 months' — they rose",
+    "summary": "At the Economic Club of New York in September 2024, Trump promised: 'My plan will cut energy prices in half — or more than that — within 12 months of taking office.'",
+    "details": "One year into the term, NPR found the opposite had happened for household energy costs. The average American household's annual electric bill rose $110 (6.4%) between 2024 and 2025, wholesale electricity prices jumped more than 60% in New York and New England and 45% in the mid-Atlantic, and natural gas prices climbed more than 50%. By May 2026, electricity prices were still up 5.9% year-over-year, per the CPI report. Gasoline did fall roughly 20% — a real decline, but nowhere near the promised 50% cut across energy prices.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/01/20/nx-s1-5670378/trump-energy-promises-one-year"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-19",
+    "category": "Immigration & Enforcement",
+    "title": "'Operation Metro Surge' floods Minneapolis with 3,000 federal agents",
+    "summary": "DHS called its Minneapolis-St. Paul operation the largest immigration crackdown ever, targeting the Somali community. It arrested about 3,000 people, shut down daily life, and ended after two agents' shootings killed U.S. citizens.",
+    "details": "Announced December 4, 2025 and expanded in early January 2026, the operation sent up to 3,000 ICE and CBP personnel across Minnesota after unsubstantiated media claims that Somali Minnesotans were funneling stolen welfare money to terrorists; Trump publicly disparaged Somali immigrants, most of whom are U.S. citizens or legal residents. DHS announced 3,000 arrests by January 19. Schools went remote, businesses closed, and the city estimated over $200 million in economic damage in January alone. After federal agents killed two U.S. citizens during the operation, protests spread to dozens of cities nationwide, and commander Gregory Bovino and part of his force left Minneapolis on January 27, with border czar Tom Homan agreeing to 'ongoing dialogue' with Governor Walz. A Hennepin County prosecutor later opened a criminal investigation into Bovino and other federal officials, and Human Rights Watch documented warrantless arrests, racial targeting, and detention of citizens in a June 2026 report.",
+    "sources": [
+      {
+        "name": "Minnesota Reformer",
+        "url": "https://minnesotareformer.com/2026/02/20/a-chronology-of-operation-metro-surge/"
+      },
+      {
+        "name": "Department of Homeland Security",
+        "url": "https://www.dhs.gov/news/2026/01/19/ice-continues-remove-worst-worst-minneapolis-streets-dhs-law-enforcement-marks-3000"
+      },
+      {
+        "name": "Human Rights Watch",
+        "url": "https://www.hrw.org/report/2026/06/18/a-manufactured-crisis/minnesota-communities-terrorized-by-the-federal-government"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-16",
+    "category": "Promises vs. Reality",
+    "title": "'Drain the swamp' — donor ambassadors and pardons for donors",
+    "summary": "Trump's signature 2016-and-beyond promise was to 'drain the swamp' of pay-to-play politics and special-interest influence in Washington.",
+    "details": "His second-term ambassador nominees collectively donated nearly $60 million to Trump and Republican committees in the two years before their nominations — far exceeding prior administrations — led by banker Warren Stephens ($27 million), named ambassador to the United Kingdom. Pardons followed money too: Nikola founder Trevor Milton, convicted of securities fraud, received a March 2025 pardon wiping out hundreds of millions in restitution after he and his wife donated over $1.8 million to Trump's campaign; Binance founder Changpeng Zhao, who pleaded guilty to money-laundering violations, was pardoned in October 2025 after Binance facilitated a $2 billion investment using the Trump family's World Liberty Financial stablecoin. By January 2026, Forbes was tracking a running list of big-dollar donors and business allies granted clemency, California's governor tallied nearly $2 billion in victim restitution and taxpayer recovery erased by pardons, and congressional Democrats opened a formal 'pay-to-play' investigation into more than a dozen clemency recipients.",
+    "sources": [
+      {
+        "name": "NOTUS",
+        "url": "https://www.notus.org/whitehouse/trump-ambassadors-donors"
+      },
+      {
+        "name": "Forbes",
+        "url": "https://forbes.com/sites/alisondurkee/2026/01/16/trumps-pardon-list-puerto-rico-governors-co-conspirator-latest-big-time-donor-sprung-free-by-president"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/trump-pardon-recipients-democrats-congressional-investigation-pay-to-play/"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-15",
+    "category": "Promises vs. Reality",
+    "title": "'Concepts of a plan' on health care — premiums doubled, millions dropped",
+    "summary": "Pressed at the September 2024 debate for his long-promised Obamacare replacement, Trump said: 'I have concepts of a plan.'",
+    "details": "No plan arrived before the enhanced ACA premium tax credits expired December 31, 2025 — Trump floated a fix during the 43-day government shutdown fight, then backed off after conservative backlash. Average premium payments for the program's more than 20 million subsidized enrollees rose 114% in 2026. On January 15, 2026, Trump released a video announcing 'The Great Healthcare Plan' — direct payments to consumers, price transparency and PBM reform — which his own officials called a 'broad framework'; it required congressional action, restated old proposals, and offered no relief for the premium spikes already hitting HealthCare.gov customers. By June 2026, NPR reported roughly 5 million people had dropped ACA coverage after the subsidies lapsed. Nearly a decade after first promising to replace Obamacare with 'something terrific,' no replacement has passed.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/01/15/nx-s1-5678654/trump-great-healthcare-plan-video-announcement-aca-premiums"
+      },
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/health/health-subsidies-expire-launching-millions-of-americans-into-2026-with-steep-insurance-hikes"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/06/26/nx-s1-5860746/aca-health-insurance-subsidies-rates-premiums"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-07",
+    "category": "Immigration & Enforcement",
+    "title": "Federal agents' shootings kill U.S. citizens Renée Good and Alex Pretti",
+    "summary": "During the Minneapolis crackdown, an ICE agent shot and killed 37-year-old Renée Good in her car, and CBP officers killed nurse Alex Pretti 17 days later — part of a rising toll of shootings by immigration agents.",
+    "details": "Good, a U.S. citizen, was shot three times on January 7, 2026 by ICE agent Jonathan Ross as her SUV moved away from him; the Justice Department declined to investigate, prompting about a dozen federal prosecutors to resign, and as of mid-2026 Ross faced no charges while Hennepin County pursued a state investigation the FBI tried to impede. On January 24, Alex Pretti, a 37-year-old VA intensive-care nurse who legally carried a firearm, was tackled and fatally shot by CBP officers at a protest; both killings drove nationwide demonstrations. They followed earlier shootings around Chicago's 'Operation Midway Blitz': Silverio Villegas González, killed in September 2025, and U.S. citizen Marimar Martinez, wounded in October 2025 by an agent who bragged about it in texts (federal charges against her were dropped). In May 2026, Minnesota prosecutors charged ICE agent Christian Castro with second-degree assault for a separate January shooting that wounded a Venezuelan man; Castro was arrested in Texas as DHS called the state case a 'political stunt.'",
+    "sources": [
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/nation/a-look-at-shootings-by-federal-immigration-officers"
+      },
+      {
+        "name": "The Marshall Project",
+        "url": "https://www.themarshallproject.org/2026/01/07/ice-minneapolis-shooting-renee-good"
+      },
+      {
+        "name": "MPR News",
+        "url": "https://www.mprnews.org/story/2026/05/29/ice-agent-charged-shooting-wounding-man-minneapolis-arrested-texas"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-03",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "U.S. strikes Caracas, captures Maduro; Trump says U.S. will 'run' Venezuela",
+    "summary": "U.S. forces bombed Venezuela's capital and captured President Nicolás Maduro, who was flown to New York for trial; Trump said the U.S. would run the country and control its oil sales.",
+    "details": "In the early hours of January 3, 2026, the U.S. launched 'Operation Absolute Resolve' — airstrikes on Caracas and surrounding areas plus a Delta Force raid — capturing Nicolás Maduro and his wife Cilia Flores, who were arraigned in New York on narco-terrorism and drug-trafficking charges. Congress never authorized the operation, and critics including the New York Times editorial board called it illegal; Trump said at a news conference the U.S. would 'run the country until such time as we can do a safe, proper and judicious transition.' Vice President Delcy Rodríguez was sworn in as interim president and later signed a law opening oil production to private companies, while the U.S. lifted oil sanctions and said it would control oil sale proceeds indefinitely. By June 2026 Venezuelan oil exports hit a seven-year high, with Energy Secretary Chris Wright citing over $1 billion in sales in the first weeks and $5 billion expected. In June 2026 a joint U.S.-Venezuelan strike killed Tren de Aragua gang leader Niño Guerrero. The intervention capped a pressure campaign that began with the boat-strike campaign in September 2025, and no new presidential election had been held as of mid-2026.",
+    "sources": [
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/show/trump-says-u-s-will-run-venezuela-after-capturing-maduro-in-surprise-military-strike"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/06/07/nx-s1-5846935/venezuela-is-exporting-more-oil-after-the-u-s-captured-maduro"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_intervention_in_Venezuela"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-03",
+    "category": "Promises vs. Reality",
+    "title": "'No new wars' — then invaded Venezuela and seized Maduro",
+    "summary": "As a candidate, Trump promised an anti-interventionist foreign policy, mocking predecessors for regime-change wars and pledging to keep America out of new conflicts.",
+    "details": "On January 2, 2026, Trump announced the U.S. military would strike inside Venezuela, and on January 3 he announced that a U.S. military operation had captured President Nicolás Maduro and his wife Cilia Flores, who were flown to New York to face drug-trafficking charges. Trump declared the U.S. was 'in charge' of Venezuela, saying 'we are going to run the country.' Congress was not notified in advance; Senators Tim Kaine, Ruben Gallego and Bernie Sanders called the operation illegal and unconstitutional. Venezuelan officials said civilians and soldiers were killed in the strikes, without giving numbers. The intervention followed months of secret talks over Venezuela's oil reserves and capped the boat-strike campaign that had killed roughly 115 people since September 2025.",
+    "sources": [
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/world/us-strikes-venezuela-and-says-its-leader-maduro-has-been-captured-and-flown-out-of-the-country"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/01/03/g-s1-104329/explosions-caracas-venezuela"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_intervention_in_Venezuela"
+      }
+    ]
+  },
+  {
+    "date": "2026-01",
+    "category": "Government, Health & Science",
+    "title": "Childhood vaccine schedule overhauled; hepatitis B birth dose scaled back",
+    "summary": "The reconstituted CDC advisory panel and HHS cut the childhood vaccine schedule and ended the routine hepatitis B birth-dose recommendation; a court later paused the changes.",
+    "details": "In December 2025, the RFK-appointed ACIP voted 8-3 to stop recommending the routine hepatitis B vaccine birth dose for babies born to mothers who test negative for the virus, and the CDC adopted that change. In January 2026, following a presidential memorandum directing HHS to model U.S. vaccine policy on other countries, HHS cut the number of diseases covered by the routine childhood schedule from 17 to 11 with little public consultation. Earlier, in May 2025, Kennedy had unilaterally dropped COVID-19 vaccine recommendations for healthy children and pregnant women without ACIP input. In March 2026, a federal court stayed the January 2026 schedule changes and the new ACIP members' votes, temporarily restoring the prior (June 2024) schedule.",
+    "sources": [
+      {
+        "name": "AJMC",
+        "url": "https://www.ajmc.com/view/cdc-reduces-us-childhood-immunization-schedule-from-17-to-11-diseases"
+      },
+      {
+        "name": "KFF",
+        "url": "https://www.kff.org/other-health/the-new-federal-vaccine-schedule-what-changed/"
+      },
+      {
+        "name": "Georgetown CCF",
+        "url": "https://ccf.georgetown.edu/2026/03/31/court-order-presses-pause-on-new-acip-committee-and-changes-to-childhood-vaccination-schedule/"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-23",
+    "category": "Press, Speech & Democracy",
+    "title": "Supreme Court blocks Trump's National Guard deployment to Chicago",
+    "summary": "In a 6-3 ruling in Trump v. Illinois, the Supreme Court kept in place a block on sending federalized National Guard troops into Chicago, a rare high-court defeat for the administration.",
+    "details": "Trump spent 2025 deploying or attempting to deploy federalized National Guard units to Los Angeles, Washington D.C., Portland, Memphis, and Chicago, framing the moves around crime and protection of immigration agents; Illinois sued over the Chicago deployment tied to the 'Operation Midway Blitz' immigration crackdown. On December 23, 2025, the Court held 6-3 that the federalization statute's reference to 'regular forces' means the president may call up the Guard only when the regular military would be unable to execute the laws, a showing he had not made. Chief Justice Roberts and Justices Sotomayor, Kagan, Barrett, and Jackson formed the majority with Kavanaugh concurring, while Thomas, Alito, and Gorsuch dissented. Trump then said he would pull federalized Guard forces from Chicago, Los Angeles, and Portland, and allies renewed talk of invoking the Insurrection Act instead, which the ruling did not address. A judge dismissed the underlying Illinois suit in 2026 after the administration stood down.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rejects-trump-bid-deploy-national-guard-illinois-rcna238630"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2025/12/23/supreme-court-chicago-illinois-troops-trump/"
+      },
+      {
+        "name": "Brennan Center for Justice",
+        "url": "https://www.brennancenter.org/our-work/analysis-opinion/trump-v-illinois-narrow-supreme-court-decision-broad-implications-0"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-01",
+    "category": "Pardons & Rule of Law",
+    "title": "Pardon frees Honduran ex-president convicted of trafficking 400 tons of cocaine",
+    "summary": "Trump pardoned former Honduran President Juan Orlando Hernández, who was serving a 45-year U.S. sentence for helping traffickers move more than 400 tons of cocaine into the United States.",
+    "details": "Hernández was convicted by a New York jury in March 2024 on cocaine-trafficking and weapons charges; prosecutors showed he took bribes from cartels — including from Joaquín 'El Chapo' Guzmán's organization — and protected traffickers while president. Then-Attorney General Merrick Garland called it one of the largest and most violent drug conspiracies in the world. Trump announced the pardon days before Honduras's presidential election, in the same message endorsing the candidate of Hernández's party, and claimed without evidence that the prosecution was a Biden administration 'setup.' Hernández was released from a West Virginia federal prison the day the pardon was signed. Members of both parties said the pardon undercut the administration's stated war on drug cartels, which it was simultaneously using to justify military strikes on alleged trafficking boats.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/12/02/nx-s1-5628382/trump-pardons-honduran-ex-president-juan-orlando-hernandez"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/trump-administration/former-honduran-president-juan-orlando-hernandez-freed-trump-pardon-rcna246968"
+      },
+      {
+        "name": "FactCheck.org",
+        "url": "https://www.factcheck.org/2025/12/examining-trumps-pardon-of-former-honduran-president-convicted-of-trafficking-drugs-to-u-s/"
+      }
+    ]
+  },
+  {
+    "date": "2025-12",
+    "category": "Government, Health & Science",
+    "title": "Federal workforce shrinks by roughly a quarter-million in one year",
+    "summary": "Mass layoffs, buyouts, and a 'deferred resignation' offer cut the federal civilian workforce by more than 250,000 people in 2025.",
+    "details": "Through firings (reductions in force), early retirements, and a government-wide 'deferred resignation' buyout, the federal workforce shrank dramatically during Trump's first year back in office. Pew found the workforce fell about 10% in 2025; other tallies put the drop at 256,000 to over 317,000 employees, roughly 11-14% of the civilian workforce. About 129,000 workers left through the deferred-resignation program alone, and roughly 17,000 were dismissed in formal RIFs. During the October 2025 government shutdown, the administration tried to lay off thousands more workers, but federal judge Susan Illston blocked the shutdown-era RIFs as illegal. Despite the cuts, the federal deficit barely moved.",
+    "sources": [
+      {
+        "name": "Pew Research Center",
+        "url": "https://www.pewresearch.org/short-reads/2026/03/13/federal-workforce-shrank-10-in-trumps-first-year-back-in-office/"
+      },
+      {
+        "name": "Federal News Network",
+        "url": "https://federalnewsnetwork.com/workforce/2025/11/317000-feds-have-left-the-government-this-year-surpassing-opms-goal/"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/10/15/nx-s1-5574111/government-shutdown-federal-employees-congress-rif"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-24",
+    "category": "Pardons & Rule of Law",
+    "title": "Judge throws out Comey and James cases: prosecutor unlawfully appointed",
+    "summary": "A federal judge dismissed the indictments of James Comey and Letitia James, ruling that Lindsey Halligan — Trump's former personal lawyer — was never lawfully appointed as U.S. attorney.",
+    "details": "Judge Cameron Currie found Halligan's installation violated the federal law limiting interim U.S. attorneys to 120 days, meaning she had no legal authority to present the indictments to grand juries. The dismissals were technically without prejudice, but the judge noted the statute of limitations on Comey's alleged conduct had already expired on September 30, 2025. Prosecutors then tried twice to re-indict James, and grand juries in Norfolk and Alexandria refused both times in December 2025. The DOJ appealed to the Fourth Circuit on February 9, 2026, arguing Attorney General Bondi had retroactively 'ratified' Halligan's actions; legal experts said Halligan's own departure from the office in January 2026 further weakened the appeal. As of mid-2026 neither case had been revived.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/justice-department/judge-dismisses-cases-james-comey-letitia-james-finding-prosecutor-was-rcna244775"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/11/25/nx-s1-5619597/judge-dismisses-comey-james-cases-after-finding-prosecutor-was-unlawfully-appointed"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/justice-department-appealing-james-comey-letitia-james-dismissals/"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-20",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Leaked 28-point Ukraine plan echoes Russian demands; talks drag into 2026",
+    "summary": "A U.S. peace plan drafted by Steve Witkoff and Jared Kushner with a Kremlin envoy would have made Ukraine cede land and shrink its army; revised talks continued without a final deal through mid-2026.",
+    "details": "In November 2025 a 28-point peace plan leaked that had been developed by envoy Steve Witkoff and Trump's son-in-law Jared Kushner with Russian negotiator Kirill Dmitriev, largely without Ukrainian or European input. It required Ukraine to give up the entire Donbas region including areas Russia never captured, cap its army at 600,000 troops, and renounce NATO membership — terms European leaders called a capitulation; Army Secretary Dan Driscoll delivered it to Kyiv with a Thanksgiving deadline. After emergency talks in Geneva on November 23-24, U.S. and Ukrainian negotiators trimmed the plan to about 19 points and softened several provisions. By late December Zelensky said 90% of a deal was agreed, and in January 2026 Witkoff said negotiations were down to 'one final issue' as the first trilateral U.S.-Ukraine-Russia talks convened. But rounds in the UAE and Switzerland in early 2026 brought no breakthrough, a March session was postponed when the U.S. and Israel attacked Iran, and as of mid-2026 the war continued with no signed peace.",
+    "sources": [
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2025/11/20/trump-ukraine-peace-plan-28-points-russia"
+      },
+      {
+        "name": "House of Commons Library",
+        "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10411/"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/1/22/russia-ukraine-peace-talks-down-to-one-issue-says-us-envoy-witkoff"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-20",
+    "category": "Press, Speech & Democracy",
+    "title": "Trump calls Democrats' video to troops 'seditious behavior, punishable by death'",
+    "summary": "After six Democratic lawmakers who are military and intelligence veterans reminded service members they can refuse illegal orders, Trump posted that they committed sedition 'punishable by DEATH' and reshared a post saying 'hang them.'",
+    "details": "Senators Elissa Slotkin and Mark Kelly and Representatives Chris Deluzio, Maggie Goodlander, Chrissy Houlahan, and Jason Crow released a video telling troops and intelligence officers they must refuse illegal orders, a statement of existing military law. Trump responded on Truth Social that this was 'SEDITIOUS BEHAVIOR, punishable by DEATH!' and called for the lawmakers to be arrested and tried; he also reposted another user's message reading 'Hang them George Washington would.' Legal experts said the video was not sedition, and the lawmakers reported a surge in death threats afterward. The White House said the president was not threatening them, and Trump later said he only meant that 'in the old days' such statements were punishable by death. The Pentagon subsequently opened a review of Kelly, a retired Navy captain, over the video.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/white-house/trump-democrats-death-penalty-sedition-military-orders-rcna245003"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/11/20/nx-s1-5615190/trump-democrats-military-video-seditious"
+      },
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/politics/trump-says-democrats-video-message-to-military-is-seditious-behavior-punishable-by-death"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-19",
+    "category": "Press, Speech & Democracy",
+    "title": "Congress forces Epstein files release; DOJ ultimately publishes 3.5 million pages",
+    "summary": "After newly released Epstein emails said Trump 'knew about the girls,' Congress passed the Epstein Files Transparency Act 427-1 and Trump signed it; the DOJ released millions of pages into early 2026.",
+    "details": "On November 12, 2025, House Oversight Democrats released Epstein estate emails in which Epstein wrote that Trump 'knew about the girls as he asked ghislaine to stop' and 'spent hours at my house' with a trafficking victim; the White House called the emails a hoax proving nothing, and Trump has not been accused of wrongdoing. The same day, Representative Adelita Grijalva was sworn in and provided the 218th signature on a discharge petition forcing a House vote over leadership's objections. Trump dropped his opposition, the House passed the Epstein Files Transparency Act 427-1 on November 18, the Senate passed it by unanimous consent, and Trump signed it on November 19. The DOJ's first release on December 19 was heavily redacted and criticized as covering less than 1% of its holdings, but on January 30, 2026 the department published more than 3 million additional pages, over 2,000 videos, and 180,000 images, bringing the total to about 3.5 million pages. Trump's name appears more than 3,000 times in the files, and in February 2026 a federal judge ordered the DOJ to turn over some files without redactions.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/donald-trump/jeffrey-epstein-wrote-trump-knew-girls-referenced-mar-lago-newly-relea-rcna243422"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Epstein_Files_Transparency_Act"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/epstein-files-released-doj-2026/"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-15",
+    "category": "Immigration & Enforcement",
+    "title": "Border Patrol surges roll through Charlotte and New Orleans",
+    "summary": "Roving Border Patrol operations — 'Charlotte's Web' in North Carolina and 'Swamp Sweep' in Louisiana — brought street arrests far from any border, emptying schools and businesses for weeks.",
+    "details": "In mid-November 2025, about 200 Border Patrol agents under commander Gregory Bovino conducted a week of arrests across Charlotte; DHS reported over 250 arrests (later citing more than 425), while local officials documented U.S. citizens detained, school absences spiking, and construction sites and restaurants standing empty. The operation ended abruptly on November 20, and the same force mobilized to New Orleans for 'Swamp Sweep,' which began after Thanksgiving with roughly 250 agents and a stated goal of 5,000 arrests across southeast Louisiana. These operations relied on Border Patrol's claimed authority to operate within 100 miles of any 'external boundary,' including coastlines — covering most major U.S. cities. Both cities are in states without sanctuary policies, and local police in some parishes assisted, unlike in earlier northern-city operations.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/border-patrol-preparing-leave-charlotte-plan-mobilize-new-orleans-rcna244981"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2025/11/20/north-carolina-officials-say-us-border-patrol-has-ended-charlotte-operation"
+      },
+      {
+        "name": "WWNO",
+        "url": "https://www.wwno.org/immigration/2025-11-18/dhs-to-send-250-border-agents-to-new-orleans-for-major-immigration-sweep-see-details"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-10",
+    "category": "Pardons & Rule of Law",
+    "title": "Preemptive pardons for Giuliani and 76 others over 2020 election scheme",
+    "summary": "Trump granted 'full, complete, and unconditional' pardons to 77 allies involved in efforts to overturn his 2020 loss, including Rudy Giuliani, Mark Meadows, Sidney Powell, and John Eastman.",
+    "details": "The proclamation, posted by pardon attorney Ed Martin, covered lawyers, aides, and 'fake electors' who signed certificates falsely claiming Trump won swing states in 2020. None of the 77 faced federal charges — special counsel Jack Smith's case charged only Trump and was dropped after the election — so the pardons were largely preemptive, protecting recipients from any future federal prosecution. Presidential pardons do not reach state charges, which many recipients still faced in Georgia, Arizona, Michigan, Nevada, and Wisconsin, though most of those cases had stalled. The proclamation described the pardons as ending 'a grave national injustice' and promoting 'national reconciliation,' and stated it did not apply to Trump himself.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/11/10/nx-s1-5604174/trump-pardons-2020-election"
+      },
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2025/11/10/trump-pardons-giuliani-fake-electors-2020-election"
+      },
+      {
+        "name": "Votebeat",
+        "url": "https://www.votebeat.org/2025/11/10/trump-pardon-fake-elector-2020-election/"
+      }
+    ]
+  },
+  {
+    "date": "2025-11",
+    "category": "Government, Health & Science",
+    "title": "Measles returns at record levels amid falling vaccination",
+    "summary": "The U.S. saw its worst measles year since 1991 in 2025, with the first measles deaths since 2015, and outbreaks continued into 2026, threatening the country's elimination status.",
+    "details": "A 2025 outbreak that began in an undervaccinated Mennonite community in Gaines County, Texas, spread across the Southwest and drove 2,288 confirmed U.S. measles cases, the most since 1991. Three people died, including two unvaccinated children in Texas and one unvaccinated adult in New Mexico, the first U.S. measles deaths since 2015. Cases continued in 2026, with more than 2,000 by mid-year. The U.S. declared measles eliminated in 2000, but sustained transmission and declining childhood vaccination rates put that status at risk; a regional commission was set to reassess in November 2026. RFK Jr.'s public statements during the outbreak were widely criticized for equivocating on vaccine safety.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/01/20/health/us-measles-outbreak-one-year"
+      },
+      {
+        "name": "CIDRAP",
+        "url": "https://www.cidrap.umn.edu/measles/us-measles-cases-top-1500-texas-outbreak-grows"
+      },
+      {
+        "name": "KFF",
+        "url": "https://www.kff.org/other-health/measles-elimination-status-what-it-is-and-how-the-u-s-could-lose-it/"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-30",
+    "category": "Immigration & Enforcement",
+    "title": "Refugee admissions cut to 7,500 — mostly for white South Africans",
+    "summary": "The administration set the lowest refugee ceiling in U.S. history at 7,500 for fiscal 2026 and reserved most slots for Afrikaners, while admissions for all other refugees stayed frozen.",
+    "details": "Refugee resettlement was suspended by executive order on day one of the term, stranding tens of thousands of people worldwide who had already passed years of U.S. vetting — many of whom had sold homes and quit jobs for approved travel. The only significant exception was a fast-track program, started in early 2025, for white Afrikaners from South Africa, whom Trump described as victims of race-based persecution; the first group of 59 arrived in May 2025 and several hundred followed. On October 30, 2025, the administration formally set the FY2026 ceiling at 7,500 — down from 125,000 two years earlier and the lowest since the program began in 1980 — designating the slots primarily for Afrikaners. Refugee agencies noted the contrast with the simultaneous cancellation of protections for Afghans, Haitians, and others fleeing war and state collapse.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/10/30/g-s1-95823/trump-administration-sets-lowest-ever-cap-on-refugee-admissions"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/trump-refugee-cap-afrikaners-south-africa/"
+      },
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/politics/3-things-to-know-about-trumps-order-raising-the-u-s-refugee-cap-only-for-white-south-africans"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-28",
+    "category": "Press, Speech & Democracy",
+    "title": "Trump flirts with unconstitutional third term as 'Trump 2028' hats circulate",
+    "summary": "Trump repeatedly teased running in 2028 despite the 22nd Amendment's two-term limit, while ally Steve Bannon insisted a third term was being planned and 'Trump 2028' hats appeared in the Oval Office.",
+    "details": "The 22nd Amendment states no person may be elected president more than twice. Throughout 2025 Trump repeatedly said he would 'love' a third term and his organization sold red 'Trump 2028' hats, which sat on display outside the Oval Office and appeared on the Resolute Desk during a meeting with Democratic congressional leaders. Steve Bannon told The Economist in October that 'he's going to get a third term' and that there were 'many different alternatives' around the Constitution. House Speaker Mike Johnson and other Republicans characterized the talk as trolling of Democrats. In late October, Trump appeared to concede the point, saying 'based on what I read, I guess I'm not allowed to run,' though he continued to raise the idea afterward, and constitutional scholars warned that even joking claims to a third term corrode democratic norms.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/10/30/nx-s1-5590293/trump-2028-third-term-constitution"
+      },
+      {
+        "name": "PolitiFact",
+        "url": "https://www.politifact.com/article/2025/oct/27/trump-bannon-third-term-constitution/"
+      },
+      {
+        "name": "Time",
+        "url": "https://time.com/7328837/trump-third-term-steve-bannon-strategy-lame-duck-republicans-democrats/"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "category": "Crypto & Personal Profit",
+    "title": "East Wing demolished for ballroom funded by corporate donors",
+    "summary": "The White House East Wing was torn down to build a 90,000-square-foot ballroom, with the roughly $300 million cost covered by 37 private donors — including tech giants, defense contractors and crypto firms with business before the government.",
+    "details": "In October 2025, crews demolished the entire East Wing of the White House — built in 1902 and expanded in 1942 — to make way for a ballroom championed by Trump, whose estimated cost rose from $200 million to $300 million and later to about $400 million. The White House released a list of 37 donors funding the project through tax-deductible gifts to a nonprofit; it included Amazon, Apple, Google, Meta, Microsoft, Lockheed Martin, Coinbase, Ripple, the Winklevoss twins, and Cantor Fitzgerald's Lutnick family (relatives of Trump's commerce secretary). Google's $22 million contribution came out of its settlement of Trump's personal lawsuit against YouTube. Many donors hold federal contracts or face regulatory decisions from the administration, and Senator Richard Blumenthal pressed each donor to disclose whether anything was promised in exchange. Watchdogs noted there was no competitive process, no congressional approval, and no precedent for corporations directly financing a president's construction project at the White House.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/white-house/list-donors-trump-new-white-house-ballroom-east-wing-rcna239481"
+      },
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2025/10/26/37-white-house-ballroom-donors-funding-300-million-build-tech-ceos-trump/"
+      },
+      {
+        "name": "Sen. Blumenthal press release",
+        "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-presses-white-house-ballroom-donors-on-terms-of-donation-potential-deals-made-in-exchange-for-contributions"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "category": "Pardons & Rule of Law",
+    "title": "Pardon for Binance founder CZ, whose exchange boosted Trump crypto venture",
+    "summary": "Trump pardoned Changpeng Zhao, the Binance founder who pleaded guilty to money-laundering violations, months after Binance helped deliver a $2 billion windfall to the Trump family's crypto company.",
+    "details": "Zhao pleaded guilty in 2023 to failing to maintain an effective anti-money-laundering program at Binance, which admitted allowing transactions involving sanctioned groups; Binance paid a $4.3 billion penalty and Zhao served four months in prison. In 2025, an Emirati state-backed fund made a $2 billion investment in Binance using USD1, the stablecoin issued by World Liberty Financial — the Trump family's crypto firm — effectively parking billions in a Trump-linked product. The White House said Zhao was a victim of the Biden administration's 'war on cryptocurrency.' Lobbying disclosures later showed a lobbyist with ties to Donald Trump Jr. was paid $1.3 million in connection with securing Zhao's clemency. The pardon removed the main legal barrier to Binance re-entering the U.S. market.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/10/23/politics/binance-founder-trump-pardon"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/tech/crypto/binance-pardon-trump-changpeng-zhao-crypto-rcna239371"
+      },
+      {
+        "name": "FactCheck.org",
+        "url": "https://www.factcheck.org/2025/11/addressing-trumps-claims-about-the-pardon-of-binance-founder/"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-20",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "$40 billion Argentina rescue while U.S. farmers lose soybean sales",
+    "summary": "The Treasury arranged a $20 billion currency swap plus a planned $20 billion private facility to prop up Argentina's peso before its elections, angering U.S. farmers watching Argentina sell soybeans to China.",
+    "details": "Treasury Secretary Scott Bessent signed a $20 billion currency-swap agreement with Argentina's central bank on October 20, 2025, and the Treasury also bought pesos directly in markets — an unusual U.S. intervention to stabilize another country's currency ahead of Argentina's October 26 midterm elections, which Trump ally President Javier Milei went on to win. Bessent said he was also assembling an additional $20 billion facility funded by private banks and sovereign wealth funds. The timing enraged American farmers: China had stopped buying U.S. soybeans during the trade war, and when Argentina briefly scrapped its grain export taxes, China bought about 7 million tonnes of Argentine soybeans almost immediately. Senator Chuck Grassley asked publicly why the U.S. would 'bail out Argentina while they take American soybean producers' biggest market,' and the American Soybean Association called the frustration 'overwhelming.' Bessent promised the U.S. would not lose money on the arrangement; critics noted the administration was simultaneously preparing a multibillion-dollar bailout for U.S. farmers hurt by its own tariff policy.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/10/12/economy/argentina-america-bailout-currency"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2025/10/22/why-us-soya-bean-farmers-are-upset-with-trumps-20bn-argentina-bailout"
+      },
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2025/10/26/us-argentina-bessent"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-18",
+    "category": "Press, Speech & Democracy",
+    "title": "'No Kings' rallies draw millions in largest single-day protest in US history",
+    "summary": "The second wave of 'No Kings' demonstrations drew an estimated 5 to 7 million people at some 2,700 locations, by most estimates the largest single-day protest in American history.",
+    "details": "Rallies took place in roughly 2,700 cities and towns, from the National Mall to small rural communities, protesting the administration's deployments of troops to US cities, immigration raids, and pressure on the press and courts. Organizers estimated turnout at nearly 7 million; independent researchers estimated 5 million to 6.5 million, and either figure would set the record for a one-day demonstration in the United States, exceeding the June 14 'No Kings' rallies and the 2017 Women's March. The protests were overwhelmingly peaceful, with no reported arrests of participants and no widespread violence. Republican leaders labeled the events 'hate America' rallies; organizers described them as a defense of constitutional government. The name refers to the movement's charge that Trump acts like a king rather than an elected president.",
+    "sources": [
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2025/10/18/no-kings-protests-october-18-turnout"
+      },
+      {
+        "name": "ACLU",
+        "url": "https://www.aclu.org/news/civil-liberties/seven-million-people-unite-at-peaceful-no-kings-protests-to-defend-our-first-amendment-rights"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/October_2025_No_Kings_protests"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-17",
+    "category": "Pardons & Rule of Law",
+    "title": "George Santos freed as Trump commutes seven-year fraud sentence",
+    "summary": "Trump commuted the sentence of expelled Republican congressman George Santos, releasing him after about three months of an 87-month term for wire fraud and identity theft.",
+    "details": "Santos pleaded guilty in 2024 to wire fraud and aggravated identity theft, admitting he stole campaign donors' identities and charged their credit cards; he was sentenced in April 2025 and reported to a New Jersey federal prison on July 25, 2025. Santos had been expelled from the House in 2023 after an ethics investigation — only the sixth member ever expelled. Rep. Marjorie Taylor Greene and other allies lobbied for his release, and Trump announced the commutation on Truth Social, calling Santos 'somewhat of a rogue' but arguing he was treated unfairly. Because it was a commutation rather than a pardon, Santos's convictions remain on his record.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/10/17/nx-s1-5578304/trump-george-santos-prison-sentence-commuted"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/10/17/politics/george-santos-sentence-commuted"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-16",
+    "category": "Pardons & Rule of Law",
+    "title": "John Bolton indicted on 18 counts after FBI raids his home",
+    "summary": "Former national security adviser John Bolton, one of Trump's sharpest Republican critics, was indicted on classified-documents charges; he pleaded guilty to a single count in June 2026.",
+    "details": "FBI agents raided Bolton's Maryland home and Washington office on August 22, 2025, seizing documents marked classified. The October indictment charged him with eight counts of transmitting and ten counts of retaining national defense information, alleging he shared diary-like notes containing classified material with his wife and daughter through a personal email account that was later hacked by an Iran-linked actor. Bolton served as Trump's national security adviser in the first term, then wrote a critical memoir; Trump revoked his Secret Service protection on the first day of the second term despite an Iranian assassination threat against him. On June 26, 2026, Bolton pleaded guilty to one count of unauthorized possession of a national defense document. Critics noted the contrast with the dismissed classified-documents case against Trump himself; supporters of the prosecution noted the underlying investigation predated the second term.",
+    "sources": [
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/politics/what-to-know-about-the-federal-charges-against-john-bolton"
+      },
+      {
+        "name": "Fox News",
+        "url": "https://www.foxnews.com/politics/ex-trump-official-john-bolton-pleads-guilty-1-18-counts-classified-docs-indictment"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/national-security/2025/09/24/fbi-investigation-documents-john-bolton/"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-16",
+    "category": "Promises vs. Reality",
+    "title": "Promised free IVF — delivered a drug discount instead",
+    "summary": "In August 2024, Trump promised that under his administration 'your government will pay for — or your insurance company will be mandated to pay for — all costs associated with IVF treatment.'",
+    "details": "His February 18, 2025 executive order did not mandate or fund anything — it merely asked an adviser to submit policy recommendations within 90 days for lowering IVF costs. The follow-up came October 16, 2025: a deal with drugmaker EMD Serono for discounts of up to 84% off list price on three fertility drugs via the TrumpRx.gov platform starting in 2026, plus a legal pathway letting employers offer standalone fertility benefits if they choose to. KFF and the American Society for Reproductive Medicine noted the plan covers only medications — a fraction of IVF's $15,000-$25,000+ per-cycle cost — and helps only patients who can already afford the rest or whose employers opt in. As of mid-2026, no government payment or insurance mandate for IVF existed.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/sections/shots-health-news/2025/02/18/nx-s1-5301201/trump-executive-order-ivf-in-vitro-fertilization"
+      },
+      {
+        "name": "KFF",
+        "url": "https://www.kff.org/womens-health-policy/will-trumps-announcement-expand-access-to-ivf/"
+      },
+      {
+        "name": "ASRM",
+        "url": "https://www.asrm.org/advocacy-and-policy/fact-sheets-and-one-pagers/evaluating-the-trump-administrations-initiative-on-ivf/"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-15",
+    "category": "Press, Speech & Democracy",
+    "title": "News outlets surrender Pentagon badges rather than accept Hegseth's rules",
+    "summary": "Around 30 news organizations, including Fox News, gave up their Pentagon press credentials rather than sign Defense Secretary Pete Hegseth's new rules restricting what reporters could gather and report.",
+    "details": "Hegseth's October 2025 policy required credentialed reporters to agree not to solicit any information, classified or unclassified, from Defense Department employees without official authorization, and limited reporters to covering pre-approved news. Virtually every major outlet refused, including ABC, NBC, CBS, CNN, Fox News, Newsmax, the AP, Reuters, The New York Times, The Wall Street Journal, and The Washington Post; only the far-right One America News accepted the terms. On October 15-16, reporters cleared out their Pentagon workspaces, leaving the building without a resident press corps from major outlets for the first time since the Eisenhower administration. Press advocates called it the most sweeping restriction on military reporting in modern history. On March 20, 2026, a federal judge ruled the policy violated the First Amendment.",
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2025/10/16/us-media-return-pentagon-passes-giving-up-access-after-new-rules-kick-in"
+      },
+      {
+        "name": "The Hill",
+        "url": "https://thehill.com/homenews/media/5794028-pentagon-press-restrictions-violate-first-amendment/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2025_Pentagon_press_pass_forfeiture"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-10",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Gaza ceasefire takes effect under Trump's 20-point plan",
+    "summary": "A U.S.-brokered ceasefire ended two years of war in Gaza; hostages and prisoners were exchanged, but the follow-on 'Board of Peace' reconstruction plan stalled through mid-2026.",
+    "details": "Trump announced a 20-point Gaza plan with Israeli Prime Minister Netanyahu on September 29, 2025; Israel and Hamas signed on October 9 and the ceasefire took effect October 10. On October 13, Hamas released the 20 living Israeli hostages and Israel freed about 1,900 Palestinian prisoners, and Trump presided over a summit of more than 30 countries in Sharm el-Sheikh, Egypt. The plan created a 'Board of Peace' chaired by Trump himself to oversee Gaza's transitional government and reconstruction — an outgrowth of his February 2025 proposal for the U.S. to 'take over' Gaza, relocate its roughly 2 million Palestinians, and build a 'Riviera of the Middle East.' The UN Security Council endorsed the framework in November 2025. By mid-2026, however, the deal's second phase was stalled: Hamas disarmament talks were deadlocked, donations to the reconstruction fund had not materialized, Gaza remained divided along the Israeli-controlled 'yellow line,' and monitors counted hundreds of Palestinians killed by continued Israeli strikes since the ceasefire began. A Washington Post review in June 2026 found the Board of Peace had yet to begin major reconstruction.",
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2025/10/9/trump-announces-gaza-ceasefire-deal-what-we-know-and-whats-next"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/national-security/2026/06/01/trumps-board-peace-stalls-out-gaza-reconstruction/"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/02/05/nx-s1-5287576/trump-gaza-takeover"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-09",
+    "category": "Pardons & Rule of Law",
+    "title": "New York Attorney General Letitia James indicted on mortgage charges",
+    "summary": "The same Trump-installed prosecutor who charged Comey obtained an indictment of New York Attorney General Letitia James — who had won a civil fraud judgment against Trump — on bank-fraud charges.",
+    "details": "James was charged with bank fraud and making false statements to a financial institution over allegations she called a Norfolk, Virginia house a second home on 2020 mortgage paperwork while using it as a rental. James, who pleaded not guilty, had sued Trump for business fraud and won a civil judgment against him in 2024; Trump had publicly and repeatedly demanded she be prosecuted. The case was brought by Lindsey Halligan, Trump's former personal lawyer, after the prior U.S. attorney declined to charge. After the indictment was later thrown out, federal grand juries in Norfolk and Alexandria each declined to re-indict James in December 2025 — a rare double rejection of prosecutors.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/10/09/nx-s1-5569792/letitia-james-indictment-trump"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/justice-department/ny-attorney-general-letitia-james-trump-opponent-indicted-grand-jury-b-rcna236737"
+      },
+      {
+        "name": "FactCheck.org",
+        "url": "https://www.factcheck.org/2025/10/appraising-the-federal-indictment-of-letitia-james/"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-01",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Longest government shutdown in history: 43 days",
+    "summary": "The government shut down for a record 43 days over expiring health-insurance subsidies, disrupting food stamps, air travel, and federal paychecks before ending without the subsidies being extended.",
+    "details": "The federal government shut down from October 1 to November 12, 2025 — 43 days, the longest shutdown ever, surpassing the 35-day record from Trump's first term. Democrats refused to fund the government without extending enhanced Affordable Care Act premium subsidies expiring at year's end, which the CBO said would roughly double out-of-pocket premiums for millions and leave several million more uninsured; Republicans insisted on a 'clean' funding bill. During the standoff, the USDA said it could not pay November SNAP food benefits for about 42 million people until courts forced partial payments, air traffic controller absences forced the FAA to cut thousands of flights, and hundreds of thousands of federal workers missed paychecks while the administration also moved to permanently lay off workers. The shutdown ended when a handful of Senate Democrats accepted a deal funding the government into January with only a promised December vote on the subsidies — a vote that did not restore them. CBO estimated the shutdown permanently cost the economy about $11 billion. Health-insurance premium increases became a central issue in the affordability debate heading into 2026.",
+    "sources": [
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/politics/trump-signs-government-funding-bill-ending-record-43-day-shutdown"
+      },
+      {
+        "name": "Healthcare Dive",
+        "url": "https://www.healthcaredive.com/news/government-shutdown-ends-aca-subsidies-not-extended/805329/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2025_United_States_federal_government_shutdown"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-25",
+    "category": "Pardons & Rule of Law",
+    "title": "James Comey indicted days after Trump publicly demanded charges",
+    "summary": "A federal grand jury indicted former FBI Director James Comey on two counts related to 2020 Senate testimony, after Trump ousted the U.S. attorney who found insufficient evidence and installed his former personal lawyer.",
+    "details": "Comey, whom Trump fired in 2017, was charged with making a false statement to Congress and obstructing a congressional proceeding over his September 2020 testimony about the FBI's Russia investigation. The indictment came five days after Trump posted on Truth Social demanding Attorney General Pam Bondi prosecute Comey, Letitia James, and Senator Adam Schiff, writing 'JUSTICE MUST BE SERVED, NOW!!!' U.S. Attorney Erik Siebert had resisted bringing the case for lack of evidence and was forced out; Trump replaced him with Lindsey Halligan, a former personal defense lawyer and White House aide with no prosecutorial experience, who presented the case to the grand jury herself days before the statute of limitations expired. Career prosecutors in the office had written a memo concluding the evidence did not support charges.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/09/25/nx-s1-5552690/james-comey-indicted"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/former-fbi-director-james-comey-indicted-trump-doj/"
+      },
+      {
+        "name": "FactCheck.org",
+        "url": "https://www.factcheck.org/2025/09/evidence-behind-comey-indictment-is-unclear/"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-25",
+    "category": "Press, Speech & Democracy",
+    "title": "Trump designates 'antifa' a terrorist organization, targets left-leaning groups",
+    "summary": "Trump signed an order declaring the antifa movement a 'domestic terrorist organization' and issued NSPM-7, directing federal agencies to investigate and defund groups he links to left-wing political violence.",
+    "details": "On September 22, 2025, Trump signed an executive order designating antifa, a decentralized anti-fascist movement rather than a membership organization, as a 'domestic terrorist organization,' a label that does not exist in federal law. Three days later he issued National Security Presidential Memorandum 7, 'Countering Domestic Terrorism and Organized Political Violence,' which directs the FBI, IRS, and Treasury to dismantle and cut off funding for networks tied to what it calls anti-American ideologies, listing 'anti-capitalism,' 'anti-Christianity,' and 'extremism on migration, race, and gender' as warning signs. Civil liberties groups including the ACLU and the Brennan Center said the directive threatens nonprofits, donors, and protesters with terrorism investigations for ordinary political activity. The administration had separately ordered an investigation of ActBlue, the main Democratic small-dollar fundraising platform, in April 2025. In December, the State Department added foreign antifa-related groups to the foreign terrorist organization list, extending potential criminal exposure to U.S. groups accused of supporting them.",
+    "sources": [
+      {
+        "name": "Time",
+        "url": "https://time.com/7322106/trump-nspm-7-domestic-terrorism/"
+      },
+      {
+        "name": "ACLU",
+        "url": "https://www.aclu.org/news/national-security/how-nspm-7-seeks-to-use-domestic-terrorism-to-target-nonprofits-and-activists"
+      },
+      {
+        "name": "Brennan Center for Justice",
+        "url": "https://www.brennancenter.org/our-work/research-reports/trumps-orders-targeting-antifascism-aim-criminalize-opposition"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-22",
+    "category": "Government, Health & Science",
+    "title": "Trump and RFK Jr. link Tylenol to autism, against scientific consensus",
+    "summary": "At a White House event, Trump and Kennedy told pregnant women to limit Tylenol use, claiming a link to autism that the scientific evidence does not support.",
+    "details": "On September 22, 2025, Trump and RFK Jr. announced the FDA would update acetaminophen (Tylenol) labeling to discourage use during pregnancy, asserting a link to autism. Major medical bodies said the claim is not supported by evidence and warned that untreated fevers in pregnancy can cause miscarriage, birth defects, or premature birth. The administration also promoted leucovorin, a form of vitamin B normally used with cancer treatment, as an autism therapy. The announcement had measurable effects: a Lancet study found emergency-room Tylenol orders for pregnant patients dropped about 10%, while weekly leucovorin prescriptions for young children jumped more than 1,300%.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/sections/shots-health-news/2025/09/22/nx-s1-5550153/trump-rfk-autism-tylenol-leucovorin-pregnancy"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/09/22/health/trump-autism-announcement-cause-tylenol"
+      },
+      {
+        "name": "STAT News",
+        "url": "https://www.statnews.com/2025/09/22/trump-autism-action-plan-tylenol-link-leucovorin-treatment/"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-19",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "$100,000 H-1B visa fee and $1 million 'gold card' announced",
+    "summary": "Trump imposed a $100,000 fee on new H-1B skilled-worker visa petitions and created a 'gold card' selling U.S. residency for $1 million.",
+    "details": "A September 19, 2025 proclamation added a $100,000 one-time fee to new H-1B petitions, effective two days later — a roughly 50-fold increase in the cost of hiring a foreign engineer or doctor through the program, which admits 85,000 workers a year by lottery. The abrupt rollout caused chaos as companies urged visa-holding employees abroad to rush back before the deadline, and universities, hospitals, and startups warned they could not afford the fee, which critics said would push skilled workers to Canada and other countries. The same day, Trump unveiled the 'Trump Gold Card,' granting permanent residency and a citizenship path to foreigners who pay $1 million ($2 million when a company sponsors), replacing the investor visa that required job-creating investments. Business groups sued over the H-1B fee, arguing a president cannot impose what amounts to a tax without Congress. Together the moves marked a sharp turn in legal immigration policy: pricing work visas out of reach for most employers while selling residency to the wealthy.",
+    "sources": [
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2025/09/19/trump-h1b-visa-fee-immigration/"
+      },
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2025/09/20/trump-100000-annual-fee-h1b-visas-1-million-gold-card-us-citizenship-wealthy-investors/"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/09/19/g-s1-89680/trump-adds-100-000-fee-for-high-skilled-foreign-workers-in-major-visa-overhaul"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-17",
+    "category": "Press, Speech & Democracy",
+    "title": "ABC pulls Jimmy Kimmel off air after FCC chairman's threats",
+    "summary": "Disney suspended 'Jimmy Kimmel Live!' after FCC Chairman Brendan Carr threatened broadcasters' licenses over Kimmel's remarks about the Charlie Kirk assassination, then reinstated the show five days later amid a national backlash.",
+    "details": "After Kimmel's monologue about the political reaction to the killing of conservative activist Charlie Kirk, FCC Chairman Brendan Carr said on a podcast that regulators could deal with ABC 'the easy way or the hard way' and floated license revocations for its affiliate stations. Station groups Nexstar, which needed FCC approval for a $6.2 billion acquisition of Tegna, and Sinclair announced they would preempt the show, and Disney suspended it from September 17 to 22. Trump celebrated the suspension and suggested other networks critical of him should lose their licenses. The episode drew condemnation from constitutional scholars, entertainment unions, and even some Republican senators as government coercion of speech, along with boycotts of Disney. The show returned September 23 to its largest audience ever, and Nexstar and Sinclair resumed airing it days later.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/09/22/nx-s1-5550330/jimmy-kimmel-back-suspended-disney-trump"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/09/18/media/brendan-carr-jimmy-kimmel-fcc-first-amendment"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2025/9/23/why-is-jimmy-kimmel-returning-to-abc-what-did-his-suspension-cost-disney"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-04",
+    "category": "Immigration & Enforcement",
+    "title": "475 detained in raid on Hyundai plant, straining Korea alliance",
+    "summary": "The largest single-site immigration raid in DHS history swept up about 475 workers at a Hyundai-LG battery plant in Georgia — including over 300 South Koreans, most of them skilled workers sent to build the factory.",
+    "details": "On September 4, 2025, hundreds of agents raided the Hyundai Metaplant construction site in Ellabell, Georgia, a flagship project of the administration's own push for foreign manufacturing investment. Most detained Koreans were engineers and equipment installers on business-travel status; footage of them shackled at wrists, waists, and ankles caused an uproar in South Korea, a treaty ally that had just pledged hundreds of billions in U.S. investment. After negotiations between Washington and Seoul, more than 300 workers flew home on a chartered jet on September 12. A leaked document showed at least one detainee had a valid visa, contradicting initial DHS statements. Some Korean workers later returned to the site under clarified visa arrangements, and the episode pushed the two governments to negotiate new visa rules for Korean technicians.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/world/asia/korean-workers-detained-georgia-immigration-raid-returned-jobs-hyundai-rcna243873"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/09/08/us/wwk-south-korean-workers-detained-georgia"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/us-south-korean-workers-ice-raid-ties-strained-georgia-hyundai-plant/"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-03",
+    "category": "Crypto & Personal Profit",
+    "title": "Eric Trump's American Bitcoin hits Nasdaq at $5 billion valuation",
+    "summary": "American Bitcoin, a bitcoin-mining company co-founded by Eric Trump and Donald Trump Jr. in March 2025, went public on the Nasdaq in September at a valuation around $5 billion.",
+    "details": "American Bitcoin was formed on March 31, 2025, as a joint venture: mining company Hut 8 contributed its bitcoin-mining machines for 80% ownership, while Eric Trump (as co-founder and chief strategy officer) and Donald Trump Jr. held most of the remaining 20%. Rather than a traditional IPO, the company merged with already-listed Gryphon Digital Mining and began trading September 3, 2025, under the ticker ABTC, closing its debut with a valuation around $5 billion and making the brothers' stakes worth hundreds of millions of dollars on paper. On its first trading day the company announced plans to raise $2.1 billion more to buy additional bitcoin. Bitcoin mining companies profit by running energy-intensive computers that earn new bitcoins; the business benefits directly from the administration's pro-bitcoin policies, cheap-energy agenda and the Strategic Bitcoin Reserve, all set by the co-founders' father.",
+    "sources": [
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/crypto/2025/09/03/american-bitcoin-nasdaq-trading-eric-donald-trump-jr-hut-8/"
+      },
+      {
+        "name": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2025/05/12/trump-family-backed-american-bitcoin-to-go-public-via-merger-with-gryphon-digital"
+      },
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/crypto/2025/04/02/eric-trump-hut-8-american-bitcoin-donald-trump-jr/"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-02",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Military begins blowing up alleged drug boats; 100+ killed",
+    "summary": "The U.S. military destroyed at least 30 small boats near Venezuela it claimed carried drug traffickers, killing more than 100 people without arrests, trials, or published evidence.",
+    "details": "Starting September 2, 2025, the military conducted missile strikes on small vessels in the Caribbean and eastern Pacific that the administration said were smuggling drugs; by early January 2026 at least 30 boats had been hit and 107 people killed in the campaign, later named Operation Southern Spear. Legal scholars, UN human rights experts, and some Republican senators said the strikes amounted to extrajudicial killings, since drug smuggling suspects are normally interdicted and prosecuted, not bombed. The first strike drew particular scrutiny: after the initial missile left two survivors clinging to wreckage, a second 'double-tap' strike killed them, and news reports said Defense Secretary Pete Hegseth had given an order to 'kill everybody' — which he denied. Congress was shown surveillance video of the September 2 strike, and Senate war-powers resolutions to halt the campaign failed. The administration never released evidence identifying the boats' cargo or crews, and officials acknowledged some victims' identities were unknown. The boat campaign became the opening phase of the broader military pressure on Venezuela that ended in the January 2026 invasion.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/11/28/politics/us-military-second-strike-caribbean"
+      },
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/world/a-timeline-of-u-s-military-escalation-against-venezuela-leading-to-maduros-capture"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/boat-strike-sept-2-trump-administration-statements/"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-01",
+    "category": "Crypto & Personal Profit",
+    "title": "WLFI token starts trading, adding about $5 billion to family wealth",
+    "summary": "The Trump family's WLFI token began trading on crypto exchanges on September 1, 2025. The family's 22.5 billion tokens were suddenly worth about $5 billion on paper.",
+    "details": "For its first year, WLFI could be bought from World Liberty Financial but not resold. On September 1, 2025, holders voted to make the token tradable, and it debuted on major exchanges at prices 5 to 15 times what early buyers had paid, briefly implying a total value over $30 billion for all tokens. Even after the price slid from about $0.31 to the low $0.20s in the first days, the Trump family's 22.5 billion tokens were valued at roughly $5 billion — paper wealth created in a single day, though the family's tokens were locked and could not immediately be sold. Overnight, the token became one of the largest components of the family's net worth, exceeding the value of its decades of real-estate holdings. Small investors who bought at the opening price saw losses within hours as the price fell.",
+    "sources": [
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/trump-wlfi-world-liberty-financial-crypto-wealth/"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2025/09/01/trumps-world-liberty-token-first-day-of-trading.html"
+      },
+      {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/zacheverson/2025/09/02/trump-crypto-token-wlfi-world-liberty-financial/"
+      }
+    ]
+  },
+  {
+    "date": "2025-08-27",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "50% tariffs on India as punishment for buying Russian oil",
+    "summary": "The U.S. doubled tariffs on India to 50% — among the highest on any country — to penalize its purchases of Russian oil, straining ties with a key partner.",
+    "details": "On August 27, 2025, an additional 25% penalty tariff took effect on Indian goods, on top of an existing 25% rate, bringing the total to 50% — matching Brazil for the highest U.S. tariff at the time. The stated reason was India's continued purchases of discounted Russian crude, which the administration said helped finance Russia's war in Ukraine. India called the move unfair, noting that China bought even more Russian oil but faced no equivalent penalty, and the tariffs hit labor-intensive Indian exports like textiles, gems, and shrimp. The episode chilled a relationship Washington had spent two decades building as a counterweight to China. By January 2026, Treasury Secretary Scott Bessent said India had 'geared down' its Russian oil purchases, and the two sides worked toward a trade deal to unwind the penalties.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/world/india/trumps-tariffs-india-rise-50-punishment-buying-russian-oil-rcna227426"
+      },
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/economy/trumps-50-tariffs-on-india-over-russian-oil-purchases-take-effect"
+      }
+    ]
+  },
+  {
+    "date": "2025-08-25",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Trump tries to fire Fed Governor Lisa Cook; Supreme Court blocks it",
+    "summary": "Trump attempted the first-ever firing of a Federal Reserve governor, citing unproven mortgage-fraud allegations; in June 2026 the Supreme Court ruled 5-4 that Cook stays while her case proceeds.",
+    "details": "On August 25, 2025, Trump posted a letter firing Fed Governor Lisa Cook, ten days after his housing-agency appointee Bill Pulte accused her of listing two homes as primary residences on 2021 mortgage applications. Cook, the first Black woman on the Fed board, denied wrongdoing, was never charged, and bank documents obtained by reporters appeared to contradict the fraud claim; she sued, arguing the Federal Reserve Act only allows removal 'for cause.' A federal judge blocked the firing in September, and the case reached the Supreme Court. Removing Cook would have let Trump appoint a majority of the Fed's seven-member board, giving the White House unprecedented sway over interest rates. On June 29, 2026, the Supreme Court ruled 5-4 that Cook could keep her seat while the litigation continues — but in the same decision it allowed presidents to fire members of other independent agencies like the FTC, carving out the Fed as a special exception. The ruling reshaped a 90-year-old precedent limiting presidential control over independent agencies.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rules-trump-cannot-fire-fed-member-lisa-cook-grants-powe-rcna234931"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/29/supreme-court-lisa-cook-trump-federal-reserve.html"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/06/29/nx-s1-5557955/supreme-court-fed-lisa-cook"
+      }
+    ]
+  },
+  {
+    "date": "2025-08-20",
+    "category": "Press, Speech & Democracy",
+    "title": "Trump pushes mid-decade gerrymandering; California voters counter with Prop 50",
+    "summary": "At Trump's urging, Texas redrew its congressional map mid-decade to flip five Democratic seats, triggering a national redistricting arms race that California answered with Proposition 50.",
+    "details": "States normally redraw congressional maps once a decade after the census, but Trump pressed Republican states to redraw early to protect the GOP's narrow House majority before the 2026 midterms. In August 2025, the Texas Legislature passed a new map designed to flip five Democratic-held seats; Missouri followed with a map targeting one seat, though organizers gathered over 300,000 signatures to force a referendum on it. Indiana's Republican-controlled state Senate refused, voting down a new map 31-19 in December. California Democrats responded with Proposition 50, the 'Election Rigging Response Act,' which voters approved 64.4% to 35.6% on November 4, 2025, temporarily replacing the state's independent-commission map with one expected to give Democrats five more winnable seats. It was the first nationwide mid-decade redistricting war in modern American history.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/11/06/nx-s1-5599558/states-redistricting-house-2026-midterm-elections"
+      },
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/politics/whats-next-in-the-national-redistricting-fight-after-california-approved-a-new-u-s-house-map"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2025_California_Proposition_50"
+      }
+    ]
+  },
+  {
+    "date": "2025-08-11",
+    "category": "Immigration & Enforcement",
+    "title": "Federal takeover of D.C. police; troops sent to more cities",
+    "summary": "Trump federalized Washington D.C.'s police and deployed National Guard troops there, then tried to extend deployments to Memphis, Portland, and Chicago — where courts blocked him.",
+    "details": "On August 11, 2025, Trump invoked the D.C. Home Rule Act's emergency section for the first time in history to take over the Metropolitan Police Department, and deployed about 800 D.C. Guard members, later joined by troops from Republican-led states — even though violent crime in D.C. was at a 30-year low. Guard deployments followed to Memphis in the fall, while federal judges blocked deployments to Portland and Chicago. On December 23, 2025, the Supreme Court left the Chicago block in place, saying the administration 'failed to identify a source of authority' for using the military to execute laws in Illinois — its first major check on the deployments. In November 2025, a gunman shot two Guard members near the White House, killing one. By January 2026 troops had been withdrawn from Chicago, Portland, and Los Angeles, but the D.C. deployment was extended through the end of 2026.",
+    "sources": [
+      {
+        "name": "The Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2025/08/11/trump-national-guard-dc-crime-crackdown/"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rejects-trump-bid-deploy-national-guard-illinois-rcna238630"
+      },
+      {
+        "name": "Capital B News",
+        "url": "https://capitalbnews.org/trump-national-guard-city-updates/"
+      }
+    ]
+  },
+  {
+    "date": "2025-08-05",
+    "category": "Government, Health & Science",
+    "title": "HHS cancels roughly $500 million in mRNA vaccine research",
+    "summary": "Kennedy's HHS canceled 22 federally funded mRNA vaccine development contracts worth nearly $500 million, the technology behind the COVID-19 vaccines.",
+    "details": "In early August 2025, HHS announced it was winding down mRNA vaccine development funded through the Biomedical Advanced Research and Development Authority (BARDA), canceling or scaling back 22 projects worth nearly $500 million. RFK Jr. claimed the vaccines 'fail to protect effectively' against respiratory infections like COVID and flu, a characterization scientists disputed given mRNA vaccines are credited with saving millions of lives. Affected contracts included work with Emory University, Tiba Biotech, and others. HHS said future funding would favor 'whole-virus' and other platforms. Researchers warned the move would cripple U.S. preparedness for future pandemics, since mRNA technology can be adapted rapidly to new threats.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/08/05/health/hhs-slashes-funding-for-mrna-vaccine-development"
+      },
+      {
+        "name": "HHS.gov",
+        "url": "https://www.hhs.gov/press-room/hhs-winds-down-mrna-development-under-barda.html"
+      },
+      {
+        "name": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/news/kennedy-mrna-vaccines-barda-hhs-cancel-contracts/756953/"
+      }
+    ]
+  },
+  {
+    "date": "2025-08-01",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Labor statistics chief fired hours after weak jobs report",
+    "summary": "Trump fired the Bureau of Labor Statistics commissioner the same day the agency reported weak job growth, claiming without evidence that the numbers were 'rigged.'",
+    "details": "On August 1, 2025, the BLS reported the economy added just 73,000 jobs in July and revised May and June totals down by a combined 258,000. Within hours, Trump fired Commissioner Erika McEntarfer, posting that the numbers were 'rigged in order to make the Republicans, and ME, look bad,' offering no evidence. McEntarfer, a career economist, had been confirmed 86-8 in 2024 with bipartisan support, including a yes vote from then-Senator JD Vance. Statisticians, former BLS chiefs of both parties, and business economists warned the firing threatened trust in official U.S. economic data, which investors, businesses, and the Fed rely on. Trump then nominated E.J. Antoni of the Heritage Foundation, who had suggested suspending the monthly jobs report; the White House withdrew his nomination weeks later after bipartisan doubts about his qualifications. Job revisions are a routine statistical process, not evidence of manipulation.",
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2025/08/01/trump-erika-mcentarfer-jobs-report-fired.html"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/08/11/nx-s1-5499537/trump-bls-ej-antoni"
+      },
+      {
+        "name": "Economic Policy Institute",
+        "url": "https://www.epi.org/policywatch/firing-bls-commissioner-erika-mcentarfer/"
+      }
+    ]
+  },
+  {
+    "date": "2025-08",
+    "category": "Pardons & Rule of Law",
+    "title": "FBI under Kash Patel purges agents, expands polygraph use",
+    "summary": "FBI Director Kash Patel fired waves of agents and executives — including some who worked Trump-related investigations — and used polygraphs to hunt for staff who criticized him or spoke to reporters.",
+    "details": "Through 2025 the bureau forced out senior executives and field-office heads, and in August 2025 fired additional agents including former acting director Brian Driscoll; several fired officials sued, saying they were purged for their roles in January 6 and Trump-related investigations. The administration justified the firings under Article II presidential power, a novel legal theory now being challenged in court. Patel ordered polygraph exams for more than two dozen members of his own security detail and staff to find out who had talked to reporters, and senior employees were reportedly asked in polygraphs whether they had said anything negative about Patel. ProPublica reported Patel waived the standard polygraph screening for Deputy Director Dan Bongino and two other senior hires.",
+    "sources": [
+      {
+        "name": "MS NOW",
+        "url": "https://www.ms.now/news/kash-patel-ordered-polygraphs-of-more-than-two-dozen-members-of-his-team-sources-tell-ms-now"
+      },
+      {
+        "name": "ProPublica",
+        "url": "https://www.propublica.org/article/fbi-kash-patel-dan-bongino-waived-polygraph"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/fbi-agents-on-jan-6-capitol-riot-trump-investigations-to-be-fired-sources-say/"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-24",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Pressure campaign on Fed's Powell; Warsh installed as chair in 2026",
+    "summary": "Trump spent 2025 attacking Fed Chair Jerome Powell and floating his firing over a building renovation, then replaced him with Kevin Warsh, confirmed in May 2026 by the closest vote for a Fed chair in history.",
+    "details": "Throughout 2025 Trump demanded steep interest-rate cuts and attacked Powell with nicknames like 'Too Late,' repeatedly suggesting he could fire him — something no president has done to a Fed chair, since the law only allows removal 'for cause.' In July the administration seized on cost overruns in the Fed's headquarters renovation — a project that grew from $1.9 billion to $2.5 billion — with Trump calling it 'sort of a fireable offense.' On July 24 he toured the construction site and claimed on camera the cost was $3.1 billion; Powell shook his head and pointed out Trump was counting a building finished five years earlier, and Trump backed off the firing threats. Economists warned that political control of the central bank historically leads to higher inflation, which is why Fed independence is protected. In January 2026 Trump nominated Kevin Warsh, a critic of the Fed who has called for 'regime change' at the institution, to succeed Powell; the Senate confirmed him 54-45 on May 13, 2026 — the most divided confirmation vote for a Fed chair ever — and he took office when Powell's term as chair expired. Powell remained on the Fed's board as a governor.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/07/24/politics/trump-powell-federal-reserve-visit-renovation"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/05/13/nx-s1-5816235/kevin-warsh-federal-reserve-chair-jerome-powell"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-21",
+    "category": "Promises vs. Reality",
+    "title": "JFK, RFK and MLK files: a promise mostly kept",
+    "summary": "Trump promised to declassify the government's remaining files on the assassinations of John F. Kennedy, Robert F. Kennedy and Martin Luther King Jr., signing Executive Order 14176 on January 23, 2025.",
+    "details": "This one largely happened. Roughly 80,000 pages of JFK records were released beginning March 18, 2025; about 10,000 pages of RFK records followed in April 2025, with roughly 50,000 more pages discovered in FBI and CIA warehouses and released through June; and 243,496 pages of MLK records were posted July 21, 2025, over the King family's objections. The catch: historians found no revelations overturning the official conclusions in any of the cases, and the JFK release was so hastily processed that it exposed Social Security numbers and personal data of hundreds of living former officials. The episode stands in contrast to the Epstein files, where the same administration fought disclosure for over a year.",
+    "sources": [
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2025/01/23/trump-jfk-rfk-mlk-classified-documents-executive-order/"
+      },
+      {
+        "name": "National Archives",
+        "url": "https://www.archives.gov/research/mlk"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Executive_Order_14176"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-18",
+    "category": "Crypto & Personal Profit",
+    "title": "Trump signs GENIUS Act, regulating the stablecoin business his family runs",
+    "summary": "Trump signed the first federal law regulating stablecoins — the same kind of digital dollar his family's World Liberty Financial issues — giving legal legitimacy to a market his family profits from.",
+    "details": "The GENIUS Act, signed July 18, 2025, created the first federal rulebook for stablecoins: issuers must back every token 1-to-1 with cash or short-term Treasuries and publish monthly reserve reports. The law was expected to dramatically expand the stablecoin market by making the tokens safe for mainstream use. Trump's family had launched its own stablecoin, USD1, four months earlier; it grew into one of the world's largest, eventually reaching a market value near $5 billion, with the issuer (World Liberty Financial, in which the family held a roughly 38% economic interest and a 75% cut of token-sale proceeds) earning interest on the reserves. An amendment barring presidents and their families from owning stablecoin businesses was rejected during Senate debate; the ban that passed covers only members of Congress and senior executive-branch officials, not the president. The White House said there was no conflict of interest because Trump's assets are in a trust managed by his children.",
+    "sources": [
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/trump-signs-genius-act-crypto-bill/"
+      },
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2025/07/18/trump-signs-stablecoin-bill-into-law-genius"
+      },
+      {
+        "name": "White House fact sheet",
+        "url": "https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-signs-genius-act-into-law/"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-09",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "50% tariff on Brazil over Bolsonaro prosecution",
+    "summary": "Trump imposed a 50% tariff on Brazilian goods, explicitly citing the criminal trial of his ally, former president Jair Bolsonaro — using trade policy to pressure another country's courts.",
+    "details": "In a July 9, 2025 letter to President Lula da Silva, Trump announced a 50% tariff on Brazilian imports effective August 1, citing what he called a 'witch hunt' against former president Jair Bolsonaro, who was on trial for attempting a coup after losing the 2022 election, along with Brazilian court rulings against U.S. social media companies. It was unusual on two counts: the U.S. runs a trade surplus with Brazil, and the stated reason was another democracy's judicial process rather than trade. Bolsonaro was convicted in September 2025 and sentenced to 27 years in prison. As coffee and beef prices climbed in U.S. stores, the administration exempted many Brazilian food products in November 2025. After the Supreme Court voided IEEPA tariffs in February 2026, the administration rebuilt a 40% Brazil tariff on other legal grounds tied to the Bolsonaro prosecution, and in June 2026 threatened an additional 25% over Brazilian trade practices as the two governments negotiated.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/business/economy/trump-hits-brazil-50-percent-tariff-citing-ex-president-jair-bolsonaro-rcna217859"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/6/2/us-targets-brazil-with-new-tariffs-over-trade-practices"
+      },
+      {
+        "name": "Troutman Pepper Locke",
+        "url": "https://www.troutman.com/insights/us-expands-exemptions-on-reciprocal-tariffs-and-brazil-tariffs-and-announces-framework-trade-deals-with-additional-trading-partners/"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-07",
+    "category": "Press, Speech & Democracy",
+    "title": "DOJ reverses on Epstein files: 'no client list,' igniting MAGA revolt",
+    "summary": "After months of promising to release the Epstein files, the Justice Department issued a memo saying no 'client list' exists and no further disclosures were coming, enraging much of Trump's own base.",
+    "details": "Trump campaigned on releasing the government's Jeffrey Epstein investigative files. In February 2025, Attorney General Pam Bondi told Fox News the Epstein client list was 'sitting on my desk right now to review,' and the White House handed right-wing influencers binders labeled 'Epstein Files: Phase 1' that turned out to contain mostly already-public material. Then in July, an unsigned DOJ-FBI memo concluded there was no client list, no credible evidence Epstein blackmailed prominent people, and that his 2019 jail death was suicide, and said no more files would be released. The reversal set off an open revolt among prominent Trump supporters, with calls for Bondi's resignation and reported clashes inside the FBI leadership. Trump dismissed the controversy as a hoax and publicly criticized his own supporters for continuing to demand the files.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Epstein_files"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/01/30/nx-s1-5693904/epstein-files-doj-trump"
+      },
+      {
+        "name": "Britannica",
+        "url": "https://www.britannica.com/topic/What-Is-the-Epstein-Files-Transparency-Act"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-07",
+    "category": "Promises vs. Reality",
+    "title": "Epstein files: promised release, then 'hoax' — millions of pages withheld",
+    "summary": "Asked in a June 2, 2024 Fox interview whether he would declassify the Epstein files, Trump said 'Yeah, yeah, I would,' and in February 2025 Attorney General Pam Bondi said the Epstein 'client list' was 'sitting on my desk right now to review.'",
+    "details": "On February 27, 2025, Bondi handed pro-Trump influencers binders labeled 'The Epstein Files: Phase 1' that contained almost entirely already-public material. Then on July 7, 2025, an unsigned DOJ/FBI memo declared there was no 'client list' and no basis for further releases, and Trump called the affair a Democrat-perpetrated 'hoax,' attacking his own base as 'stupid,' 'foolish' and 'PAST supporters.' Congress overrode him: the House passed the Epstein Files Transparency Act 427-1 on November 18, 2025, the Senate approved it unanimously, and Trump — reversing after resisting for months — signed it November 19, 2025. The DOJ missed the law's December 19, 2025 deadline for full release, instead putting out five heavily redacted waves through January 30, 2026, totaling about 3.5 million pages while acknowledging more than 6 million documents exist; NPR reported in February 2026 that officials had removed or withheld files containing accusations related to Trump himself. Trump fired Bondi on April 2, 2026, reportedly over her handling of the files, installing Todd Blanche as acting attorney general. In late June 2026, U.S. District Judge Emmet Sullivan ruled the administration had likely violated the law and ordered the DOJ to unredact co-conspirator names, release underlying FBI interview notes — including material about unverified allegations against Trump — or justify the withholding by July 2, 2026. As of the end of June 2026, roughly half the government's Epstein records remained unreleased.",
+    "sources": [
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/politics/a-timeline-of-the-jeffrey-epstein-investigation-and-the-fight-to-make-the-governments-files-public"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/02/24/nx-s1-5723968/epstein-files-trump-accusation-maxwell"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/judge-orders-doj-unredact-more-epstein-files-or-explain-why-blanche/"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-04",
+    "category": "Immigration & Enforcement",
+    "title": "$170 billion enforcement windfall makes ICE largest federal police force",
+    "summary": "The One Big Beautiful Bill Act gave immigration enforcement about $170 billion, funding a rushed doubling of ICE's force. Masked arrests went viral and over 170 U.S. citizens were detained.",
+    "details": "Signed July 4, 2025, the law provided roughly $45 billion for new detention facilities, $30 billion for ICE operations and hiring, and $47 billion for border barriers — making ICE the best-funded law enforcement agency in the federal government, with a goal of 10,000 new deportation officers. ICE grew from about 10,000 to more than 22,000 officers in months; a whistleblower and Senate investigators said new recruits received about half the normal training hours. Agents increasingly operated masked, in plainclothes and unmarked cars, and videos of violent street arrests spread widely; several states passed laws attempting to ban masked immigration arrests. ProPublica documented more than 170 U.S. citizens held by immigration agents — some kicked, dragged, or detained for days without phone calls — and a December 2025 Senate minority report titled 'Unchecked Authority' catalogued abuses of citizens. DHS maintains its officers face record assaults and that arrests target 'the worst of the worst.'",
+    "sources": [
+      {
+        "name": "American Immigration Council",
+        "url": "https://www.americanimmigrationcouncil.org/fact-sheet/big-beautiful-bill-immigration-border-security/"
+      },
+      {
+        "name": "ProPublica",
+        "url": "https://www.propublica.org/article/immigration-dhs-american-citizens-arrested-detained-against-will"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/ice-whistleblower-new-recruits-receiving-defective-training/"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-04",
+    "category": "Government, Health & Science",
+    "title": "Weather-service cuts scrutinized after deadly Texas floods; FEMA overhaul pushed",
+    "summary": "NOAA and National Weather Service staffing cuts drew federal investigation after July 2025 Texas floods killed over 130 people, as the administration pushed to shrink or eliminate FEMA.",
+    "details": "The administration cut about 600 National Weather Service jobs in early 2025, roughly a 17% reduction, and by May over 40% of forecast offices had vacancy rates above 20%. When catastrophic flooding hit the Texas Hill Country over July 4, 2025, killing at least 135 people, the Austin/San Antonio office was operating without a permanent warning coordination meteorologist. The Commerce Department's inspector general opened an investigation into NOAA/NWS staffing. Forecasters did issue timely flash-flood warnings, but experts questioned whether vacancies hampered coordination with local officials. Separately, Trump repeatedly said he wanted to 'wean off' FEMA and shift disaster response to states; a FEMA Review Council recommended halving the agency's staff (cutting 12,000-plus positions) and reducing the number of federally declared disasters.",
+    "sources": [
+      {
+        "name": "FactCheck.org",
+        "url": "https://www.factcheck.org/2025/07/staffing-cuts-at-nws-and-the-tragic-flooding-in-texas/"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/06/26/nx-s1-5430469/faq-fema-elimination"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/05/07/nx-s1-5803121/trump-fema-reform-wildfire-flood-hurricane"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-04",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "'One Big Beautiful Bill' signed: tax cuts, Medicaid and SNAP cuts",
+    "summary": "Trump signed a budget law combining roughly $4.5 trillion in tax cuts with the largest Medicaid and food-stamp cuts in history; CBO projected 11.8 million people would lose health coverage.",
+    "details": "The One Big Beautiful Bill Act, signed July 4, 2025, made the 2017 tax cuts permanent and added temporary breaks like no federal income tax on tips and overtime, totaling about $4.5 trillion in net tax cuts over ten years. To partially offset that, it cut an estimated $863 billion from Medicaid (largely through new work requirements and eligibility checks) and $295 billion from SNAP food assistance through 2034, while adding roughly $150 billion each for defense and immigration enforcement. The Congressional Budget Office estimated the health provisions would leave 11.8 million more people uninsured by 2034 and that the law would add trillions of dollars to deficits over the decade, even before extra interest costs. Analyses found the benefits skewed upward: about $1 trillion of the tax cuts flow to the top 1% of earners, while the lowest-income households lose more from benefit cuts than they gain from tax changes. The law also raised the debt ceiling by $5 trillion. Most Medicaid and SNAP changes phase in during 2026 and 2027.",
+    "sources": [
+      {
+        "name": "American Medical Association",
+        "url": "https://www.ama-assn.org/health-care-advocacy/federal-advocacy/changes-medicaid-aca-and-other-key-provisions-one-big"
+      },
+      {
+        "name": "Center for American Progress",
+        "url": "https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-04",
+    "category": "Promises vs. Reality",
+    "title": "'We're not going to touch Medicaid' — then cut nearly $1 trillion",
+    "summary": "Trump repeatedly promised Medicaid was safe, saying of his bill: 'We're not touching anything. All I want is one thing — three words — we don't want any waste, fraud or abuse.'",
+    "details": "On July 4, 2025, Trump signed the One Big Beautiful Bill Act, which made the largest Medicaid cuts in the program's 60-year history — slashing projected federal Medicaid spending by roughly $900 billion to $1 trillion over a decade, about a 12% cut, largely through new work requirements and eligibility restrictions. The Congressional Budget Office estimated at passage that the law's health provisions would leave roughly 10-12 million more people without coverage by 2034. One year after signing, NBC News reported the law's Medicaid and SNAP cuts were falling hardest on low-income households while its tax cuts flowed disproportionately to high earners. The White House's own website still hosts video of Trump promising 'we're not touching anything' on Medicaid.",
+    "sources": [
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/nation/60-years-after-medicaid-was-signed-into-law-trumps-one-big-beautiful-bill-is-chiseling-it-back"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/trump-big-beautiful-bill-act-tax-medicaid-snap-one-year-rcna351211"
+      },
+      {
+        "name": "White House",
+        "url": "https://www.whitehouse.gov/videos/trump-on-the-one-big-beautiful-bill-medicaid-were-not-touching-anything/"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-02",
+    "category": "Press, Speech & Democracy",
+    "title": "Paramount pays Trump $16 million; FCC then approves Skydance's CBS takeover",
+    "summary": "Paramount paid $16 million to settle Trump's lawsuit over a '60 Minutes' interview edit, and weeks later the FCC approved the $8 billion Skydance merger Paramount needed.",
+    "details": "Trump had sued CBS's parent company for up to $20 billion, claiming '60 Minutes' deceptively edited a Kamala Harris interview before the 2024 election; First Amendment lawyers widely called the suit meritless. Paramount, whose controlling shareholder Shari Redstone needed government approval to sell the company to Skydance, agreed to pay $16 million toward Trump's presidential library and legal fees, with no apology. On July 24, Brendan Carr's FCC approved the $8 billion merger after Skydance promised to end DEI programs and install an ombudsman to review complaints of ideological bias at CBS News. Senators including Elizabeth Warren said the sequence looked like paying the president for merger approval. '60 Minutes' leader Bill Owens and CBS News CEO Wendy McMahon had already resigned over the settlement pressure, and in October the new owners bought Bari Weiss's The Free Press for a reported $150 million and made her editor-in-chief of CBS News despite her having no broadcast experience.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/07/02/nx-s1-5290171/trump-lawsuit-paramount-cbs-60-minutes-kamala-harris"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/07/24/nx-s1-5477530/paramount-cbs-skydance-sale-fcc-approves"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/10/06/nx-s1-5561116/bari-weiss-cbs-skydance-free-press"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-01",
+    "category": "Immigration & Enforcement",
+    "title": "'Alligator Alcatraz' opens in Everglades as detention deaths hit record",
+    "summary": "Florida built a tent detention camp for up to 3,000 people on an Everglades airstrip in eight days. It closed within a year, while deaths across ICE detention reached a two-decade high.",
+    "details": "The state-run camp, which officials nicknamed 'Alligator Alcatraz,' opened July 1, 2025 with Trump touring on day one; detainees reported extreme heat, flooding, maggots in food, and blocked access to lawyers, and a federal court later ordered ICE to provide attorney access. A district judge ordered the site wound down over environmental law violations, but the 11th Circuit reversed in April 2026, ruling the state-run facility didn't need a federal environmental review. The camp was nonetheless emptied by June 18, 2026, and Governor DeSantis declared it closed on June 26, citing hurricane season and saying it had 'fulfilled' its role. Systemwide, ICE detention grew past 60,000 people — many in new tent camps and reopened prisons — and 2025 saw the most deaths in custody in more than two decades (roughly 31 to 33, by varying counts). At least 20 more people died in ICE custody in the first half of 2026, putting the administration's 500-day death toll at 52.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/judge-rules-alligator-alcatraz-florida-no-new-detainees-rcna224550"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/06/18/nx-s1-5862592/detainees-alligator-alcatraz-transferred"
+      },
+      {
+        "name": "KFF",
+        "url": "https://www.kff.org/racial-equity-and-health-policy/deaths-and-health-care-issues-in-ice-detention-centers-under-the-second-trump-administration/"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-01",
+    "category": "Government, Health & Science",
+    "title": "USAID dismantled; study projects millions of preventable deaths",
+    "summary": "USAID formally shut down and folded into the State Department after about 83% of its programs were cut; a Lancet study projected the cuts could cause 14 million additional deaths by 2030.",
+    "details": "The U.S. Agency for International Development was gutted in the first months of Trump's term, with Secretary of State Marco Rubio announcing in March 2025 that 83% of USAID programs (about 5,200 contracts) had been canceled. On July 1, 2025, USAID officially ceased to exist as an independent agency and its remaining functions were absorbed by the State Department. A peer-reviewed study in The Lancet estimated that USAID programs had prevented roughly 91 million deaths over 2001-2021 and projected that the funding cuts, if sustained, could cause more than 14 million additional deaths by 2030, including about 4.5 million children under five. The cuts hit HIV/AIDS, malaria, tuberculosis, and food-aid programs; PEPFAR-linked HIV funding was among the affected work. A February 2026 update to the Lancet analysis, accounting for partial program restorations, still projected 9.4 million excess deaths by 2030.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/07/01/nx-s1-5451372/usaid-officially-shuts-down-and-merges-remaining-operations-with-state-department"
+      },
+      {
+        "name": "The Lancet",
+        "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01186-9/fulltext"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/world/2025/07/01/usaid-cuts-aid-14-million-deaths/"
+      }
+    ]
+  },
+  {
+    "date": "2025-06-25",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "NATO allies agree to 5% defense spending target",
+    "summary": "At the Hague summit, NATO members pledged to raise defense-related spending to 5% of GDP by 2035, a goal Trump had demanded.",
+    "details": "At the June 24-25, 2025 NATO summit in The Hague, all 32 member countries except Spain (which negotiated an exemption) committed to spending 5% of GDP annually on defense by 2035 — 3.5% on core military needs plus 1.5% on infrastructure, cybersecurity, and resilience — with a progress review in 2029. The old target had been 2%, and the deal was widely seen as a win for Trump, who had long threatened not to defend allies that 'don't pay.' Secretary General Mark Rutte called it a 'transformational leap'; during the summit he also referred to Trump as 'daddy' while discussing the Iran-Israel ceasefire, a remark that drew wide attention. Trump called the agreement a 'historic achievement,' and the summit's final declaration was kept short partly to avoid friction with him. Whether members actually reach 5% depends on national budgets over the next decade.",
+    "sources": [
+      {
+        "name": "NATO",
+        "url": "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2025/06/25/the-hague-summit-declaration"
+      },
+      {
+        "name": "Atlantic Council",
+        "url": "https://www.atlanticcouncil.org/blogs/new-atlanticist/experts-react/nato-allies-agreed-to-a-5-percent-defense-spending-target-in-a-low-drama-summit-now-what/"
+      }
+    ]
+  },
+  {
+    "date": "2025-06-23",
+    "category": "Immigration & Enforcement",
+    "title": "Supreme Court clears deportations to countries migrants have never seen",
+    "summary": "A shadow-docket order let the administration deport people to 'third countries' like South Sudan and Eswatini with little notice, pausing a judge's requirement that they first get a chance to claim fear of torture.",
+    "details": "In DHS v. D.V.D., the Supreme Court on June 23, 2025 stayed a Boston judge's injunction that had required meaningful notice and a chance to object before someone could be sent to a country not named in their removal order. Days later, eight men were flown to South Sudan, a country the State Department deems too dangerous for most U.S. personnel; other groups were sent to Eswatini, Ghana, Cameroon, Equatorial Guinea, and Rwanda, sometimes shackled for days in transit. Several receiving governments were paid or offered deals to take deportees who were not their citizens. The district court later found the third-country removal policy unlawful and vacated it, but in March 2026 the First Circuit paused that ruling while it hears the appeal, allowing the practice to continue in the meantime.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/06/23/g-s1-71529/supreme-court-south-sudan-deportation"
+      },
+      {
+        "name": "Council on Foreign Relations",
+        "url": "https://www.cfr.org/articles/what-are-third-country-deportations-and-why-trump-using-them"
+      },
+      {
+        "name": "Human Rights First",
+        "url": "https://www.humanrightsfirst.org/library/court-finds-trump-administrations-third-country-removal-policy-is-unlawful-vacates-the-policy"
+      }
+    ]
+  },
+  {
+    "date": "2025-06-22",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "U.S. bombs Iran nuclear sites in 'Operation Midnight Hammer'",
+    "summary": "U.S. B-2 bombers struck Iran's Fordow, Natanz, and Isfahan nuclear facilities during the 12-day Israel-Iran war; a ceasefire followed two days later.",
+    "details": "Israel launched surprise attacks on Iran on June 13, 2025, starting what became known as the Twelve-Day War. On June 21-22, the U.S. joined directly: seven B-2 stealth bombers dropped fourteen 30,000-pound GBU-57 'bunker buster' bombs on the Fordow and Natanz enrichment sites while a submarine fired about 30 Tomahawk missiles at Natanz and Isfahan, in a mission involving more than 125 aircraft. Iran retaliated with a telegraphed missile strike on the U.S. Al Udeid air base in Qatar that caused no casualties, and Trump announced a ceasefire that took effect June 24. Trump said the nuclear sites were 'completely and totally obliterated,' but a leaked preliminary Defense Intelligence Agency assessment — issued with low confidence — suggested the program may have been set back only by months, while the Pentagon later said one to two years. It was the first time the U.S. directly bombed Iranian territory in the two countries' modern confrontation, and it happened while U.S.-Iran nuclear talks were still nominally scheduled.",
+    "sources": [
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/pentagon-briefing-us-strikes-iran-nuclear-sites/"
+      },
+      {
+        "name": "CSIS",
+        "url": "https://www.csis.org/analysis/what-operation-midnight-hammer-means-future-irans-nuclear-ambitions/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2025_United_States_strikes_on_Iranian_nuclear_sites"
+      }
+    ]
+  },
+  {
+    "date": "2025-06-22",
+    "category": "Promises vs. Reality",
+    "title": "'No new wars' — then bombed Iran's nuclear sites",
+    "summary": "Trump campaigned as the anti-war candidate, vowing to be a 'peacemaker,' to 'stop wars' and not start them, and pledging no new foreign military entanglements.",
+    "details": "Five months into the term, on June 22, 2025, U.S. B-2 bombers dropped fourteen 30,000-pound GBU-57 bunker-buster bombs on Iran's Fordow, Natanz and Isfahan nuclear facilities in Operation Midnight Hammer — the first direct U.S. military attack on Iran — joining Israel's 'Twelve-Day War.' The administration insisted the strike was 'intentionally limited' and not about regime change. Three months later, in September 2025, the military began an open-ended campaign of strikes on alleged drug-trafficking boats in the Caribbean and Eastern Pacific; by early January 2026 it had struck at least 32 vessels and killed roughly 115 people, without congressional authorization. In February 2026 the U.S. joined a second, ten-week war against Iran whose opening strike killed Supreme Leader Ali Khamenei. All of it was carried out under a president who had promised voters he would end wars, not launch military campaigns.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2025_United_States_strikes_on_Iranian_nuclear_sites"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/06/22/politics/trump-iran-strike-decision-inside"
+      },
+      {
+        "name": "CSIS",
+        "url": "https://www.csis.org/analysis/what-operation-midnight-hammer-means-future-irans-nuclear-ambitions"
+      }
+    ]
+  },
+  {
+    "date": "2025-06-16",
+    "category": "Crypto & Personal Profit",
+    "title": "Trump Mobile launches; branded merchandise sales continue in office",
+    "summary": "The Trump Organization launched Trump Mobile, a phone service with a $47.45-a-month plan and a $499 gold 'T1' phone, adding to a line of Trump-branded products — watches, sneakers, Bibles, fragrances, guitars — sold while he is president.",
+    "details": "On June 16, 2025, Eric and Donald Trump Jr. announced Trump Mobile, a wireless service licensed under the family brand: 'The 47 Plan' costs $47.45 a month (a reference to Trump being the 45th and 47th president), and a gold-colored T1 smartphone was advertised at $499 as 'made in the USA,' a claim industry analysts said was implausible. Two weeks later a 'Victory 45-47' fragrance line launched at up to $249 a bottle, promoted from the president's own social media account. These joined an existing catalog of licensed products — watches priced up to $100,000, sneakers, the Lee Greenwood 'God Bless the USA' Bible, and a '45' guitar — that pay royalties to Trump through licensing companies. His annual financial disclosures show these deals generate millions of dollars a year in personal income. No previous modern president has sold branded consumer products while in office; the arrangement means anyone, including foreign buyers or people seeking favor, can put money directly into the president's pocket by shopping.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/06/21/nx-s1-5440330/trump-mobile-the-latest-venture-from-the-president-launches"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/amp/2025/06/16/trump-mobile-phone-plan.html"
+      },
+      {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/30/trumps-financial-disclosure-major-crypto-moves-made-him-over-1-billion-in-2025/"
+      }
+    ]
+  },
+  {
+    "date": "2025-06-14",
+    "category": "Press, Speech & Democracy",
+    "title": "Military parade on Trump's birthday met by nationwide 'No Kings' protests",
+    "summary": "Trump held Washington's largest military parade in decades on his 79th birthday, while 'No Kings' rallies against his administration drew crowds at roughly 2,000 locations nationwide.",
+    "details": "The parade marked the Army's 250th anniversary and fell on Trump's 79th birthday, featuring about 6,700 marching soldiers, 84 military vehicles including 28 Abrams tanks, and dozens of aircraft rolling through Washington, D.C. The Army estimated the cost at tens of millions of dollars. Critics said staging tanks in the capital on the president's birthday echoed authoritarian displays; supporters called it a fitting tribute to the Army. The same day, labor unions and civic groups organized 'No Kings' counter-rallies in about 2,000 cities and towns, with organizers estimating turnout in the millions, protesting what they described as executive overreach. It was the first of two mass 'No Kings' mobilizations in 2025.",
+    "sources": [
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/trump-military-parade-army-anniversary-festival-washington-dc/"
+      },
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2025/06/14/trump-military-parade-army-protests-no-kings"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/trump-administration/blog/trump-military-parade-protests-live-updates-rcna212332"
+      }
+    ]
+  },
+  {
+    "date": "2025-06-09",
+    "category": "Government, Health & Science",
+    "title": "RFK Jr. fires entire CDC vaccine panel; CDC director ousted",
+    "summary": "Kennedy dismissed all 17 members of the CDC's vaccine advisory committee and replaced them with hand-picked appointees, including vaccine skeptics; the new CDC director was fired weeks later.",
+    "details": "On June 9, 2025, RFK Jr. removed all 17 members of the CDC's Advisory Committee on Immunization Practices (ACIP), which sets national vaccine recommendations, and replaced them two days later with eight of his own picks, several of them known vaccine skeptics. Medical groups including the American Medical Association condemned the move as undermining a transparent, life-saving process. In August 2025, newly confirmed CDC Director Susan Monarez was ousted after less than a month, becoming the shortest-serving director in the agency's history, after she refused to resign and rubber-stamp what she called 'reckless directives.' At least four other top CDC officials resigned in protest, including the deputy director and the heads of the agency's immunization and emerging-diseases centers.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/sections/shots-health-news/2025/06/09/nx-s1-5428533/rfk-jr-vaccine-advisory-committee-acip"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/08/27/g-s1-85911/cdc-director-susan-monarez-ousted-leaders-resign"
+      },
+      {
+        "name": "Scientific American",
+        "url": "https://www.scientificamerican.com/article/how-rfk-jr-s-dismissal-of-cdcs-advisory-committee-on-immunization-practices/"
+      }
+    ]
+  },
+  {
+    "date": "2025-06-07",
+    "category": "Immigration & Enforcement",
+    "title": "Troops deployed to Los Angeles over governor's objection",
+    "summary": "After large protests against ICE raids, Trump federalized 4,000 California National Guard troops and sent 700 Marines to Los Angeles — the first such deployment over a governor's objection since 1965.",
+    "details": "Immigration sweeps at workplaces, car washes, and Home Depot lots set off days of protests in June 2025, and Trump ordered in troops despite Governor Newsom's opposition. On September 2, 2025, U.S. District Judge Charles Breyer ruled the deployment violated the Posse Comitatus Act, the 1878 law barring the military from civilian policing, finding soldiers had conducted crowd control and blockades 'in and around Los Angeles.' Separately, a district judge barred agents in the LA area from stopping people based on apparent ethnicity, speaking Spanish, doing day-labor work, or location — but on September 8, 2025, the Supreme Court stayed that order 6-3 on its emergency docket in Noem v. Vasquez Perdomo, letting roving patrols resume using those factors. Dissenting, Justice Sotomayor wrote the court had made 'countless people' targets based on how they look. The LA operation became the template for later surges in Chicago, Charlotte, New Orleans, and Minneapolis.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/09/02/politics/national-guard-california-trump-posse-comitatus-act-breyer"
+      },
+      {
+        "name": "CalMatters",
+        "url": "https://calmatters.org/justice/2025/09/trump-national-guard-posse-comitatus/"
+      },
+      {
+        "name": "American Immigration Council",
+        "url": "https://www.americanimmigrationcouncil.org/blog/supreme-courts-decision-racial-profiling-immigration-raids/"
+      }
+    ]
+  },
+  {
+    "date": "2025-06-04",
+    "category": "Immigration & Enforcement",
+    "title": "Travel ban covers 19 countries, then expands toward 39",
+    "summary": "A June 2025 proclamation barred or restricted entry from 19 countries including Afghanistan, Haiti, and Iran. An expanded version effective January 1, 2026 covered dozens more.",
+    "details": "The June 4, 2025 proclamation fully suspended entry for nationals of 12 countries (including Afghanistan, Haiti, Iran, Libya, Somalia, Sudan, and Yemen) and partially restricted 7 more (including Cuba, Laos, and Venezuela), taking effect June 9. Unlike the chaotic 2017 ban, it exempted existing visa holders, which helped it survive early legal challenges. After an Afghan national shot two National Guard members near the White House in November 2025, the administration halted Afghan immigration processing and issued an expanded ban effective January 1, 2026, fully or partially suspending visas for nationals of 39 countries and for holders of Palestinian Authority travel documents. In February 2026 a federal court ruled the government could not stop processing Special Immigrant Visas for Afghans who worked for the U.S. military, since those are required by statute.",
+    "sources": [
+      {
+        "name": "Congressional Research Service",
+        "url": "https://www.congress.gov/crs-product/IN12631"
+      },
+      {
+        "name": "Fragomen",
+        "url": "https://www.fragomen.com/insights/united-states-travel-ban-expanded-and-revised-effective-january-1-2026.html"
+      },
+      {
+        "name": "International Rescue Committee",
+        "url": "https://www.rescue.org/article/trump-latest-travel-ban"
+      }
+    ]
+  },
+  {
+    "date": "2025-06",
+    "category": "Government, Health & Science",
+    "title": "Musk-Trump falling-out; DOGE later quietly wound down",
+    "summary": "After leaving the administration, Musk publicly feuded with Trump over the 'big beautiful bill,' and DOGE was effectively disbanded months ahead of its July 2026 charter.",
+    "details": "Musk left his government role in late May 2025 and quickly turned on Trump's signature 'One Big Beautiful Bill,' arguing it would balloon the deficit and undo DOGE's cuts. The dispute escalated into public attacks in early June 2025: Trump threatened to cancel federal contracts with Musk's companies, and Musk claimed without evidence that Trump appeared in government files on Jeffrey Epstein. By November 2025, OPM Director Scott Kupor told Reuters that DOGE 'doesn't exist' as a centralized entity and that most of its functions had been absorbed by the Office of Personnel Management, roughly eight months before its charter was set to expire on July 4, 2026. Administration officials disputed that characterization, saying the U.S. DOGE Service continued its work.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/06/05/nx-s1-5424686/donald-trump-elon-musk-bromance-breakup"
+      },
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2025/11/23/doge-elon-musk-federal-bureaucracy-budget-cuts-opm-headcount-staffing/"
+      },
+      {
+        "name": "TIME",
+        "url": "https://time.com/7336327/doge-disbanded-elon-musk/"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-30",
+    "category": "Immigration & Enforcement",
+    "title": "Supreme Court lets administration strip protections from 880,000 migrants",
+    "summary": "Emergency Supreme Court orders in May 2025 allowed the administration to end TPS for about 350,000 Venezuelans and cancel humanitarian parole for 532,000 Cubans, Haitians, Nicaraguans, and Venezuelans.",
+    "details": "Both groups had been living and working in the U.S. legally under Biden-era programs. On May 19, 2025, the Supreme Court lifted a lower-court block on ending Temporary Protected Status for Venezuelans who registered in 2023, and on May 30 it allowed termination of the CHNV parole program, which had let vetted migrants with U.S. sponsors fly in legally. DHS then sent notices telling parolees their status and work permits were revoked effective immediately and urging them to self-deport. The administration also moved to end TPS for Haitians (over 500,000 people), Hondurans, Nicaraguans, and other nationalities. The combined effect made hundreds of thousands of people deportable overnight — many of them the same people later arrested in workplace and street operations, since ICE had their addresses and biometrics on file.",
+    "sources": [
+      {
+        "name": "USCIS",
+        "url": "https://www.uscis.gov/newsroom/alerts/litigation-related-update-supreme-court-stay-of-chnv-preliminary-injunction"
+      },
+      {
+        "name": "Economic Policy Institute",
+        "url": "https://www.epi.org/policywatch/dhs-revokes-protections-for-532000-in-chnv-parole-program/"
+      },
+      {
+        "name": "AS/COA",
+        "url": "https://www.as-coa.org/articles/tracking-trump-and-latin-america-migration-supreme-court-says-tps-venezuelans-can-end"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-28",
+    "category": "Immigration & Enforcement",
+    "title": "White House orders ICE to make 3,000 arrests a day",
+    "summary": "Stephen Miller and Secretary Kristi Noem directed ICE to triple daily arrests to at least 3,000, threatening to fire field office chiefs who lagged. Deportations rose but stayed far below the promised million per year.",
+    "details": "At a late-May 2025 meeting, Miller told ICE leaders to abandon target lists and arrest broadly — including at Home Depot parking lots and 7-Elevens — and to include people with no criminal records. Arrests of immigrants without criminal convictions rose faster than any other category over the following year. In June 2025, after farm and hotel industry complaints, Trump briefly paused worksite raids in agriculture and hospitality, then reversed the pause four days later. By January 2026 DHS claimed more than 605,000 deportations plus 1.9 million self-deportations in year one; independent trackers counted roughly 300,000 to 540,000 formal removals depending on method — a record pace for ICE, but well short of the one-million-per-year promise, which would require about 2,700 removals every day. In court filings the Justice Department later denied that any formal 3,000-per-day quota existed.",
+    "sources": [
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2025/05/28/immigration-ice-deportations-stephen-miller"
+      },
+      {
+        "name": "Department of Homeland Security",
+        "url": "https://www.dhs.gov/news/2026/01/20/dhs-sets-stage-another-historic-record-breaking-year-under-president-trump"
+      },
+      {
+        "name": "TRAC Reports",
+        "url": "https://tracreports.org/reports/767/"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-27",
+    "category": "Crypto & Personal Profit",
+    "title": "Trump Media raises $2.5 billion to buy bitcoin",
+    "summary": "Trump Media & Technology Group, the Truth Social parent company majority-owned by Trump, raised about $2.5 billion from investors to buy bitcoin, and by July 2025 held roughly $2 billion of it.",
+    "details": "Trump Media & Technology Group (ticker DJT) runs Truth Social and is the main source of Trump's stock-market wealth; his roughly 53% stake sits in a trust managed by Donald Trump Jr. On May 27, 2025, the company announced it would sell $1.5 billion in stock and $1 billion in convertible notes to about 50 institutional investors to create a 'bitcoin treasury' — a corporate stockpile of the cryptocurrency. By July 21, 2025, the company said it held about $2 billion in bitcoin and related assets, roughly two-thirds of its liquid assets, and it also moved to launch crypto-themed exchange-traded funds under its brands. The strategy means the value of the president's largest single asset rises and falls with bitcoin's price — a price directly affected by his administration's policies, such as the Strategic Bitcoin Reserve and crypto-friendly regulation. The company's revenue from its actual media business remained small (about $3.6 million in 2024) compared with the size of its crypto holdings.",
+    "sources": [
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/crypto/2025/05/27/trump-media-group-raise-money-bitcoin-treasury/"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/trump-media-2-billion-bitcoin-crypto-treasury-strategy/"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2025/07/21/trump-djt-bitcoin-net-worth.html"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-22",
+    "category": "Crypto & Personal Profit",
+    "title": "Trump hosts private dinner for top 220 buyers of his memecoin",
+    "summary": "Trump held a black-tie dinner at his Virginia golf club for the 220 people who bought the most $TRUMP coins — a contest that drove an estimated $148 million into the coin. Most top buyers appeared to be based overseas.",
+    "details": "In April 2025, the $TRUMP memecoin's website announced that the top 220 holders would win dinner with the president, and the coin's price jumped more than 50% the day of the announcement. Contest entrants collectively poured an estimated $148 million into the coin, with trading fees flowing to Trump-affiliated entities. The dinner took place May 22, 2025, at Trump National Golf Club outside Washington; the top 25 holders got a private reception, and guest identities were not disclosed by the White House. A Bloomberg analysis found all but six of the top 25 holders used foreign crypto exchanges that are off-limits to U.S. residents, suggesting most were foreign nationals buying access to the president. The largest holder was Justin Sun, the Chinese-born billionaire whose SEC fraud case had been paused months earlier. The White House said Trump attended 'in his personal time'; ethics experts, Democratic lawmakers and some crypto-industry figures said the event amounted to selling presidential access, and Senator Chris Murphy called it 'the most brazenly corrupt thing a president has ever done.'",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/05/22/nx-s1-5406209/trump-meme-coin-dinner-crypto"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/05/23/politics/trump-crypto-meme-coin-dinner"
+      },
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2025/05/22/trump-meme-coin-dinner"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-21",
+    "category": "Crypto & Personal Profit",
+    "title": "Pentagon accepts $400 million luxury jet from Qatar for Trump",
+    "summary": "The Defense Department accepted a Boeing 747-8 jumbo jet, valued at about $400 million, as a gift from Qatar's royal family for Trump to use as Air Force One — with plans to transfer it to his presidential library when he leaves office.",
+    "details": "On May 21, 2025, the Pentagon formally accepted the luxury jet, originally outfitted as a flying palace for Qatar's royal family; a memorandum of understanding was signed with Qatar's defense ministry that July. The Constitution's Foreign Emoluments Clause bars federal officeholders from accepting presents from foreign states without the consent of Congress, and legal experts across the political spectrum questioned the arrangement; the White House said the gift was to the U.S. government, not to Trump personally. However, the stated plan is for the plane to be transferred to Trump's presidential library foundation after his term ends, meaning the aircraft would ultimately benefit Trump rather than future presidents. Taxpayers paid for a retrofit reported in the hundreds of millions of dollars to add security and communications systems. The jet, designated the VC-25B 'Bridge,' made its first flight as Air Force One on July 1, 2026.",
+    "sources": [
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/politics/defense-department-accepts-luxury-jet-from-qatar-for-trumps-use"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/01/retrofitted-qatari-jet-flight-air-force-one-trump.html"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/07/01/politics/qatar-air-force-one-trump"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-14",
+    "category": "Pardons & Rule of Law",
+    "title": "Ed Martin named pardon attorney and 'weaponization' investigator",
+    "summary": "After the Senate balked at confirming him as D.C. U.S. attorney, Trump made Ed Martin the DOJ pardon attorney and head of a 'Weaponization Working Group' aimed at investigating prosecutors who had investigated Trump.",
+    "details": "Martin, who had defended January 6 rioters and promoted stolen-election claims, served as interim U.S. attorney for Washington, D.C. before Republican senators' objections sank his nomination. In his new dual role he oversaw clemency recommendations while directing a working group that examined special counsel Jack Smith, Manhattan DA Alvin Bragg's hush-money case, and January 6 prosecutions. Martin said of targets: some should be charged, and if they could not be charged, 'we will name them' and 'shame them.' In summer 2025 he posed for photos outside New York Attorney General Letitia James's Brooklyn home while investigating her. In February 2026 the DOJ removed Martin from the weaponization role amid internal friction, though he stayed on as pardon attorney.",
+    "sources": [
+      {
+        "name": "DOJ",
+        "url": "https://www.justice.gov/pardon/staff-profile/pardon-attorney-edward-r-martin-jr"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/justice-department/ed-martin-dojs-weaponization-czar-sources-say-rcna257093"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/02/02/politics/ed-martin-to-leave-justice-department"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-12",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "China trade war hits 145% tariffs before truces and Xi deal",
+    "summary": "Tit-for-tat escalation drove U.S. tariffs on China to 145% and China's to 125% before a Geneva truce; a Trump-Xi meeting in October produced a one-year deal on rare earths and soybeans.",
+    "details": "After the April 2025 'Liberation Day' announcement, the U.S. and China escalated in rounds until U.S. tariffs on Chinese goods reached 145% and China's tariffs on U.S. goods hit 125%, effectively freezing much trade between the world's two largest economies. On May 12, negotiators in Geneva agreed to a 90-day truce cutting the rates to 30% and 10%, which was extended in August. In October, China announced sweeping export controls on rare-earth minerals — critical for cars, electronics, and weapons — and Trump threatened an additional 100% tariff. At an October 30 meeting in South Korea, Trump and Xi Jinping struck a truce: China paused the rare-earth controls for one year and agreed to buy 25 million metric tons of U.S. soybeans annually for three years, while the U.S. halved its fentanyl-related tariff from 20% to 10%, bringing average U.S. tariffs on China to roughly 47%. China had halted most U.S. soybean purchases during the standoff, costing American farmers their largest export market for much of 2025.",
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2025/10/30/trump-xi-south-korea-rare-earth-tariff-trade-war-nvidia.html"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/08/12/nx-s1-5500039/us-china-tariffs-trade-truce"
+      },
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/economy/u-s-and-china-seek-to-repair-damage-from-tariff-war-that-sent-trade-into-a-freefall"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-02",
+    "category": "Pardons & Rule of Law",
+    "title": "Courts strike down all four law-firm orders as unconstitutional",
+    "summary": "Every federal judge to rule on the law-firm executive orders — four out of four — permanently struck them down as unconstitutional; in 2026 the DOJ moved to drop its appeals, then reversed itself a day later.",
+    "details": "Judge Beryl Howell struck down the Perkins Coie order on May 2, 2025, calling it 'an unprecedented attack' on the judicial system; Judge John Bates (Jenner & Block), Judge Richard Leon (WilmerHale), and Judge Loren AliKhan (Susman Godfrey) followed with similar permanent rulings by June 27, 2025. The judges found the orders violated the First Amendment and due process by punishing firms for who they represented. On March 2, 2026, the Justice Department moved to dismiss its appeals, appearing to concede defeat — then filed to withdraw that motion the next day without explanation, keeping the appeals alive. The four firms that fought in court kept all their rights; the firms that settled remained bound by roughly $940 million in pledged pro bono commitments.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/06/27/g-s1-70443/trump-law-firm-susman-godfrey-ruling"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/trump-administration/doj-drops-suits-law-firms-judges-find-executive-orders-unconstitutiona-rcna261434"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/doj-appeal-trump-law-firms-executive-orders/"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-01",
+    "category": "Crypto & Personal Profit",
+    "title": "Abu Dhabi routes $2 billion through Trump stablecoin; UAE gets AI chips",
+    "summary": "An Abu Dhabi state fund used the Trump family's brand-new USD1 stablecoin to make a $2 billion investment in crypto exchange Binance. Two weeks later, Trump approved a deal letting the UAE buy hundreds of thousands of advanced American AI chips.",
+    "details": "A stablecoin is a digital dollar: the issuer takes real dollars, gives buyers tokens, and keeps the interest earned on the deposited cash — so whoever holds $2 billion of USD1 in circulation generates tens of millions of dollars a year for its issuer. World Liberty Financial, the Trump family venture, launched USD1 in late March 2025. On May 1, 2025, at a Dubai crypto conference, WLF co-founder Zach Witkoff — on stage with Eric Trump — announced that MGX, a state-backed Abu Dhabi fund chaired by Sheikh Tahnoon bin Zayed Al Nahyan (the UAE's national security adviser), would use USD1 to settle its $2 billion investment in Binance, the world's largest crypto exchange. Two weeks later, during Trump's May 13-16 Gulf trip, the administration announced a deal allowing the UAE to import up to 500,000 of Nvidia's most advanced AI chips per year, with a fifth earmarked for G42, the AI firm chaired by the same Sheikh Tahnoon — reversing Biden-era restrictions imposed over G42's China ties. Senators Elizabeth Warren and Jeff Merkley demanded records, calling the sequence a 'staggering conflict of interest': a foreign government's fund had delivered a $2 billion benefit to the president's family business shortly before receiving a major national-security concession. It was later revealed (see February 2026 entry) that a Tahnoon-backed firm had also secretly bought 49% of World Liberty Financial itself.",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal"
+      },
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/crypto/2025/05/07/world-liberty-financial-wlfi-trump-binance-mgx-stablecoin-deal/"
+      },
+      {
+        "name": "Senate Banking Committee",
+        "url": "https://www.banking.senate.gov/newsroom/minority/warren-merkley-seek-world-liberty-financial-records-on-2-billion-trump-stablecoin-deal-involving-uae-firm-and-binance"
+      }
+    ]
+  },
+  {
+    "date": "2025-04-30",
+    "category": "Crypto & Personal Profit",
+    "title": "Trump Organization signs foreign deals in Qatar, Vietnam, Gulf states",
+    "summary": "While Trump conducted foreign policy, his family business signed real-estate deals with foreign partners — including a $5.5 billion Qatar golf resort backed by a state-owned company — in Qatar, Saudi Arabia, the UAE, Vietnam and Serbia.",
+    "details": "In late April 2025, the Trump Organization announced Trump International Golf Club Simaisma, part of a $5.5 billion beachside development north of Doha built with Qatari Diar, a company owned by Qatar's sovereign wealth fund — meaning a foreign government's company became a direct business partner of the sitting president's family. In May, Eric Trump unveiled the $1.5 billion Trump International Hung Yen golf resort in Vietnam, which broke ground while Vietnam was negotiating with Washington over tariffs; its golf course opened in October 2025. Other deals in this period included a $1 billion Trump tower project in Jeddah, Saudi Arabia with developer Dar Global, an 80-story Trump International Hotel and Tower in Dubai, and a Trump-branded hotel project on a government-owned site in Belgrade, Serbia, involving Jared Kushner's investment firm. During his first term, Trump had pledged no new foreign deals; no such pledge was made in the second term. The president's official trips to the Gulf in May 2025 took place in the same countries where these projects were underway.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/05/13/politics/trump-middle-east-business-invs"
+      },
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/politics/in-a-deal-with-trump-organization-dar-global-will-launch-a-1-billion-project-in-saudi-arabia"
+      },
+      {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/giacomotognini/2025/10/15/trump-saved-this-vietnamese-real-estate-moguls-fortune-now-they-are-opening-a-golf-resort-together/"
+      }
+    ]
+  },
+  {
+    "date": "2025-04-11",
+    "category": "Immigration & Enforcement",
+    "title": "Registration mandate and cash payments push 'self-deportation'",
+    "summary": "DHS required undocumented people to register and be fingerprinted, and offered $1,000 (later $3,000) plus a free flight to those who deport themselves via a government app.",
+    "details": "Starting April 11, 2025, most noncitizens in the country without status were required to register with the government, submit fingerprints, and carry proof at all times, with criminal penalties for failure to comply — reviving a rarely used 1940s-era law. In May, DHS began offering a $1,000 stipend and paid travel to people who left voluntarily using the CBP Home app (the rebuilt CBP One app that had previously scheduled asylum appointments), under a program called Project Homecoming. In December 2025 the offer was tripled to $3,000 as a year-end incentive. The administration claims between 1.6 and 2.2 million people self-deported by early 2026, but independent researchers say those estimates rely on opaque methodology and cannot be verified.",
+    "sources": [
+      {
+        "name": "Department of Homeland Security",
+        "url": "https://www.dhs.gov/news/2025/05/05/dhs-announces-historic-travel-assistance-and-stipend-voluntary-self-deportation"
+      },
+      {
+        "name": "National Immigration Law Center",
+        "url": "https://www.nilc.org/resources/know-your-rights-cbp-home/"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/dhs-undocumented-migrants-self-deportation-offer-increased/"
+      }
+    ]
+  },
+  {
+    "date": "2025-04-02",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "'Liberation Day' tariffs crash markets, then get partially paused",
+    "summary": "Trump imposed a 10% tariff on nearly every country plus higher 'reciprocal' rates on 57 trading partners, triggering the worst market crash since COVID before he paused the higher rates for 90 days.",
+    "details": "On April 2, 2025, Trump declared a national emergency over the U.S. trade deficit and announced a 10% baseline tariff on almost all imports, with country-specific rates up to about 50% on 57 partners. The 'reciprocal' rates were not based on other countries' actual tariffs; the formula essentially divided each country's trade deficit with the U.S. by its exports to the U.S., which is why the list even included islands inhabited only by penguins. U.S. stock indexes plunged more than 10% within days — the broad market fell about 12.4%, its biggest drop since the 2020 pandemic. On April 9, hours after the higher rates took effect and as government bond markets began to buckle, Trump paused all rates above 10% for 90 days except for China, and stocks staged one of their biggest one-day rallies ever. Wall Street coined the 'TACO trade' — 'Trump Always Chickens Out,' a term from Financial Times columnist Robert Armstrong — for betting that markets rebound after tariff threats are walked back. Framework deals followed over the summer, including 15% tariff rates on Japan (July 22) and the European Union (July 27) paired with large investment pledges. By late 2025 the average effective U.S. tariff rate had risen to roughly 17% — the highest since the early 1930s, up from about 2.5% in 2024.",
+    "sources": [
+      {
+        "name": "CSIS",
+        "url": "https://www.csis.org/analysis/liberation-day-tariffs-explained"
+      },
+      {
+        "name": "Yale Budget Lab",
+        "url": "https://budgetlab.yale.edu/research/tracking-economic-effects-tariffs"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/trump-taco-trade-trump-always-chickens-out-what-it-means/"
+      }
+    ]
+  },
+  {
+    "date": "2025-03-28",
+    "category": "Pardons & Rule of Law",
+    "title": "Pardon for Nikola founder Trevor Milton after $1.8 million in donations",
+    "summary": "Trump pardoned Trevor Milton, the Nikola founder convicted of defrauding investors, months after Milton and his wife donated about $1.8 million to Trump's campaign committee.",
+    "details": "Milton was convicted in October 2022 of securities and wire fraud for lying about nearly every aspect of his electric-truck startup — including a promotional video of a truck that was actually rolling downhill — and was sentenced to four years in prison. In October 2024, after his conviction, Milton gave $920,000 to the Trump 47 Committee. The pardon eliminated prosecutors' claim that Milton owed more than $676 million in restitution to defrauded Nikola shareholders, who received nothing. Trump said he believed Milton had been persecuted for supporting him. The same week, Trump also pardoned the three co-founders of crypto exchange BitMEX, who had pleaded guilty to Bank Secrecy Act violations. House Judiciary Democrats later estimated Trump's pardons collectively erased about $1.3 billion in fines and restitution owed by white-collar offenders.",
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2025/03/28/trump-pardons-nikola-trevor-milton-ceo-securities-fraud-electric-vehicle.html"
+      },
+      {
+        "name": "The Hill",
+        "url": "https://thehill.com/business/5221471-who-is-trevor-milton-nikola-pardon/"
+      },
+      {
+        "name": "House Judiciary Democrats memo",
+        "url": "https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2025-06-17.dem-memo-re-$1.3b-cost-of-trump-pardons.pdf"
+      }
+    ]
+  },
+  {
+    "date": "2025-03-27",
+    "category": "Government, Health & Science",
+    "title": "RFK Jr. cuts 20,000 HHS jobs and restructures health agencies",
+    "summary": "Health Secretary Robert F. Kennedy Jr. announced a plan to eliminate about 20,000 jobs at the Department of Health and Human Services and consolidate its divisions.",
+    "details": "On March 27, 2025, HHS Secretary RFK Jr. announced a restructuring cutting the department's workforce from about 82,000 to 62,000, a reduction of roughly 20,000 jobs, about half through layoffs and half through buyouts and early retirements. The plan consolidated 28 divisions into 15 and created a new 'Administration for a Healthy America.' The FDA was slated to lose about 3,500 jobs and the CDC thousands more. HHS said the cuts would save $1.8 billion a year. The layoffs were chaotic: RFK Jr. later acknowledged that some cuts made 'in error' by DOGE would be reversed, and courts intervened over portions of the reductions.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/sections/shots-health-news/2025/03/27/nx-s1-5342414/hhs-doge-rif-rfk-job-cuts"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/job-cuts-federal-health-agencies-rfk-jr/"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/health/2025/03/27/hhs-cuts-layoffs-rfk-cdc-fda/"
+      }
+    ]
+  },
+  {
+    "date": "2025-03-21",
+    "category": "Immigration & Enforcement",
+    "title": "Funding cut leaves migrant children facing judges alone",
+    "summary": "The administration terminated roughly $200 million in federal contracts that paid for lawyers for unaccompanied migrant children, leaving kids — some toddlers — to represent themselves in deportation court.",
+    "details": "Unlike criminal defendants, people in immigration court have no right to a government-paid lawyer, so a federal program had funded attorneys for about 26,000 children who arrived without parents. After the cut, legal aid groups documented children as young as 18 months appearing in court with no representation. The stakes are large: children with lawyers win the right to stay in about 73% of cases, versus roughly 15% without. A federal judge ordered funding restored in April 2025, but providers reported the administration repeatedly delayed and re-cut payments afterward. Advocacy groups said thousands of children moved through accelerated dockets without counsel during the disputes.",
+    "sources": [
+      {
+        "name": "ABC News",
+        "url": "https://abcnews.go.com/US/trump-administration-halts-funding-legal-aid-migrant-children/story?id=120033078"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/news/latino/unaccompanied-immigrant-children-legal-help-trump-administration-rcna201578"
+      },
+      {
+        "name": "The Imprint",
+        "url": "https://imprintnews.org/youth-services-insider/trump-halts-legal-counsel-for-unaccompanied-minors-seeking-asylum/259021"
+      }
+    ]
+  },
+  {
+    "date": "2025-03-18",
+    "category": "Pardons & Rule of Law",
+    "title": "Trump calls to impeach Judge Boasberg; Chief Justice rebukes him",
+    "summary": "After Judge James Boasberg ordered deportation flights halted, Trump called him a 'Radical Left Lunatic' who should be impeached, drawing a rare public rebuke from Chief Justice John Roberts.",
+    "details": "Boasberg, chief judge of the D.C. federal district court, had ordered a halt to deportations carried out under the 1798 Alien Enemies Act; the administration proceeded with flights anyway, prompting a contempt inquiry. Trump's impeachment call on Truth Social prompted Roberts to state that 'impeachment is not an appropriate response to disagreement concerning a judicial decision.' The pressure campaign continued: Rep. Brandon Gill filed impeachment articles (H.Res. 229), Attorney General Pam Bondi filed a judicial-misconduct complaint against Boasberg in July 2025 — dismissed by an appellate judge on December 19, 2025, as uncorroborated — and Gill filed new impeachment articles in November 2025 over Boasberg's routine approval of subpoenas in the FBI's 'Arctic Frost' investigation of the 2020 fake-electors scheme. Federal judges reported a sharp rise in threats during this period.",
+    "sources": [
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2025/03/18/trump-judges-impeach-chief-justice-roberts/"
+      },
+      {
+        "name": "SCOTUSblog",
+        "url": "https://www.scotusblog.com/2025/03/chief-justice-rebukes-trumps-call-for-judicial-impeachment/"
+      },
+      {
+        "name": "Congress.gov",
+        "url": "https://www.congress.gov/bill/119th-congress/house-resolution/858/text"
+      }
+    ]
+  },
+  {
+    "date": "2025-03-15",
+    "category": "Immigration & Enforcement",
+    "title": "Alien Enemies Act flights land Venezuelans in Salvadoran mega-prison",
+    "summary": "Invoking the 1798 Alien Enemies Act, the administration flew about 238 Venezuelan men to El Salvador's CECOT prison, continuing even as Judge James Boasberg ordered flights turned around.",
+    "details": "Trump declared the gang Tren de Aragua an 'invading force' to use a wartime law last invoked during World War II, and paid El Salvador to imprison the men at the Terrorism Confinement Center (CECOT). Many deportees had no criminal records and were flagged partly based on tattoos; none received hearings before removal. Judge Boasberg verbally ordered planes already in the air to return on March 15, 2025, but they landed anyway, and in April 2025 he found probable cause to hold officials in criminal contempt. The men were released to Venezuela in a July 2025 prisoner exchange after roughly four months in prison. In December 2025 Boasberg ruled the removals violated due process, and in February 2026 he ordered the government to let the men return to the U.S. for immigration hearings if they choose. The full D.C. Circuit appeals court scheduled arguments for September 2026 on whether the contempt inquiry can proceed.",
+    "sources": [
+      {
+        "name": "ACLU",
+        "url": "https://www.aclu.org/press-releases/federal-court-finds-alien-enemies-act-removals-unlawful-orders-access-to-judicial-process-for-venezuelans-sent-to-notorious-cecot-prison-in-march"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/02/12/nx-s1-5712542/federal-judge-orders-return-of-venezuelan-migrants-deported-to-el-salvador-under-alien-enemies-act"
+      },
+      {
+        "name": "ABC News",
+        "url": "https://abcnews.com/US/full-appeals-court-hear-arguments-contempt-inquiry-cecot/story?id=134112094"
+      }
+    ]
+  },
+  {
+    "date": "2025-03-06",
+    "category": "Crypto & Personal Profit",
+    "title": "Trump orders creation of a Strategic Bitcoin Reserve",
+    "summary": "Trump signed an executive order making bitcoin an official U.S. government reserve asset that the government pledges never to sell, a policy shift that boosted the asset class his family was heavily invested in.",
+    "details": "Executive Order 14233, signed March 6, 2025, created a Strategic Bitcoin Reserve stocked with roughly 200,000 bitcoins (about $17 billion at the time) that the government had seized in criminal and civil cases, and directed officials to find 'budget-neutral' ways to buy more. It also created a separate stockpile of other cryptocurrencies, which Trump said would include Ether, XRP, Solana and Cardano. The order was part of a broader reversal of federal crypto policy in 2025: the SEC dropped or paused enforcement cases against major crypto firms, and the administration installed crypto-friendly regulators. Trump had campaigned on these promises after the industry donated tens of millions to his campaign. His family's ventures — the WLFI token, the USD1 stablecoin, Trump Media's bitcoin holdings and the American Bitcoin mining company — all stood to gain value from policies making crypto a government-endorsed asset class.",
+    "sources": [
+      {
+        "name": "White House fact sheet",
+        "url": "https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-establishes-the-strategic-bitcoin-reserve-and-u-s-digital-asset-stockpile/"
+      },
+      {
+        "name": "Federal Register",
+        "url": "https://www.federalregister.gov/documents/2025/03/11/2025-03992/establishment-of-the-strategic-bitcoin-reserve-and-united-states-digital-asset-stockpile"
+      }
+    ]
+  },
+  {
+    "date": "2025-03-06",
+    "category": "Pardons & Rule of Law",
+    "title": "Executive orders punish law firms tied to Trump's opponents",
+    "summary": "Trump issued executive orders stripping security clearances and government access from major law firms — Perkins Coie, Paul Weiss, Jenner & Block, WilmerHale, and Susman Godfrey — over their clients and past hires.",
+    "details": "The orders suspended lawyers' security clearances, restricted their access to federal buildings and officials, and pushed to cancel their clients' government contracts. The stated reasons traced to Trump's grievances: Perkins Coie represented Hillary Clinton's 2016 campaign, WilmerHale employed special counsel Robert Mueller, Jenner & Block employed Mueller prosecutor Andrew Weissmann, and Susman Godfrey won the Dominion defamation case against Fox News. Paul Weiss cut a deal — pledging $40 million in pro bono work for administration-approved causes — to get its order rescinded, and eight other firms preemptively pledged a combined total of roughly $940 million in free legal work to avoid being targeted. Four firms sued instead, and legal groups warned the orders were designed to deter lawyers from representing Trump's opponents.",
+    "sources": [
+      {
+        "name": "Wikipedia (documented overview)",
+        "url": "https://en.wikipedia.org/wiki/Targeting_of_law_firms_and_lawyers_under_the_second_Trump_administration"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/trump-administration/doj-drops-suits-law-firms-judges-find-executive-orders-unconstitutiona-rcna261434"
+      },
+      {
+        "name": "First Amendment Encyclopedia",
+        "url": "https://firstamendment.mtsu.edu/article/trumps-executive-orders-against-law-firms/"
+      }
+    ]
+  },
+  {
+    "date": "2025-03",
+    "category": "Government, Health & Science",
+    "title": "DOGE's claimed savings found to be heavily overstated",
+    "summary": "DOGE's public 'wall of receipts' repeatedly overstated taxpayer savings by billions, with independent reviews finding far smaller verified totals.",
+    "details": "DOGE published a 'wall of receipts' claiming it had saved taxpayers well over $100 billion by canceling contracts, grants, and leases. Reviews by CBS News, NPR, and others found large errors: a contract listed as an $8 billion cut was actually worth $8 million, a Social Security contract listed at $232 million was really $560,000, and one USAID contract was counted three times. DOGE quietly deleted several of its biggest claimed savings after journalists flagged the mistakes. Independent analyses estimated actual verifiable savings were a small fraction of the claims, even as DOGE-driven cuts caused mass layoffs across the government. The federal deficit did not meaningfully shrink during 2025.",
+    "sources": [
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/doge-wall-of-receipts-shows-errors-tallying-billions-in-savings/"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/03/01/nx-s1-5313853/doge-savings-receipts-musk-trump"
+      },
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2025/03/13/doge-saved-federal-government-115-billion-experts-doubt-figures-elon-musk/"
+      }
+    ]
+  },
+  {
+    "date": "2025-03",
+    "category": "Government, Health & Science",
+    "title": "Trump orders Education Department dismantled; Supreme Court allows layoffs",
+    "summary": "Trump signed an order to shut down the Department of Education and cut nearly half its staff; the Supreme Court let the layoffs proceed while lawsuits continued.",
+    "details": "In March 2025, Trump signed an executive order directing Education Secretary Linda McMahon to take 'all necessary steps' to close the Department of Education, which only Congress can legally abolish. More than 1,400 employees, nearly half the workforce, were laid off, including staff in the Office for Civil Rights and special-education experts. Lower courts ordered the workers reinstated, but in July 2025 the Supreme Court, on its emergency 'shadow' docket and with no explanation, let the mass layoffs proceed while litigation continued. Justice Sotomayor, joined by Kagan and Jackson, dissented, warning the ruling 'hands the Executive the power to repeal statutes by firing all those necessary to carry them out.'",
+    "sources": [
+      {
+        "name": "TIME",
+        "url": "https://time.com/7302319/trump-dismantles-department-of-education/"
+      },
+      {
+        "name": "SCOTUSblog",
+        "url": "https://www.scotusblog.com/2025/07/supreme-court-clears-the-way-for-trump-administration-to-massively-reduce-the-size-of-the-department-of-education/"
+      }
+    ]
+  },
+  {
+    "date": "2025-02-28",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Oval Office blow-up with Zelensky; aid paused, minerals deal follows",
+    "summary": "A White House meeting with Ukraine's president collapsed into a shouting match on live television, after which the U.S. briefly cut off military aid and intelligence sharing before signing a minerals deal in April.",
+    "details": "On February 28, 2025, a meeting meant to finalize a U.S.-Ukraine minerals agreement broke down when Trump and Vice President JD Vance berated President Volodymyr Zelensky on camera, with Vance calling him 'disrespectful' and Trump warning him to make a deal with Russia or 'we're out.' Zelensky was asked to leave the White House without signing the deal or holding the planned press conference. In early March, the administration paused U.S. military aid and suspended intelligence sharing that Ukraine used to intercept Russian strikes; both resumed on March 11 after Kyiv agreed to a U.S. proposal for a 30-day ceasefire, which Russia did not accept. On April 30, the two countries signed the minerals agreement, creating a jointly managed U.S.-Ukraine Reconstruction Investment Fund that receives 50% of revenues from new Ukrainian minerals, oil, and gas projects. The final deal dropped earlier U.S. demands that Ukraine repay past aid, and it contained no U.S. security guarantee.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/white-house/zelenskyy-trump-white-house-russia-peace-talks-rare-earth-minerals-rcna194118"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/national-security/2025/03/05/us-ukraine-intelligence-sharing/"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/04/30/nx-s1-5382384/ukraine-us-minerals-deal"
+      }
+    ]
+  },
+  {
+    "date": "2025-02-27",
+    "category": "Pardons & Rule of Law",
+    "title": "SEC drops Coinbase suit, pauses Justin Sun case in crypto retreat",
+    "summary": "The SEC dismissed its landmark lawsuit against Coinbase and jointly paused its fraud case against Justin Sun, a major investor in the Trump family's crypto venture, as part of a broad pullback from crypto enforcement.",
+    "details": "On February 27, 2025, the SEC dismissed its enforcement action against Coinbase, the largest U.S. crypto exchange, with prejudice — meaning it cannot be refiled. The day before, the SEC and Justin Sun jointly moved to stay the agency's 2023 securities-fraud case against him; Sun had bought roughly $75 million in tokens from World Liberty Financial, the Trump family's crypto company, making him one of its largest known backers. Over 2025 the SEC also dropped or closed cases and investigations involving Ripple, Kraken, Robinhood, Uniswap, and others, and in April 2025 the Justice Department disbanded its National Cryptocurrency Enforcement Team. The commission's lone Democrat, Caroline Crenshaw, opposed the Coinbase dismissal. Trump and his family launched their own crypto ventures — including World Liberty Financial and a memecoin — while the enforcement retreat unfolded.",
+    "sources": [
+      {
+        "name": "SEC press release",
+        "url": "https://www.sec.gov/newsroom/press-releases/2025-47"
+      },
+      {
+        "name": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2025/02/27/coinbase-case-dropped-by-u-s-sec-as-agency-reverses-crypto-stance"
+      },
+      {
+        "name": "CCN",
+        "url": "https://www.ccn.com/news/crypto/sec-crypto-reversals-2025-lawsuits/"
+      }
+    ]
+  },
+  {
+    "date": "2025-02-26",
+    "category": "Crypto & Personal Profit",
+    "title": "SEC pauses fraud case against Justin Sun after his $75M Trump investment",
+    "summary": "Justin Sun, a Chinese-born crypto billionaire facing a U.S. government fraud lawsuit, spent about $75 million on the Trump family's WLFI tokens. Weeks after Trump took office, regulators asked a court to pause Sun's case.",
+    "details": "Justin Sun founded the Tron blockchain and is one of the most prominent figures in crypto. In March 2023, the Securities and Exchange Commission sued him for allegedly selling unregistered securities and manipulating token prices through fake trades. In November 2024, weeks after Trump's election win, Sun bought $30 million of World Liberty Financial's WLFI token — a purchase that pushed the struggling sale past the threshold at which the Trump family could start collecting proceeds — and in January 2025 he added $45 million more, bringing his total to about $75 million and making him the venture's largest known outside investor; he was also named an adviser to the company. On February 26, 2025, the SEC and Sun jointly asked a federal judge to pause the fraud case for 60 days to 'explore a potential resolution.' Sun, who had avoided travel to the U.S. during the case, subsequently returned and appeared publicly at crypto events, including as the top buyer at Trump's memecoin dinner in May 2025.",
+    "sources": [
+      {
+        "name": "DL News",
+        "url": "https://www.dlnews.com/articles/regulation/billionaire-justin-sun-gets-sec-pause-in-fraud-case/"
+      },
+      {
+        "name": "U.S. News (Reuters)",
+        "url": "https://money.usnews.com/investing/news/articles/2026-03-05/justin-sun-settles-sec-fraud-case-for-10-million"
+      }
+    ]
+  },
+  {
+    "date": "2025-02-11",
+    "category": "Press, Speech & Democracy",
+    "title": "White House bars AP over 'Gulf of America,' takes over press pool",
+    "summary": "The White House blocked Associated Press reporters from the Oval Office and Air Force One because the AP kept using 'Gulf of Mexico,' then stripped the correspondents' association of its century-old role choosing the press pool.",
+    "details": "After Trump renamed the Gulf of Mexico the 'Gulf of America' by executive order, the AP kept the traditional name in its global stylebook while noting Trump's change, and the White House barred its reporters from covering presidential events in February 2025. On February 25, press secretary Karoline Leavitt announced the White House press team, not the White House Correspondents' Association, would decide which outlets join the small rotating pool that covers the president up close, and in April the White House eliminated the guaranteed slot for wire services. In April, U.S. District Judge Trevor McFadden, a Trump appointee, ruled the AP ban was unconstitutional viewpoint discrimination and ordered access restored. In June, a D.C. Circuit panel ruled 2-1 for the White House, holding that spaces like the Oval Office 'are not First Amendment fora' and the White House may pick journalists 'including on the basis of viewpoint.' The fight continued on appeal into late 2025.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/04/08/nx-s1-5342369/ap-white-house-court-ruling-oval-office-gulf-of-mexico-america"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/02/25/media/white-house-correspondents-pool"
+      },
+      {
+        "name": "Variety",
+        "url": "https://variety.com/2025/biz/news/trump-ap-appeals-court-gulf-of-america-white-house-ban-1236422008/"
+      }
+    ]
+  },
+  {
+    "date": "2025-02-10",
+    "category": "Pardons & Rule of Law",
+    "title": "Pardon for former Illinois Gov. Rod Blagojevich",
+    "summary": "Trump signed a full pardon for Rod Blagojevich, the Democrat-turned-Trump-supporter convicted of trying to sell Barack Obama's vacant Senate seat.",
+    "details": "Blagojevich was convicted in 2011 on corruption charges, including attempting to sell the Senate seat Obama vacated when he became president, and was sentenced to 14 years. Trump commuted his sentence in 2020 after he had served about eight years; the 2025 pardon wiped the conviction's legal effects entirely. After his release, Blagojevich became a vocal Trump supporter and campaigned for his 2020 and 2024 races. The pardon fit a pattern watchdog groups documented of clemency flowing to politicians convicted of public corruption: the group CREW counted 20 corrupt-politician clemency grants by mid-2026.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/02/10/g-s1-47817/trump-pardon-rod-blagojevich-illinois-corruption"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/nation/2025/02/10/trump-pardon-rod-blagojevich-illinois-governor/"
+      },
+      {
+        "name": "CREW",
+        "url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-has-granted-clemency-to-16-corrupt-politicians-so-far/"
+      }
+    ]
+  },
+  {
+    "date": "2025-02-10",
+    "category": "Pardons & Rule of Law",
+    "title": "DOJ orders Eric Adams case dropped; prosecutors resign in protest",
+    "summary": "The Justice Department ordered prosecutors to drop the corruption case against New York Mayor Eric Adams, triggering the largest mass resignation of federal prosecutors in decades over what they called a quid pro quo.",
+    "details": "Acting Deputy Attorney General Emil Bove directed the Southern District of New York to dismiss bribery and fraud charges against Adams, citing the mayor's ability to help with Trump's immigration enforcement rather than the strength of the evidence. Acting U.S. Attorney Danielle Sassoon — a conservative Federalist Society member — resigned rather than comply, writing that the deal amounted to a quid pro quo: dismissal in exchange for immigration cooperation. About seven prosecutors resigned in total, including Hagan Scotten, who wrote that only 'a fool' or 'a coward' would file the motion. On April 2, 2025, Judge Dale Ho dismissed the case — but with prejudice so it could never be refiled as leverage, writing that 'everything here smacks of a bargain: dismissal of the Indictment in exchange for immigration policy concessions.'",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/04/02/g-s1-57386/judge-new-york-eric-adams"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/newyork/news/nyc-mayor-eric-adams-corruption-case-dropped/"
+      }
+    ]
+  },
+  {
+    "date": "2025-02-07",
+    "category": "Government, Health & Science",
+    "title": "NIH caps research overhead and terminates grants; universities targeted",
+    "summary": "NIH tried to cap research 'indirect cost' reimbursements at 15% and terminated hundreds of grants, while the White House froze billions from universities like Harvard and Columbia.",
+    "details": "On February 7, 2025, NIH announced it would cap 'indirect cost' rates (overhead for labs, facilities, and staff) at 15%, far below negotiated rates that averaged about 58%, a change projected to cut university research funding by roughly $5 billion a year. Courts permanently blocked the cap, upheld on appeal in January 2026. Separately, NIH terminated hundreds of grants (a lawsuit counted at least 678 worth over $2.4 billion) tied to DEI, vaccine hesitancy, LGBTQ, and transgender health topics. The administration also froze $2.2 billion from Harvard and canceled $400 million from Columbia over antisemitism allegations; Columbia settled for about $221 million, while Harvard sued and a judge later ruled the freeze unlawful. In October 2025, the White House offered nine universities a 'Compact' promising priority funding in exchange for enrollment caps, tuition freezes, and policy changes; most rejected it.",
+    "sources": [
+      {
+        "name": "Higher Ed Dive",
+        "url": "https://www.highereddive.com/news/judge-permanently-blocks-nihs-plan-to-cap-funding-setting-up-appeals-batt/744647/"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/04/14/us/harvard-rejects-policy-changes/index.html"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/10/20/nx-s1-5579618/trump-college-university-compact-uva-mit-dartmouth"
+      }
+    ]
+  },
+  {
+    "date": "2025-02-07",
+    "category": "Government, Health & Science",
+    "title": "Takeover of cultural institutions and 'restoring truth' in history",
+    "summary": "Trump named himself Kennedy Center chairman, ordered a review of Smithsonian exhibits, and moved to gut the federal agency that funds libraries and museums.",
+    "details": "In February 2025, Trump fired much of the Kennedy Center's bipartisan board and had the new board install him as chairman, replacing longtime chair David Rubenstein and ousting the center's president. In March 2025, he signed an executive order titled 'Restoring Truth and Sanity to American History,' accusing the Smithsonian of a 'divisive, race-centered ideology'; by August the White House launched a review of exhibits at eight Smithsonian museums to align them with the administration's view of history ahead of the nation's 250th anniversary. Also in March 2025, the administration placed the entire ~70-person staff of the Institute of Museum and Library Services, which funds libraries and museums nationwide, on leave; courts later blocked the effort to dismantle the agency, and the actions were reversed.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/02/07/nx-s1-5290263/trump-kennedy-center"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/08/12/nx-s1-5500550/smithsonian-trump-review"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/03/31/nx-s1-5334415/doge-institute-of-museum-and-library-services"
+      }
+    ]
+  },
+  {
+    "date": "2025-02-01",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Tariffs on Canada, Mexico, China justified by fentanyl emergency",
+    "summary": "Trump declared a national emergency over fentanyl and illegal immigration to impose 25% tariffs on Canada and Mexico and 10% on China — the first time IEEPA was ever used for tariffs.",
+    "details": "On February 1, 2025, Trump signed orders imposing 25% tariffs on most imports from Canada and Mexico (10% on Canadian energy) and 10% on China, invoking the International Emergency Economic Powers Act over fentanyl trafficking and immigration. After both neighbors announced border measures, the tariffs were paused for a month and then took effect March 4; goods qualifying under the USMCA trade agreement were exempted days later, and Canada's rate was later raised to 35%. Government data undercut the stated justification for Canada: about 43 pounds of fentanyl were seized at the northern border in 2024 versus roughly 21,100 pounds at the southern border — less than 1% of the U.S. supply. Canada and China imposed retaliatory tariffs, and Canadians began boycotting U.S. goods and travel. The Supreme Court struck down these tariffs, along with the 'Liberation Day' tariffs, in February 2026 as exceeding the president's authority under IEEPA.",
+    "sources": [
+      {
+        "name": "White House",
+        "url": "https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-imposes-tariffs-on-imports-from-canada-mexico-and-china/"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/02/27/nx-s1-5311570/fentanyl-tariffs-canada-mexico-trump"
+      },
+      {
+        "name": "Congressional Research Service",
+        "url": "https://www.congress.gov/crs-product/LSB11398"
+      }
+    ]
+  },
+  {
+    "date": "2025-02",
+    "category": "Government, Health & Science",
+    "title": "DOGE, led by Elon Musk, gains access to Treasury payment systems",
+    "summary": "A new Department of Government Efficiency headed by Elon Musk was granted access to the federal payment system that disburses about 88% of U.S. government payments.",
+    "details": "Trump created DOGE by executive order on his first day and put billionaire Elon Musk in charge as a 'special government employee.' In early February 2025, Treasury Secretary Scott Bessent granted DOGE staff access to the Bureau of the Fiscal Service, which processes roughly $5.4 trillion a year and about 88% of all federal payments. Legal filings later revealed that a 25-year-old Musk associate was 'mistakenly' given the ability to edit the payment system's code, an error Treasury said was quickly reversed. DOGE teams also sought access to sensitive personal data at agencies including the IRS, Social Security Administration, and OPM, triggering multiple lawsuits. Critics warned the Fiscal Service is legally required to make payments Congress has authorized and has no authority to unilaterally block them.",
+    "sources": [
+      {
+        "name": "Marketplace",
+        "url": "https://www.marketplace.org/story/2025/02/03/treasury-payment-system-doge-elon-musk-spending-financial"
+      },
+      {
+        "name": "ABC News",
+        "url": "https://abcnews.go.com/Politics/musk-staffer-mistakenly-ability-edit-treasury-department-payment/story?id=118726686"
+      },
+      {
+        "name": "CBPP",
+        "url": "https://www.cbpp.org/research/federal-budget/doge-access-to-treasury-payment-systems-raises-serious-risks"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-31",
+    "category": "Pardons & Rule of Law",
+    "title": "DOJ fires January 6 prosecutors, demands names of FBI agents",
+    "summary": "The Justice Department fired more than a dozen prosecutors who worked January 6 cases and ordered the FBI to hand over the names of every employee who touched those investigations.",
+    "details": "Acting Deputy Attorney General Emil Bove ordered the firings days after Trump's mass January 6 clemency; fired prosecutors said 25 to 30 colleagues were dismissed from the Washington, D.C. U.S. attorney's office. The same day, DOJ demanded the FBI identify all current and former employees who 'at any time' worked on January 6 investigations — a list potentially covering thousands of agents — for review and possible removal. Senior FBI executives and heads of major field offices, including Washington, Miami, and Las Vegas, were told to resign or be fired. Prosecutors who worked on the Trump classified-documents case were also dismissed. Additional January 6 prosecutors were abruptly fired as late as June 2025.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/01/31/politics/fbi-agents-who-investigated-january-6-fired/index.html"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/justice-department-firings-include-trump-investigators-jan-6-prosecutors/"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-31",
+    "category": "Government, Health & Science",
+    "title": "Federal health data scrubbed; new census sought to exclude immigrants",
+    "summary": "Agencies took thousands of health webpages and datasets offline to comply with a Trump gender order, and Trump ordered a new census that would exclude undocumented immigrants.",
+    "details": "Starting January 31, 2025, federal agencies removed thousands of public-health webpages and datasets, more than 8,000 pages by one count, to comply with Trump's order that agencies use 'sex' rather than 'gender.' Removed material included CDC data on HIV, sexually transmitted infections, and LGBTQ youth; some datasets were later reposted with 'gender' replaced by 'sex.' A federal judge ordered many pages restored after a doctors' group sued. Separately, on August 7, 2025, Trump ordered the Commerce Department to build a 'new' census excluding people in the country illegally, an unprecedented break from the constitutional practice of counting all residents; he attempted a similar citizenship effort in his first term, which the Supreme Court blocked.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/01/31/health/cdc-websites-gender-lgbtq-datasets/index.html"
+      },
+      {
+        "name": "STAT News",
+        "url": "https://www.statnews.com/2025/02/11/cdc-fda-hhs-restore-webpages-data-trump-executive-order-judge-ruling/"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/08/07/nx-s1-5265650/new-census-trump-immigrants-counted"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-29",
+    "category": "Immigration & Enforcement",
+    "title": "Laken Riley Act becomes first law of second term",
+    "summary": "Trump signed the Laken Riley Act, requiring detention without bond of noncitizens merely arrested for or charged with theft, burglary, and certain other crimes.",
+    "details": "Named for a Georgia nursing student killed by a Venezuelan man who had entered the country illegally, the law mandates ICE detention based on charges alone, not convictions, for offenses including shoplifting, burglary, assault on a police officer, and any crime causing death or serious injury. It contains no exception for minors and applies even to people with legal protections such as DACA or pending asylum claims. It also lets state attorneys general sue the federal government over immigration enforcement decisions. The bill passed with bipartisan support: 12 Senate Democrats and 46 House Democrats voted yes. It was the first bill Trump signed in his second term and significantly expanded the population ICE is legally required to detain.",
+    "sources": [
+      {
+        "name": "Department of Homeland Security",
+        "url": "https://www.dhs.gov/news/2025/01/29/president-trump-signs-laken-riley-act-law"
+      },
+      {
+        "name": "National Immigration Project",
+        "url": "https://nipnlg.org/work/resources/practice-advisory-laken-riley-acts-mandatory-detention-provisions"
+      },
+      {
+        "name": "CLINIC",
+        "url": "https://www.cliniclegal.org/resources/what-does-laken-riley-act-require"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-24",
+    "category": "Government, Health & Science",
+    "title": "Trump fires at least 17 inspectors general in week one",
+    "summary": "In a late-night purge, Trump dismissed at least 17 independent agency watchdogs, defying a law requiring 30 days' notice to Congress.",
+    "details": "On January 24, 2025, Trump fired at least 17 inspectors general, the independent watchdogs who investigate waste, fraud, and abuse at agencies including Defense, State, HUD, Veterans Affairs, Energy, and Transportation. The IGs were notified by email citing 'changing priorities.' The move violated a provision of the Inspector General Act requiring the president to give Congress 30 days' notice plus case-specific reasons before removing an IG. In September 2025, federal judge Ana Reyes ruled the firings were unlawful but declined to reinstate the officials, noting Trump could simply re-fire them after giving the required notice. Critics called it a 'Friday night purge' that stripped oversight from much of the executive branch.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/01/25/g-s1-44771/trump-fires-inspectors-general"
+      },
+      {
+        "name": "Lawfare",
+        "url": "https://www.lawfaremedia.org/article/trump-fired-17-inspectors-general-was-it-legal"
+      },
+      {
+        "name": "Government Executive",
+        "url": "https://www.govexec.com/oversight/2025/09/fired-watchdogs-cant-be-reinstated-despite-trumps-obvious-law-breaking-court-decides/408387/"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-21",
+    "category": "Pardons & Rule of Law",
+    "title": "Full pardon for Silk Road founder Ross Ulbricht",
+    "summary": "Trump granted a full, unconditional pardon to Ross Ulbricht, who was serving life without parole for running the Silk Road dark-web drug marketplace.",
+    "details": "Ulbricht operated Silk Road from 2011 to 2013 under the alias 'Dread Pirate Roberts,' running an anonymous online market where users bought and sold illegal drugs with bitcoin. He was convicted in 2015 on charges including distributing narcotics and sentenced to life in prison; he served more than 11 years. Trump promised the release at the Libertarian National Convention in May 2024 while courting libertarian and cryptocurrency voters, and the crypto industry spent more than $100 million supporting the 2024 election. The pardon was one of Trump's first individual clemency acts of the term.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/01/21/nx-s1-5270051/trump-pardons-dark-web-marketplace-creator-ross-ulbricht"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2025/01/21/trump-pardons-silk-road-ross-ulbricht-.html"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-21",
+    "category": "Government, Health & Science",
+    "title": "'Drill, baby, drill': energy emergency, more drilling, offshore wind halted",
+    "summary": "Trump declared a national energy emergency, opened protected lands and waters to drilling, and moved to stop offshore wind projects.",
+    "details": "On his first day, Trump declared a 'national energy emergency' to fast-track fossil-fuel projects and reopened the Arctic National Wildlife Refuge and over 13 million acres of the National Petroleum Reserve in Alaska to oil and gas leasing, though early lease sales drew little industry interest. He issued orders to prop up aging coal plants and, in January 2025, moved to block new wind projects on federal land and water. A federal judge struck that order down as 'arbitrary and capricious' in 2025, but in December 2025 the Interior Department paused five East Coast offshore wind projects, including Vineyard Wind, Revolution Wind, and Coastal Virginia, citing national-security radar concerns. In November 2025 the administration also proposed opening about 1.27 billion acres offshore to drilling, including off California and the eastern Gulf.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/01/22/nx-s1-5269717/trump-energy-emergency-climate"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/12/22/g-s1-103320/offshore-wind-power-pause-trump-administration-new-england-new-york-virginia-national-security"
+      },
+      {
+        "name": "Skift",
+        "url": "https://skift.com/2025/01/21/alaska-arctic-oil-gas-drilling-donald-trump-executive-order/"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-20",
+    "category": "Pardons & Rule of Law",
+    "title": "Day-one clemency for about 1,500 January 6 defendants",
+    "summary": "Hours after taking office, Trump pardoned roughly 1,500 people charged in the January 6, 2021 Capitol attack and commuted the sentences of 14 Oath Keepers and Proud Boys leaders.",
+    "details": "The proclamation covered nearly everyone charged over the Capitol attack, including more than 600 people convicted of assaulting or obstructing police officers and about 170 charged with using a deadly or dangerous weapon. Fourteen militia figures, including Oath Keepers founder Stewart Rhodes, had their sentences commuted rather than pardoned, while Proud Boys leader Enrique Tarrio, serving 22 years for seditious conspiracy, received a full pardon. The order also directed the Justice Department to dismiss roughly 300 pending January 6 cases. During the campaign Trump had suggested he would review cases individually; the final action was a blanket grant. By June 2026, at least 97 recipients of this clemency had been arrested for, charged with, or convicted of new crimes.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/01/20/g-s1-36809/trump-pardons-january-6-riot"
+      },
+      {
+        "name": "Wikipedia (documented overview)",
+        "url": "https://en.wikipedia.org/wiki/Pardon_of_January_6_United_States_Capitol_attack_defendants"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-20",
+    "category": "Immigration & Enforcement",
+    "title": "Day-one order attempts to end birthright citizenship",
+    "summary": "Hours after taking office, Trump signed Executive Order 14160 denying automatic citizenship to U.S.-born children of undocumented or temporary-visa parents. Courts blocked it immediately.",
+    "details": "The order, set to take effect February 19, 2025, would have denied citizenship documents to babies born in the U.S. unless a parent was a citizen or green-card holder, upending the standard reading of the 14th Amendment in place since 1868. A federal judge blocked it within three days, calling it 'blatantly unconstitutional,' and every court to review it agreed. On June 27, 2025, the Supreme Court in Trump v. CASA handed the administration a procedural win by limiting judges' power to issue nationwide injunctions, but did not rule on the order's legality. Lawyers quickly used class actions and state lawsuits to keep the policy blocked nationwide, so it never took effect anywhere while the merits case moved toward the Supreme Court.",
+    "sources": [
+      {
+        "name": "NAACP Legal Defense Fund",
+        "url": "https://www.naacpldf.org/case-issue/know-your-rights-birthright-citizenship/"
+      },
+      {
+        "name": "SCOTUSblog",
+        "url": "https://www.scotusblog.com/2025/06/supreme-court-sides-with-trump-administration-on-nationwide-injunctions-in-birthright-citizenship-case/"
+      },
+      {
+        "name": "Congressional Research Service",
+        "url": "https://www.congress.gov/crs-product/LSB11331"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-20",
+    "category": "Government, Health & Science",
+    "title": "U.S. withdraws from the Paris climate accord and the WHO",
+    "summary": "On his first day, Trump signed orders to pull the U.S. out of the Paris Agreement and the World Health Organization; both withdrawals took formal effect in early 2026.",
+    "details": "On January 20, 2025, Trump signed executive orders beginning U.S. withdrawal from the Paris climate agreement (Executive Order 14162) and the World Health Organization (Executive Order 14155). Under each body's rules, the exits required a one-year notice: the WHO withdrawal formally completed on January 22, 2026, and the Paris withdrawal took effect January 27, 2026. The U.S. stopped funding the WHO and pulled its personnel. In January 2026, the administration further announced withdrawal from dozens of international organizations. The WHO exit ended U.S. participation in global disease surveillance and pandemic coordination, and the Paris exit made the U.S. the only country outside the accord.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/01/21/nx-s1-5266207/trump-paris-agreement-biden-climate-change"
+      },
+      {
+        "name": "CDC Newsroom",
+        "url": "https://www.cdc.gov/media/releases/2026/united-states-completes-who-withdrawal.html"
+      },
+      {
+        "name": "Congress.gov (CRS)",
+        "url": "https://www.congress.gov/crs-product/R48504"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-17",
+    "category": "Crypto & Personal Profit",
+    "title": "Trump launches $TRUMP memecoin three days before inauguration",
+    "summary": "Trump launched his own cryptocurrency, the $TRUMP memecoin, on January 17, 2025. Trump-owned companies kept 80% of the coins and collected hundreds of millions in trading fees while more than 810,000 buyers lost money.",
+    "details": "A memecoin is a cryptocurrency with no underlying business or product; its price is driven purely by hype. Trump announced $TRUMP on social media on January 17, 2025, and the price briefly hit about $75 on January 19, putting the market value of circulating coins near $15 billion and briefly valuing the 80% of coins held by two Trump-owned entities — CIC Digital LLC and Fight Fight Fight LLC — in the tens of billions of dollars on paper. Melania Trump launched her own $MELANIA coin two days later. The price then crashed; by early February, analysis firm Chainalysis found about 813,000 wallets had lost a combined $2 billion, while wallets tied to the coin's creators had collected roughly $100 million in trading fees — over $320 million by late April. A Financial Times analysis found the project netted at least $350 million from token sales and fees. Because anyone in the world can buy the coin anonymously, ethics lawyers from both parties described it as an unprecedented way to funnel money to a sitting president.",
+    "sources": [
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2025/02/11/trump-memecoin-traders-2-billion-dollar-loss-family-100-million-fees/"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2025/05/06/trump-meme-coin-crypto.html"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/graphics/2025-trump-token-memecoin-crypto-finance/"
+      }
+    ]
+  },
+  {
+    "date": "2025-01",
+    "category": "Crypto & Personal Profit",
+    "title": "World Liberty Financial: the Trump family's own crypto company",
+    "summary": "The Trump family co-founded a crypto venture, World Liberty Financial, that sells its own digital token (WLFI). A Trump family entity is entitled to 75% of the money from token sales and holds 22.5 billion tokens.",
+    "details": "World Liberty Financial launched in September 2024 with Donald Trump listed as 'co-founder emeritus' and sons Eric, Don Jr. and Barron as co-founders, alongside Zach Witkoff, son of Trump's Middle East envoy Steve Witkoff. The company sells a digital token called WLFI; under its own terms, a Trump-family entity receives 75% of net proceeds from token sales and holds 22.5 billion tokens. Sales were slow before the election but surged afterward as buyers — many of them foreign investors and crypto firms with business before U.S. regulators — poured in roughly $550 million across two token sales by March 2025. Trump's June 2025 financial disclosure reported he had personally earned $57.35 million from the venture in 2024. Because the president sets crypto policy and appoints the regulators who oversee the industry, ethics experts said the arrangement lets anyone, including foreign governments, send money directly to the sitting president's family by buying the token. The venture generated about $1.4 billion in revenue in its first 16 months.",
+    "sources": [
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/crypto/2025/05/07/world-liberty-financial-wlfi-trump-binance-mgx-stablecoin-deal/"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2025/11/18/senator-probe-warren-trump-crypto-world-liberty-financial-usd1-wlfi-ties-north-korea-russia-iran.html"
+      }
+    ]
+  },
+  {
+    "date": "2024-12-14",
+    "category": "Press, Speech & Democracy",
+    "title": "ABC pays Trump $15 million; Trump sues Iowa pollster over poll",
+    "summary": "ABC News settled a Trump defamation suit by paying $15 million toward his presidential library, and days later Trump sued the Des Moines Register and pollster J. Ann Selzer over a pre-election poll.",
+    "details": "ABC settled after anchor George Stephanopoulos repeatedly said on air that a jury found Trump 'raped' E. Jean Carroll; the jury had found him liable for sexual abuse and defamation, not rape as defined under New York law. ABC agreed to pay $15 million to Trump's future presidential foundation and museum, plus $1 million in his attorneys' fees, and posted a statement of regret. On December 16, Trump sued Gannett's Des Moines Register and veteran pollster Ann Selzer under Iowa's Consumer Fraud Act over a final poll showing Kamala Harris ahead by 3 points in Iowa; Trump won the state by 13. Trump dropped the federal case in mid-2025 and refiled in state court, where the Foundation for Individual Rights and Expression is defending Selzer for free; a companion federal suit by a Trump-allied group was dismissed in November 2025. Press-freedom advocates said the settlement and the pollster suit signaled a strategy of using litigation costs to pressure news organizations.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2024/12/14/politics/trump-abc-news-defamation-lawsuit-settle/index.html"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2024/12/14/nx-s1-5229089/abc-e-jean-carroll-trump-george-stephanopoulos"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/politics/donald-trump/trump-lawsuit-iowa-poll-ann-selzer-des-moines-register-kamala-harris-rcna216078"
+      }
+    ]
+  },
+  {
+    "date": "2024-11",
+    "category": "Crypto & Personal Profit",
+    "title": "Donald Trump Jr. joins venture fund 1789 Capital",
+    "summary": "Right after the election, Donald Trump Jr. became a partner at 1789 Capital, a Palm Beach venture capital firm. Its assets grew roughly 17-fold during his father's first year back in office, and companies it backs have received federal contracts.",
+    "details": "1789 Capital was founded in 2022 by investment banker Omeed Malik and markets itself as an 'anti-ESG' fund investing in conservative-aligned companies. In November 2024, weeks after the election, Donald Trump Jr. announced he would join as a partner rather than take a government job. The fund's assets under management grew from about $200 million to more than $1 billion by September 2025 and to roughly $3.5 billion within about a year, according to the Financial Times. Companies in its portfolio have received hundreds of millions of dollars in contracts and loans from the Trump administration, including from the Pentagon, prompting Senators Elizabeth Warren, Richard Blumenthal and Andy Kim to demand information about whether the president's son's firm was profiting from his father's government. Ethics experts note the arrangement is legal but lets investors buy a stake in a fund whose partner has direct access to the president.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/01/23/business/donald-trump-jr-conflicts-of-interest-defense-1789"
+      },
+      {
+        "name": "BNN Bloomberg",
+        "url": "https://www.bnnbloomberg.ca/business/2025/09/08/trump-linked-venture-fund-1789-capital-tops-us1-billion-in-assets/"
+      },
+      {
+        "name": "Sen. Warren press release",
+        "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-kim-sound-alarm-on-potential-for-donald-trump-jr-linked-companies-to-profit-off-department-of-defense-contract-awards-loans/"
+      }
+    ]
+  }
+];
