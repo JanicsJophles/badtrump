@@ -39,6 +39,15 @@ python3 -m http.server 8000
 - `app.js` — rendering, search, filters, ticker, deep links
 - `data.js` — the content: `window.ENTRIES`, an array of entry objects
 
+## Weekly auto-updates
+
+A cron job on homelab LXC 207 (forge-runner) runs `scripts/weekly-update.sh` every Monday at 16:03 UTC (9:03 AM PT). It launches headless Claude Code with `scripts/weekly-prompt.md`: researches the past week's news, adds fact-checked entries to `data.js`, and opens a PR for human review — it never pushes to `main`. Merging the PR redeploys the site via GitHub Pages.
+
+- Repo checkout on the box: `/opt/repos/badtrump`
+- Auth: reuses the forge runner's Claude OAuth token and stored git credential at runtime
+- Log: `/var/log/receipts-weekly.log` on LXC 207
+- Cron entry: `3 16 * * 1 /bin/bash /opt/repos/badtrump/scripts/weekly-update.sh >> /var/log/receipts-weekly.log 2>&1`
+
 ## Adding or correcting an entry
 
 Edit `data.js`. Each entry:
