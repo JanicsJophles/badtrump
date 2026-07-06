@@ -2,11 +2,134 @@
 // Compiled and fact-checked from the cited reporting. Corrections welcome (with sources).
 window.ENTRIES = [
   {
+    "date": "2026-07-05",
+    "category": "Military & National Security",
+    "title": "National Guard troops fatally shoot man during Memphis patrol",
+    "summary": "Two Tennessee National Guard soldiers patrolling under Trump's Memphis crime task force shot and killed 20-year-old Tyrin Johnson during a foot pursuit — the first fatal shooting by Guard troops since the year-old domestic deployment began.",
+    "details": "Memphis police and National Guard members were responding to reports of gunfire in downtown Memphis around 4 a.m. on July 5, 2026, when they spotted Johnson carrying a handgun and chased him on foot. Authorities said two Guard members opened fire after Johnson turned toward them with his weapon; he was shot twice in the chest and pronounced dead at the scene, and no officers were hurt. Johnson, a 20-year-old Nashville construction worker and college student who had a child born earlier in the year, was identified by the Tennessee Bureau of Investigation, which is investigating the shooting at the request of the Shelby County district attorney. The Guard has patrolled Memphis since October 2025 under Trump's 'Memphis Safe' federal task force, one of several Democrat-led cities where he deployed troops over local officials' objections, at a cost projected to exceed $1 billion a year. It followed a November 2025 incident in which a gunman shot two Guard members near the White House, killing one.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/07/05/nx-s1-5883091/national-guard-fatal-shooting-memphis"
+      },
+      {
+        "name": "PBS News",
+        "url": "https://www.pbs.org/newshour/nation/national-guard-members-on-patrol-in-memphis-fatally-shoot-man-during-pursuit-police-say"
+      },
+      {
+        "name": "ABC News",
+        "url": "https://abcnews.com/US/wireStory/national-guard-members-patrol-memphis-fatally-shoot-man-134501865"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-05",
+    "category": "Immigration & Enforcement",
+    "title": "ICE contracts for 528-bed detention site for migrant children",
+    "summary": "ICE signed a contract in late June 2026 to build a 528-bed 'staging' facility for migrant families and unaccompanied children next to the airport in Alexandria, Louisiana, the country's busiest deportation-flight hub.",
+    "details": "ICE contracted with a nonprofit arm of the private prison company LaSalle Corrections to convert a former military base next to Alexandria International Airport, about 175 miles northwest of New Orleans, into a family and children's holding facility that could open as early as August 2026. More than 4,400 immigration-enforcement flights moved through that airport in 2025, and the agency said locating the facility there removes the logistical burden of gathering children from foster homes and shelters nationwide before deportation flights. ICE calls the site a 'staging area' rather than a detention center, saying people would be held no more than 72 hours, and has told contractors not to use bars or cages, to let families wear their own clothes, and to skip headcounts. Child-welfare advocates, including Leecia Welch of Children's Rights, said the description understates the risk, warning children could be held for weeks or months with insufficient independent oversight and that families may be pressured into 'voluntary' departures without understanding their rights. The facility adds to a broader expansion of family detention capacity funded by the $45 billion the 2025 tax-and-spending law devoted to new ICE detention beds.",
+    "sources": [
+      {
+        "name": "ABC News",
+        "url": "https://abcnews.com/US/wireStory/new-ice-facility-speed-deportations-families-kids-134507955"
+      },
+      {
+        "name": "NOLA.com",
+        "url": "https://www.nola.com/news/ice-facility-alexandria-airport/article_5b068250-b752-4d7b-8320-5c95b2d505dc.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-04",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Trump holds dueling Putin and Zelenskyy calls before NATO summit",
+    "summary": "Trump spoke by phone with Vladimir Putin for about 90 minutes on July 4, 2026, then separately with Volodymyr Zelenskyy, reviving Ukraine peace diplomacy days before meeting both leaders at the NATO summit in Turkey.",
+    "details": "Kremlin aide Yuri Ushakov described the July 4 Putin call as 'businesslike and quite constructive,' saying Trump 'once again confirmed his readiness to work towards a rapid end to the fighting' in Ukraine. Trump separately called Zelenskyy the same day; the two reviewed the roughly 1,200-kilometer front line and diplomatic options, with Zelenskyy thanking the U.S. for support 'from Javelins and Patriots to political support.' The calls came three days before the 36th NATO summit opened in Ankara, Turkey on July 7-8, 2026, where Trump was scheduled to meet separately with Zelenskyy and Syrian President Ahmed al-Sharaa, and where Trump and Putin planned direct talks on July 8. The renewed diplomacy followed more than a year of on-and-off administration efforts to end the war, after Trump's campaign promise to settle it within 24 hours of taking office.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/world/ukraine/trump-holds-90-minute-call-putin-speaks-zelenskyy-ahead-nato-summit-rcna353010"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/07/05/europe/putin-trump-call-independence-day-intl"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "category": "Pardons & Rule of Law",
+    "title": "Pardons donor and 9 Clean Air Act 'defeat device' sellers",
+    "summary": "Trump pardoned 11 people on July 3, 2026, including Republican donor and former Jack Abramoff business partner Adam Kidan and nine people convicted of selling devices that disable vehicle emissions controls.",
+    "details": "Kidan pleaded guilty in 2006 to fraud and conspiracy in the SunCruz Casinos scandal alongside lobbyist Jack Abramoff and served nearly six years in prison; federal election records show he has donated close to $4 million to Republican campaigns and committees since 2017, including Trump's, and has hosted a fundraiser at Mar-a-Lago. The same clemency batch freed nine people convicted of violating the Clean Air Act by manufacturing, selling, or installing 'defeat devices' that disable diesel-truck emissions monitoring; Trump wrote on Truth Social that he was 'setting them all free' as victims of a 'weaponized' Biden Justice Department. The pardons came four days after Trump signed a 'Freedom to Fix' memorandum directing the EPA to let Americans use aftermarket emissions parts certified under an industry program and to deprioritize civil enforcement against individuals who repair their own vehicles — though the pardoned defendants were commercial sellers, not individual car owners. The clemency extended a second-term pattern in which the administration says it is correcting prosecutorial overreach while watchdog groups note recipients' financial and political ties to Trump.",
+    "sources": [
+      {
+        "name": "Fox News",
+        "url": "https://www.foxnews.com/politics/trump-pardons-9-people-convicted-tampering-emission-controls-diesel-engines"
+      },
+      {
+        "name": "The White House",
+        "url": "https://www.whitehouse.gov/presidential-actions/2026/06/lowering-the-cost-of-living-by-promoting-the-freedom-to-fix/"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "category": "Government, Health & Science",
+    "title": "Record plan to scrap 702 federal regulations unveiled",
+    "summary": "The White House released a semiannual regulatory agenda proposing to eliminate 702 rules — the largest deregulation pipeline of Trump's presidency — projecting up to $1.5 trillion in savings, mostly from the EPA's climate rule repeal.",
+    "details": "The plan, published July 3, 2026, targets roughly twice as many rules at once as were ever in motion during Trump's first term, on top of 752 rollbacks the administration says it has already finalized since the fiscal year began October 1, 2025. Targeted rules include environmental-review requirements for energy projects, federal energy-efficiency standards, EEOC 'disparate impact' discrimination standards, FDA nutrient-labeling requirements, and diversity, equity and inclusion rules across agencies. The administration credited $1.3 trillion of its projected $1.5 trillion in savings to the February 2026 repeal of the EPA's 'endangerment finding,' the legal basis for regulating greenhouse gases. The same agenda proposes some new rules, including stricter 'public charge' restrictions denying federal benefits to undocumented immigrants. Environmental and consumer groups disputed the administration's savings figures, saying the analysis undercounts the value of the safety, health and environmental protections being removed.",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-04/trump-ramps-up-war-on-regulations-with-702-cuts-in-pipeline"
+      },
+      {
+        "name": "The Spokesman-Review",
+        "url": "https://www.spokesman.com/stories/2026/jul/04/trump-ramps-up-war-on-regulations-with-702-cuts-in/"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-02",
+    "category": "Promises vs. Reality",
+    "title": "June jobs report misses forecasts; prior months revised down",
+    "summary": "The economy added just 57,000 jobs in June 2026, less than half the roughly 110,000-115,000 forecast, and the Labor Department revised April and May job growth down by a combined 74,000.",
+    "details": "The Bureau of Labor Statistics reported on July 2, 2026 that nonfarm payrolls rose by 57,000 in June, well below economist forecasts, while the unemployment rate edged down to 4.2% from 4.3% — a decline driven mainly by fewer people participating in the labor force rather than a hiring surge. Leisure and hospitality employment fell by 61,000, reflecting weaker-than-usual seasonal hiring, and May's job gain was revised down from 172,000 to 129,000 while April's was cut from 179,000 to 148,000. It was the first June jobs report produced since Trump fired BLS Commissioner Erika McEntarfer in August 2025 over a weak July 2025 report and unsubstantiated claims the numbers were 'rigged'; the new report showed the same kind of downward revisions that had prompted his complaint a year earlier. Economists said the data added to signs the labor market was losing momentum after several resilient years — a politically awkward result for an administration that has repeatedly cited job growth as evidence its policies are working.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/business/economy/june-jobs-report-stable-hiring-rcna352603"
+      },
+      {
+        "name": "Newsweek",
+        "url": "https://www.newsweek.com/jobs-report-june-2026-undershoots-expectations-blow-for-donald-trump-economy-12150863"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-01",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Trump lets USMCA renewal deadline pass, opts for review",
+    "summary": "The U.S., Canada and Mexico held USMCA's first mandatory six-year review on July 1, 2026, and Trade Representative Jamieson Greer said the administration would not renew the pact in its current form, triggering up to a decade of annual reviews instead.",
+    "details": "The review was required under a 'sunset clause' built into the 2020 deal — the first such provision in any U.S. free-trade agreement — meant to let Washington periodically press Canada and Mexico for concessions. Because the three countries did not agree to renew or terminate the pact, it now enters annual joint reviews for up to 10 years; if no extension is reached, USMCA automatically expires in July 2036. The decision does not immediately change tariffs or trading privileges, and officials said bilateral talks with Canada and Mexico would continue, with a third round scheduled for the week of July 20, 2026 in Mexico City focused on automotive rules of origin, steel and aluminum, and reducing reliance on Chinese supply chains. Formal withdrawal from USMCA would require congressional approval, which officials on both sides considered unlikely given the economic disruption it would cause. The separate reciprocal tariffs Trump had imposed on Canadian and Mexican goods outside the deal were struck down by the Supreme Court in February 2026 as exceeding his authority under emergency powers law.",
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/01/trump-usmca-canada-mexico-trade-treaty.html"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/business/economy/trump-usmca-renewal-tariffs-trade-rcna352594"
+      }
+    ]
+  },
+  {
     "date": "2026-06-30",
     "category": "Crypto & Personal Profit",
     "title": "Disclosure: Trump made at least $1.4 billion from crypto in 2025",
     "summary": "Trump's annual financial disclosure, released June 30, 2026, reported at least $1.4 billion in personal crypto income for 2025. Forbes estimates his net worth roughly tripled — from about $2.4 billion to about $6 billion — since returning to office.",
-    "details": "The government ethics filing showed the presidency's first year back had transformed Trump's finances: at least $1.4 billion in crypto-related income in 2025, including about $636 million through CIC Digital, the entity behind his memecoins and digital trading cards, and roughly $515 million from World Liberty Financial token sales. That dwarfed the income from his traditional golf, hotel and licensing businesses. Forbes calculated his net worth rose from about $2.4 billion in 2024 to about $6 billion, with crypto ventures — assets that did not exist before his campaign — accounting for most of the increase; Bloomberg similarly reported in January 2026 that crypto had become the largest driver of the family fortune. Most of the crypto income came from selling tokens whose value depends heavily on the Trump name and on policies set by his own administration. No previous president's wealth has grown at this scale while in office.",
+    "details": "The government ethics filing showed the presidency's first year back had transformed Trump's finances: at least $1.4 billion in crypto-related income in 2025, including about $636 million through CIC Digital, the entity behind his memecoins and digital trading cards, and roughly $515 million from World Liberty Financial token sales. That dwarfed the income from his traditional golf, hotel and licensing businesses. Forbes calculated his net worth rose from about $2.4 billion in 2024 to about $6 billion, with crypto ventures — assets that did not exist before his campaign — accounting for most of the increase; Bloomberg similarly reported in January 2026 that crypto had become the largest driver of the family fortune. Most of the crypto income came from selling tokens whose value depends heavily on the Trump name and on policies set by his own administration. No previous president's wealth has grown at this scale while in office. The disclosure complicated the Senate's push to pass the CLARITY Act, the digital-asset market-structure bill that had already passed the House and cleared two Senate committees: Senator Adam Schiff said Trump was 'blatantly profiteering off the presidency,' and Senator Elizabeth Warren and other Democrats pressed to add an ethics provision barring the president, his family, and associates from crypto businesses, a demand Republicans were still negotiating as of July 6, 2026. While Trump profited, retail traders in his memecoin lost more than $3.8 billion since its 2025 launch, according to the analytics firm Nansen.",
     "sources": [
       {
         "name": "Bloomberg",
@@ -17,8 +140,8 @@ window.ENTRIES = [
         "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/30/trumps-financial-disclosure-major-crypto-moves-made-him-over-1-billion-in-2025/"
       },
       {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/6/30/donald-trump-reports-1-4bn-in-cryptocurrency-income-in-government-filing"
+        "name": "Fortune",
+        "url": "https://fortune.com/crypto/2026/07/06/president-donald-trump-memecoin-crypto-income-clarity-act-ethics-claus/"
       }
     ]
   },
@@ -2481,11 +2604,11 @@ window.ENTRIES = [
     "category": "Promises vs. Reality",
     "title": "Epstein files: promised release, then 'hoax' — millions of pages withheld",
     "summary": "Asked in a June 2, 2024 Fox interview whether he would declassify the Epstein files, Trump said 'Yeah, yeah, I would,' and in February 2025 Attorney General Pam Bondi said the Epstein 'client list' was 'sitting on my desk right now to review.'",
-    "details": "On February 27, 2025, Bondi handed pro-Trump influencers binders labeled 'The Epstein Files: Phase 1' that contained almost entirely already-public material. Then on July 7, 2025, an unsigned DOJ/FBI memo declared there was no 'client list' and no basis for further releases, and Trump called the affair a Democrat-perpetrated 'hoax,' attacking his own base as 'stupid,' 'foolish' and 'PAST supporters.' Congress overrode him: the House passed the Epstein Files Transparency Act 427-1 on November 18, 2025, the Senate approved it unanimously, and Trump — reversing after resisting for months — signed it November 19, 2025. The DOJ missed the law's December 19, 2025 deadline for full release, instead putting out five heavily redacted waves through January 30, 2026, totaling about 3.5 million pages while acknowledging more than 6 million documents exist; NPR reported in February 2026 that officials had removed or withheld files containing accusations related to Trump himself. Trump fired Bondi on April 2, 2026, reportedly over her handling of the files, installing Todd Blanche as acting attorney general. In late June 2026, U.S. District Judge Emmet Sullivan ruled the administration had likely violated the law and ordered the DOJ to unredact co-conspirator names, release underlying FBI interview notes — including material about unverified allegations against Trump — or justify the withholding by July 2, 2026. As of the end of June 2026, roughly half the government's Epstein records remained unreleased.",
+    "details": "On February 27, 2025, Bondi handed pro-Trump influencers binders labeled 'The Epstein Files: Phase 1' that contained almost entirely already-public material. Then on July 7, 2025, an unsigned DOJ/FBI memo declared there was no 'client list' and no basis for further releases, and Trump called the affair a Democrat-perpetrated 'hoax,' attacking his own base as 'stupid,' 'foolish' and 'PAST supporters.' Congress overrode him: the House passed the Epstein Files Transparency Act 427-1 on November 18, 2025, the Senate approved it unanimously, and Trump — reversing after resisting for months — signed it November 19, 2025. The DOJ missed the law's December 19, 2025 deadline for full release, instead putting out five heavily redacted waves through January 30, 2026, totaling about 3.5 million pages while acknowledging more than 6 million documents exist; NPR reported in February 2026 that officials had removed or withheld files containing accusations related to Trump himself. Trump fired Bondi on April 2, 2026, reportedly over her handling of the files, installing Todd Blanche as acting attorney general. In late June 2026, U.S. District Judge Emmet Sullivan ruled the administration had likely violated the law and ordered the DOJ to unredact co-conspirator names, release underlying FBI interview notes — including material about unverified allegations against Trump — or justify the withholding by July 2, 2026. As of the end of June 2026, roughly half the government's Epstein records remained unreleased. On July 2, 2026, the DOJ declined to comply, with Associate Attorney General Stanley Woodward telling the court its redactions were lawful and asking for a 60-day extension while the solicitor general considered an appeal; the department cited 'technical limitations' in scrubbing victim information from handwritten FBI notes and maintained it had already produced all legally required documents.",
     "sources": [
       {
-        "name": "PBS NewsHour",
-        "url": "https://www.pbs.org/newshour/politics/a-timeline-of-the-jeffrey-epstein-investigation-and-the-fight-to-make-the-governments-files-public"
+        "name": "ABC News",
+        "url": "https://abcnews.com/Politics/doj-declines-turn-additional-epstein-files-redactions/story?id=134430675"
       },
       {
         "name": "NPR",
