@@ -2,6 +2,112 @@
 // Compiled and fact-checked from the cited reporting. Corrections welcome (with sources).
 window.ENTRIES = [
   {
+    "date": "2026-07-12",
+    "category": "Military & National Security",
+    "title": "Ceasefire collapses: Iran shuts Hormuz, Trump threatens Khamenei",
+    "summary": "After tankers were attacked in the Strait of Hormuz, the U.S. and Iran traded fresh strikes, Iran declared the strait closed, and Trump vowed to 'decimate' Iran if it tries to assassinate him.",
+    "details": "The June 14 Islamabad Memorandum ceasefire unraveled after Iranian forces struck three vessels in the Strait of Hormuz on July 6-7, 2026 — Qatar's LNG tanker Al Rekayat, Saudi supertanker Wedyan, and the tanker Kiku — prompting CENTCOM airstrikes on Iranian military and communications sites near the strait. On July 11 the U.S. Treasury reimposed Iranian oil sanctions that had been lifted under the ceasefire, the same day mourners at newly named Supreme Leader Mojtaba Khamenei's funeral chanted for Trump's assassination; Trump responded on Truth Social that '1,000 Missiles are Locked and Loaded' and the U.S. would 'decimate and destroy' Iran if it acted on any assassination plot, while Khamenei said avenging his father's killing 'must certainly' happen. On July 12 the Cyprus-flagged container ship GFS Galaxy was hit in the strait, leaving one of 12 crew missing, and Iran's Revolutionary Guard Navy declared the Strait of Hormuz closed 'until further notice'; the U.S. answered with strikes on Iranian missile batteries, air-defense systems and fast-attack boats near Qeshm Island, reportedly killing an Iranian naval officer. Trump said the U.S. would reinstate its own blockade of Iranian ships, casting the U.S. as the strait's 'guardian' and floating charging other vessels for passage — reviving the dual-blockade standoff that had driven oil prices to record highs in March.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/07/13/world/live-news/iran-war-trump"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-11/iran-declares-strait-of-hormuz-closed-until-further-notice"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-11",
+    "category": "Press, Speech & Democracy",
+    "title": "DOJ subpoenas four NYT reporters over Air Force One story",
+    "summary": "Federal agents delivered grand jury subpoenas, some to reporters' homes, to four New York Times journalists after they reported the Qatari-donated jet lacked security upgrades, forcing Trump to fly the old Air Force One home from NATO.",
+    "details": "After Trump flew to the July 8, 2026 NATO summit in Ankara aboard the new Air Force One built from the jet Qatar donated in 2025, the Times reported the Secret Service urged him to swap back to the older plane because there had not been enough time to complete required security upgrades; he flew home on the old aircraft. On July 11 the Justice Department issued grand jury subpoenas to Times reporters Julian Barnes, Eric Lipton, Tyler Pager and Eric Schmitt, compelling testimony in Manhattan on July 16 — with some subpoenas delivered by federal agents at reporters' homes. Committee to Protect Journalists CEO called the move 'an extraordinary escalation' in efforts to 'threaten and intimidate independent news organizations,' and Senate Minority Leader Chuck Schumer called it 'a gross overreach.' It follows a pattern of legal pressure on outlets including lawsuits against The New York Times, The Wall Street Journal, The Washington Post and the BBC, and settlements with ABC and CBS's 60 Minutes.",
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-11",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Trump lets housing bill become law without signing, in 'PROTEST'",
+    "summary": "The 21st Century ROAD to Housing Act — passed 85-5 in the Senate and 358-32 in the House — became law without Trump's signature after he withheld it to pressure the Senate into passing his voter-ID bill.",
+    "details": "The bill, formally presented to Trump on June 29, included more than 45 provisions to increase housing supply: streamlining environmental reviews for new construction, funding a pilot program converting vacant commercial buildings into affordable housing, expanding support for factory-built and modular homes, and restricting large institutional investors from buying up single-family homes. Despite passing Congress by overwhelming bipartisan margins, Trump refused to sign it, posting on Truth Social, 'I will not sign the Housing Bill... in PROTEST over the fact that the United States Senate is not capable of passing THE SAVE AMERICA ACT' — his bill imposing photo-ID and citizenship-proof requirements for voter registration and restricting mail-in voting. Because the Constitution allows a bill to become law without a presidential signature after 10 days (excluding Sundays) of congressional session unless vetoed, and Trump stopped short of a veto, the ROAD to Housing Act took effect automatically on July 11, 2026.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/07/10/nx-s1-5885027/housing-bill-without-trump-signature"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/housing-bill-becomes-law-trump-sign/"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-10/trump-says-he-won-t-sign-housing-bill-keeps-focus-on-voter-id"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-10",
+    "category": "Pardons & Rule of Law",
+    "title": "Proud Boys leaders' Jan. 6 convictions wiped out with prejudice",
+    "summary": "A federal judge permanently dismissed the seditious conspiracy case against four Proud Boys leaders, completing a process Trump's day-one clemency proclamation set in motion by directing DOJ to seek dismissal, not just commutation.",
+    "details": "Ethan Nordean, Joseph Biggs, Zachary Rehl and Dominic Pezzola were convicted at trial in 2023, three of them on seditious conspiracy charges, for their roles in the January 6 Capitol attack. Trump's January 20, 2025 clemency proclamation commuted their sentences rather than pardoning them outright, but also directed the attorney general to 'pursue dismissal with prejudice' of pending January 6 cases. DOJ asked an appeals court to vacate the convictions in April 2026; the court agreed and remanded the case in May. On July 10, 2026, U.S. District Judge Timothy Kelly — a Trump appointee — granted DOJ's unopposed motion and dismissed the case with prejudice, permanently barring any future prosecution on the same charges. Kelly wrote that 'the court lacks the authority to compel the Executive to pursue a prosecution, full stop.' The ruling erases the underlying convictions, not just the sentences, for four of the most serious January 6 cases.",
+    "sources": [
+      {
+        "name": "Newsweek",
+        "url": "https://www.newsweek.com/trump-judge-drops-january-6-case-proud-boys-12184561"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-02",
+    "category": "Military & National Security",
+    "title": "Army downgrades Europe command as its general is forced out",
+    "summary": "Gen. Christopher Donahue relinquished command of U.S. Army Europe and Africa on July 2, 2026, as Defense Secretary Hegseth downgraded the post from a four-star to a three-star command, part of a purge of two dozen-plus senior officers.",
+    "details": "Donahue, also commander of NATO's Allied Land Command and best known for leading the 2021 Kabul airport evacuation, stepped down roughly halfway through what is normally a three-year assignment; Maj. Gen. Christopher Norrie became acting commander. The Pentagon offered no public explanation, but officials said Hegseth's office had been critical of Donahue for some time, with one source saying he had been unfairly tied to retired Gen. Mark Milley, a frequent target of Trump and Hegseth's criticism. Retired Lt. Gen. Ben Hodges, a former commander of the Army in Europe, called Donahue 'the best soldier in the Army today,' and retired Adm. William McRaven wrote in The Atlantic that Hegseth owed the public an explanation. The move came alongside a Pentagon-announced six-month review of U.S. force posture and basing in Europe and followed the earlier downgrade of U.S. Air Forces Europe and Africa to three-star status in 2025; Hegseth has now removed or forced the early retirement of more than two dozen senior officers since taking office.",
+    "sources": [
+      {
+        "name": "Stars and Stripes",
+        "url": "https://www.stripes.com/branches/army/2026-07-02/donahue-steps-down-22149542.html"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/06/24/politics/donahue-hegseth-europe-retirement"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-02",
+    "category": "Immigration & Enforcement",
+    "title": "ICE arrests 10,000 people in a five-day span as quotas double",
+    "summary": "ICE arrested roughly 2,000 people a day — 10,000 total over five days in late June — after the White House pushed the agency to double its daily arrest target, with Border Czar Tom Homan promising New York City 'more ICE agents than you have ever seen.'",
+    "details": "Top ICE officials pushed field offices to double daily arrest numbers after the White House called for the agency to reach 2,000 arrests per day nationwide; the resulting five-day stretch in late June and early July 2026 produced roughly 10,000 arrests, an average of about 2,000 a day. The push marked a shift from earlier high-profile, made-for-television sweeps in major cities toward quieter, higher-volume operations, according to reporting citing internal ICE communications. Border Czar Tom Homan said he had reviewed an operational plan for a major surge in New York City, telling reporters 'you are going to see more ICE agents than you have ever seen in New York City.' The surge followed the $70 billion Secure America Act funding boost Trump signed June 10, 2026, and pushed ICE's detained population toward record levels reached earlier in the year.",
+    "sources": [
+      {
+        "name": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2026/jul/2/ice-arrests-10000-five-days-sharp-late-june-surge-trumps-deportation/"
+      },
+      {
+        "name": "NewsNation",
+        "url": "https://www.newsnationnow.com/us-news/immigration/ice-10000-arrests-white-house/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-30",
     "category": "Crypto & Personal Profit",
     "title": "Disclosure: Trump made at least $1.4 billion from crypto in 2025",
@@ -1233,7 +1339,7 @@ window.ENTRIES = [
     "category": "Press, Speech & Democracy",
     "title": "Congress forces Epstein files release; DOJ ultimately publishes 3.5 million pages",
     "summary": "After newly released Epstein emails said Trump 'knew about the girls,' Congress passed the Epstein Files Transparency Act 427-1 and Trump signed it; the DOJ released millions of pages into early 2026.",
-    "details": "On November 12, 2025, House Oversight Democrats released Epstein estate emails in which Epstein wrote that Trump 'knew about the girls as he asked ghislaine to stop' and 'spent hours at my house' with a trafficking victim; the White House called the emails a hoax proving nothing, and Trump has not been accused of wrongdoing. The same day, Representative Adelita Grijalva was sworn in and provided the 218th signature on a discharge petition forcing a House vote over leadership's objections. Trump dropped his opposition, the House passed the Epstein Files Transparency Act 427-1 on November 18, the Senate passed it by unanimous consent, and Trump signed it on November 19. The DOJ's first release on December 19 was heavily redacted and criticized as covering less than 1% of its holdings, but on January 30, 2026 the department published more than 3 million additional pages, over 2,000 videos, and 180,000 images, bringing the total to about 3.5 million pages. Trump's name appears more than 3,000 times in the files, and in February 2026 a federal judge ordered the DOJ to turn over some files without redactions.",
+    "details": "On November 12, 2025, House Oversight Democrats released Epstein estate emails in which Epstein wrote that Trump 'knew about the girls as he asked ghislaine to stop' and 'spent hours at my house' with a trafficking victim; the White House called the emails a hoax proving nothing, and Trump has not been accused of wrongdoing. The same day, Representative Adelita Grijalva was sworn in and provided the 218th signature on a discharge petition forcing a House vote over leadership's objections. Trump dropped his opposition, the House passed the Epstein Files Transparency Act 427-1 on November 18, the Senate passed it by unanimous consent, and Trump signed it on November 19. The DOJ's first release on December 19 was heavily redacted and criticized as covering less than 1% of its holdings, but on January 30, 2026 the department published more than 3 million additional pages, over 2,000 videos, and 180,000 images, bringing the total to about 3.5 million pages. Trump's name appears more than 3,000 times in the files, and in February 2026 a federal judge ordered the DOJ to turn over some files without redactions. In a lawsuit by journalist Katie Phang, U.S. District Judge Emmet Sullivan ordered the DOJ by July 2, 2026 to either unredact roughly a dozen contested documents — including emails about a 'torture video' and interview notes tied to an unverified allegation that Trump abused a minor — or explain why it could not. DOJ filed its response July 9, saying it had reviewed more than 6 million pages, that about half remained withheld as duplicative, irrelevant or privileged, and that it had 'released every document required' by the transparency law; it separately confirmed the 'torture video' email's redacted recipient was Sultan Ahmed bin Sulayem.",
     "sources": [
       {
         "name": "NBC News",
@@ -1246,6 +1352,14 @@ window.ENTRIES = [
       {
         "name": "CBS News",
         "url": "https://www.cbsnews.com/live-updates/epstein-files-released-doj-2026/"
+      },
+      {
+        "name": "Newsweek",
+        "url": "https://www.newsweek.com/release-unredacted-epstein-files-or-explain-why-you-cant-judge-tells-doj-12123271"
+      },
+      {
+        "name": "The Hill",
+        "url": "https://thehill.com/regulation/court-battles/5952687-justice-department-epstein-files-phang-suit/"
       }
     ]
   },
