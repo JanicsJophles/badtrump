@@ -2,6 +2,166 @@
 // Compiled and fact-checked from the cited reporting. Corrections welcome (with sources).
 window.ENTRIES = [
   {
+    "date": "2026-07-20",
+    "category": "Military & National Security",
+    "title": "Two soldiers killed as Iran hits U.S. base in Jordan",
+    "summary": "The Pentagon identified Pvt. Isabella Gonzales, 19, and 1st Lt. Tyler James Feehan, 25, killed when Iran struck Muwaffaq Salti Air Base in Jordan on July 17-18, 2026, with a third service member still missing.",
+    "details": "Gonzales, of Carrollton, Texas, and assigned to the 1st Battalion, 57th Air Defense Artillery Regiment based in Ansbach, Germany, was killed on July 17; Feehan, of Ewa Beach, Hawaii, and assigned to the 2nd Battalion, 55th Air Defense Artillery Regiment at Fort Bragg, North Carolina, was killed the next day. Both were air-defense soldiers at the base when Iranian missiles struck; a third service member remained missing, with unidentified remains found at the site still being examined as of July 20. The Pentagon released the soldiers' names on July 20, and Defense Secretary Pete Hegseth said 'their sacrifice only stiffens our resolve.' A separate soldier died July 18 in Iraq during a controlled detonation of unexploded ordnance from a downed Iranian drone. The deaths came during the eighth consecutive night of U.S. retaliatory strikes after the July 6-8 collapse of the Islamabad Memorandum ceasefire, with CENTCOM describing the strikes as aimed at degrading Iran's ability to threaten shipping in the Strait of Hormuz.",
+    "sources": [
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/"
+      },
+      {
+        "name": "Military Times",
+        "url": "https://www.militarytimes.com/flashpoints/middle-east/2026/07/20/pentagon-identifies-american-soliders-killed-in-iranian-attack-in-jordan/"
+      },
+      {
+        "name": "Stars and Stripes",
+        "url": "https://www.stripes.com/branches/army/2026-07-20/troops-killed-jordan-attack-iran-22316454.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-20",
+    "category": "Economy, Tariffs & Foreign Policy",
+    "title": "Gas hits $4 a gallon again as Iran war drags into third week",
+    "summary": "AAA data showed the national average for regular gasoline at $4.003 a gallon on July 20, 2026 — up from $3.87 a week earlier and $3.14 a month earlier — as fighting in the Strait of Hormuz disrupted oil flows.",
+    "details": "The national average was more than 86 cents above the same date in 2025, and diesel — which fuels trucking and agriculture — rose to $5.10 a gallon. Brent crude traded around $88-91 a barrel as shippers grew reluctant to send tankers through the Strait of Hormuz despite Trump's insistence the U.S. now controls it, tightening supply while demand held steady. It was the second time in 2026 gas topped $4 nationally because of the Iran war, after an earlier spike in March during the war's opening weeks. UBS chief economist Paul Donovan warned that 'economic gravity' — sustained higher energy costs eating into household budgets — would eventually catch up with American consumers even though they had absorbed the increases so far without major disruption to spending.",
+    "sources": [
+      {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/07/20/us-gas-prices-top-4-again-as-iran-war-continues-to-escalate/"
+      },
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2026/07/20/gas-4-dollars-per-gallon-iran-war"
+      },
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/07/20/gas-prices-iran-us-war-economic-gravity-warning-ubs/"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-17",
+    "category": "Immigration & Enforcement",
+    "title": "ICE on pace for record month; arrests average 1,433 a day",
+    "summary": "ICE averaged 1,433 arrests a day over the first 12 days of July 2026, putting the agency on pace to exceed 44,000 arrests for the month and top June's record of 39,500.",
+    "details": "The daily average was up from 1,319 in June, and far above the 1,164, 1,025 and 954 daily averages recorded in January, February and March 2026 respectively, reflecting a steady escalation through the year. The administration has set an operational target of roughly 2,800 arrests a day, the pace officials say is needed to reach Trump's stated goal of deporting one million people annually. ICE exceeded 2,000 arrests in a single day several times in July, aided by $350 million in additional funding for arrests in sanctuary jurisdictions under the Secure America Act, which Trump signed June 10, 2026. Defending the pace, Trump posted on Truth Social that the administration could not 'give up one of ICE's most important and effective Crime fighting tools, THE TRAFFIC STOP.'",
+    "sources": [
+      {
+        "name": "The Washington Post",
+        "url": "https://www.washingtonpost.com/immigration/2026/07/17/ice-arrests-have-surged-july-reaching-high-under-trump/"
+      },
+      {
+        "name": "The National Pulse",
+        "url": "https://thenationalpulse.com/2026/07/17/ice-arrests-hit-record-average-of-1400-a-day-this-month/"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-17",
+    "category": "Press, Speech & Democracy",
+    "title": "DHS caps foreign journalists' U.S. visas at 240 days, 90 for Chinese",
+    "summary": "DHS finalized a rule ending the open-ended 'duration of status' that foreign journalists had held on I-visas since 1985, replacing it with fixed admission periods of 240 days — or 90 days for Chinese nationals — subject to renewal.",
+    "details": "The rule, published July 17, 2026 and taking effect 60 days after Federal Register publication, applies to roughly 37,330 foreign journalists and their families who held I-visas as of fiscal year 2024, along with new limits on F-1 student and J-1 exchange visas. Journalists must now file extension applications with U.S. Citizenship and Immigration Services to remain beyond the initial period, each renewal capped at the same 240 or 90 days. The Committee to Protect Journalists called it 'the latest escalation' in 'a pattern of deeply concerning press freedom violations from this administration' and urged Congress to ensure visa decisions do not turn on the content of reporting; the Reporters Committee for Freedom of the Press also condemned the rule. It follows the July 11 grand jury subpoenas of four New York Times reporters and a broader pattern of legal pressure on news organizations during Trump's second term.",
+    "sources": [
+      {
+        "name": "Committee to Protect Journalists",
+        "url": "https://cpj.org/2026/07/cpj-condemns-trump-administration-rule-restricting-international-correspondents-access-to-the-united-states/"
+      },
+      {
+        "name": "TIME",
+        "url": "https://time.com/article/2026/07/16/student-journalist-media-visa-limit-rule-trump-administration/"
+      },
+      {
+        "name": "Reporters Committee for Freedom of the Press",
+        "url": "https://www.rcfp.org/dhs-foreign-journalist-visa-rule/"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-16",
+    "category": "Military & National Security",
+    "title": "D.C. National Guard deployment extended through end of Trump's term",
+    "summary": "The Pentagon confirmed the 2,500-troop National Guard deployment to Washington, D.C. — begun by executive order in August 2025 over a declared 'crime emergency' — will continue until January 20, 2029, 'or until terminated by the President.'",
+    "details": "The deployment had been set to expire at the end of 2026; the Pentagon's extension, confirmed by email July 16, 2026, stretches it through the rest of Trump's term. Because Washington is a congressionally established federal district rather than a state, Trump has direct control over its Guard that he lacks over state forces — a distinction that let the D.C. deployment continue even after courts paused similar deployments in California and Illinois. D.C. Council Chairman Phil Mendelson said 'taxpayers are paying more than a million dollars a day' for the mission, and district officials noted crime had already been declining before troops arrived in 2025.",
+    "sources": [
+      {
+        "name": "U.S. News & World Report",
+        "url": "https://www.usnews.com/news/politics/articles/2026-07-16/national-guard-deployment-to-dc-will-last-through-trumps-term"
+      },
+      {
+        "name": "Military.com",
+        "url": "https://www.military.com/national-guard-deployment-to-dc-will-last-through-trumps-term"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/07/16/politics/national-guard-deployment-dc-trump"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-16",
+    "category": "Press, Speech & Democracy",
+    "title": "Primetime 'election vulnerabilities' address contradicted by his own intel",
+    "summary": "In a 28-minute address, Trump declassified documents he said showed 'shocking vulnerabilities' and Chinese interference in U.S. elections, but fact-checkers found the underlying intelligence undercut his own claims.",
+    "details": "Trump said China obtained data on 220 million U.S. voters and that DHS found about 278,000 noncitizens registered to vote, while pressing Congress to pass his SAVE America Act voter-ID bill. The declassified documents told a different story: a January 2020 intelligence memo he cited concluded election systems 'would be difficult to manipulate on a wide enough scale to alter the election outcome,' and a declassified assessment said Chinese efforts to undermine his 2020 reelection chances came 'primarily through social media and official public statements,' not by touching vote counts. Election experts called the 278,000 noncitizen-voter figure methodologically unreliable, saying it appeared to sweep in large numbers of deceased and legitimately registered citizens; a White House adviser separately acknowledged intelligence agencies had 'zero evidence that someone flipped a vote in 2020, '22 or '24.' The speech followed a July 10 DHS rule withholding 20% of roughly $1.1 billion in FEMA homeland-security grants from states that don't adopt federal voter-roll verification and hand-marked paper ballots, and a July 15 House budget resolution setting aside $10 billion to reward states that adopt photo-ID and citizenship-proof requirements the Senate has refused to pass as standalone law.",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/07/16/nx-s1-5896448/trump-election-address"
+      },
+      {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/politics/trump-says-these-documents-prove-his-false-claims-of-election-fraud-heres-what-they-really-say"
+      },
+      {
+        "name": "FactCheck.org",
+        "url": "https://www.factcheck.org/2026/07/factchecking-trumps-election-security-speech/"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-16",
+    "category": "Crypto & Personal Profit",
+    "title": "Trump Media to sell Wall Street early access to his Truth Social posts",
+    "summary": "Trump Media announced 'Truth PSI,' a paid data feed launching August 1, 2026 that delivers posts from the top 10 Truth Social accounts — including Trump's — to institutional trading firms in milliseconds, ahead of the public.",
+    "details": "Trump's own account, with 12.9 million followers, is Truth Social's most-followed and most market-moving; the accounts of Donald Trump Jr., Eric Trump and the White House are also covered by the feed. Trump owns roughly 41% of publicly traded Trump Media & Technology Group through a revocable trust, meaning he personally benefits as the company — which has struggled to turn Truth Social itself into a meaningful revenue source — seeks a new income stream by selling a speed advantage on his own statements to financial firms. Sen. Richard Blumenthal called it 'yet another example of flagrant corruption, trading access to the White House for Trump's self-enrichment.' Trump has previously used Truth Social to promote companies in which he holds a personal financial stake.",
+    "sources": [
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/07/17/trump-media-truth-psi-fast-market-posts/"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/16/trump-truth-social-wall-street-traders-api.html"
+      },
+      {
+        "name": "The Hill",
+        "url": "https://thehill.com/policy/technology/5972998-trump-media-technology-group-launch-truth-api/"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "Civil Rights & Culture",
+    "title": "HHS shelves plan to cut Medicare/Medicaid funds over trans youth care",
+    "summary": "Facing over 30,000 mostly opposing public comments, HHS will not finalize a proposed rule that would have stripped Medicare and Medicaid funding from any hospital providing gender-affirming care to minors, an internal document showed.",
+    "details": "The rule, part of the administration's broader push to end pediatric gender-affirming care nationwide, drew formal opposition from the American Medical Association and the Children's Hospital Association during its comment period. An HHS document obtained by NPR showed the funding-cutoff rule is being shelved, marking a rare walk-back in an area where the administration has otherwise expanded enforcement: a separate rule barring federal Medicaid reimbursement specifically for transgender pediatric patients remains in the final stage of review and is on track to take effect within weeks, and the Justice Department continues issuing subpoenas to hospitals for transgender youths' medical files, though courts have blocked many of those attempts. The walk-back followed the Supreme Court's June 30 ruling upholding state bans on transgender athletes in women's sports, part of the same second-term push HHS Secretary Robert F. Kennedy Jr. has called ending 'transgender insanity.'",
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/07/13/nx-s1-5888586/transgender-gender-affirming-care-medicare-medicaid-hhs"
+      },
+      {
+        "name": "KPBS",
+        "url": "https://www.kpbs.org/news/health/2026/07/13/trumps-hhs-shelves-threat-to-withhold-medicare-and-medicaid-funding-over-trans-care"
+      }
+    ]
+  },
+  {
     "date": "2026-06-30",
     "category": "Crypto & Personal Profit",
     "title": "Disclosure: Trump made at least $1.4 billion from crypto in 2025",
@@ -2439,7 +2599,7 @@ window.ENTRIES = [
     "category": "Economy, Tariffs & Foreign Policy",
     "title": "50% tariff on Brazil over Bolsonaro prosecution",
     "summary": "Trump imposed a 50% tariff on Brazilian goods, explicitly citing the criminal trial of his ally, former president Jair Bolsonaro — using trade policy to pressure another country's courts.",
-    "details": "In a July 9, 2025 letter to President Lula da Silva, Trump announced a 50% tariff on Brazilian imports effective August 1, citing what he called a 'witch hunt' against former president Jair Bolsonaro, who was on trial for attempting a coup after losing the 2022 election, along with Brazilian court rulings against U.S. social media companies. It was unusual on two counts: the U.S. runs a trade surplus with Brazil, and the stated reason was another democracy's judicial process rather than trade. Bolsonaro was convicted in September 2025 and sentenced to 27 years in prison. As coffee and beef prices climbed in U.S. stores, the administration exempted many Brazilian food products in November 2025. After the Supreme Court voided IEEPA tariffs in February 2026, the administration rebuilt a 40% Brazil tariff on other legal grounds tied to the Bolsonaro prosecution, and in June 2026 threatened an additional 25% over Brazilian trade practices as the two governments negotiated.",
+    "details": "In a July 9, 2025 letter to President Lula da Silva, Trump announced a 50% tariff on Brazilian imports effective August 1, citing what he called a 'witch hunt' against former president Jair Bolsonaro, who was on trial for attempting a coup after losing the 2022 election, along with Brazilian court rulings against U.S. social media companies. It was unusual on two counts: the U.S. runs a trade surplus with Brazil, and the stated reason was another democracy's judicial process rather than trade. Bolsonaro was convicted in September 2025 and sentenced to 27 years in prison. As coffee and beef prices climbed in U.S. stores, the administration exempted many Brazilian food products in November 2025. After the Supreme Court voided IEEPA tariffs in February 2026, the administration rebuilt a 40% Brazil tariff on other legal grounds tied to the Bolsonaro prosecution, and in June 2026 threatened an additional 25% over Brazilian trade practices as the two governments negotiated. On July 15, 2026, USTR made good on that threat, finalizing a separate 25% tariff on Brazilian goods under Section 301 of the Trade Act, effective July 22 — citing Brazil's digital-trade and electronic-payment restrictions, preferential tariffs, weak anti-corruption enforcement and IP protection, limited ethanol market access, and illegal deforestation, layering a second legal track of tariffs on top of the Bolsonaro-related ones.",
     "sources": [
       {
         "name": "NBC News",
@@ -2452,6 +2612,10 @@ window.ENTRIES = [
       {
         "name": "Troutman Pepper Locke",
         "url": "https://www.troutman.com/insights/us-expands-exemptions-on-reciprocal-tariffs-and-brazil-tariffs-and-announces-framework-trade-deals-with-additional-trading-partners/"
+      },
+      {
+        "name": "USTR",
+        "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ustr-section-301-action-brazils-unreasonable-acts-policies-and-practices"
       }
     ]
   },
