@@ -2,7 +2,7 @@
 
 A plain-English, source-cited record of what the Trump administration has done — and promised but not done — since the 2024 election. Every entry has a date, a one-line summary, a longer explanation written for someone hearing about it for the first time, and links to reputable sources (AP, Reuters, NPR, court filings, government documents, major outlets).
 
-217 entries across ten categories:
+225 entries across ten categories:
 
 - **Crypto & Personal Profit** — WLF, USD1, the MGX $2B / UAE chips linkage, the memecoin, Justin Sun, the Qatar jet, golf costs, the $230M DOJ demand
 - **Pardons & Rule of Law** — Jan 6, CZ, the pardon-lobbying economy, Comey/James, law-firm orders, the Bove judgeship
